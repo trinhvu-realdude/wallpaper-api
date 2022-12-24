@@ -1,7 +1,7 @@
 [ {
   "name" : "Ferrari 2021",
   "title" : "Ferrari 2021 Wallpaper",
-  "folderName" : "Ferrari 2021 Wallpaper",
+  "folderName" : "Ferrari2021Wallpaper",
   "url" : "/ferrari-2021",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/7332134.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Cosmos",
   "title" : "Cosmos Wallpaper",
-  "folderName" : "Cosmos Wallpaper",
+  "folderName" : "CosmosWallpaper",
   "url" : "/cosmos",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/322464.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Galaxy",
   "title" : "Galaxy Wallpaper",
-  "folderName" : "Galaxy Wallpaper",
+  "folderName" : "GalaxyWallpaper",
   "url" : "/galexy",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/665809.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Planets all in 8K UHD",
   "title" : "Planets all in 8K UHD Wallpaper",
-  "folderName" : "Planets all in 8K UHD Wallpaper",
+  "folderName" : "Planetsallin8KUHDWallpaper",
   "url" : "/plantes-allin-8k-uhd",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/712285.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Solar System HD",
   "title" : "Solar System HD Wallpaper",
-  "folderName" : "Solar System HD Wallpaper",
+  "folderName" : "SolarSystemHDWallpaper",
   "url" : "/solar-system-hd",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/37637.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Space Nebula",
   "title" : "Space Nebula Wallpaper",
-  "folderName" : "Space Nebula Wallpaper",
+  "folderName" : "SpaceNebulaWallpaper",
   "url" : "/space-nebula",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/45416.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Sci-Fi Space",
   "title" : "Sci-Fi Space Wallpaper",
-  "folderName" : "Sci-Fi Space Wallpaper",
+  "folderName" : "Sci-FiSpaceWallpaper",
   "url" : "/sci-fi-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/166017.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Astronaut On Moon",
   "title" : "Astronaut On Moon Wallpaper",
-  "folderName" : "Astronaut On Moon Wallpaper",
+  "folderName" : "AstronautOnMoonWallpaper",
   "url" : "/astronaut-on-moon",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/145397.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Astronaut in Space",
   "title" : "Astronaut in Space Wallpaper",
-  "folderName" : "Astronaut in Space Wallpaper",
+  "folderName" : "AstronautinSpaceWallpaper",
   "url" : "/astronaut-in-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/19355.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Full Moon",
   "title" : "Full Moon Wallpaper",
-  "folderName" : "Full Moon Wallpaper",
+  "folderName" : "FullMoonWallpaper",
   "url" : "/full-moon",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/279114.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Blood Moon",
   "title" : "Blood Moon Wallpaper",
-  "folderName" : "Blood Moon Wallpaper",
+  "folderName" : "BloodMoonWallpaper",
   "url" : "/blood-moon",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/91168.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "8K Ultra HD Space",
   "title" : "8K Ultra HD Space Wallpaper",
-  "folderName" : "8K Ultra HD Space Wallpaper",
+  "folderName" : "8KUltraHDSpaceWallpaper",
   "url" : "/8k-ultra-hd-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/511885.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Epic Space",
   "title" : "Epic Space Wallpaper",
-  "folderName" : "Epic Space Wallpaper",
+  "folderName" : "EpicSpaceWallpaper",
   "url" : "/epic-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/424655.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Solar Eclipse 4K",
   "title" : "Solar Eclipse 4K Wallpaper",
-  "folderName" : "Solar Eclipse 4K Wallpaper",
+  "folderName" : "SolarEclipse4KWallpaper",
   "url" : "/solar-eclipse-4k",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/204941.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Hubble Space Photos",
   "title" : "Hubble Space Photos Wallpaper",
-  "folderName" : "Hubble Space Photos Wallpaper",
+  "folderName" : "HubbleSpacePhotosWallpaper",
   "url" : "/hubble-space-photos",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/13132.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Cool Universe",
   "title" : "Cool Universe Wallpaper",
-  "folderName" : "Cool Universe Wallpaper",
+  "folderName" : "CoolUniverseWallpaper",
   "url" : "/cool-universe",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/477150.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Celestial Space",
   "title" : "Celestial Space Wallpaper",
-  "folderName" : "Celestial Space Wallpaper",
+  "folderName" : "CelestialSpaceWallpaper",
   "url" : "/celestial-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/422515.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Milky Way Galaxy",
   "title" : "Milky Way Galaxy Wallpaper",
-  "folderName" : "Milky Way Galaxy Wallpaper",
+  "folderName" : "MilkyWayGalaxyWallpaper",
   "url" : "/milky-way-galaxy",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/50921.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Blue Solar Flare",
   "title" : "Blue Solar Flare Wallpaper",
-  "folderName" : "Blue Solar Flare Wallpaper",
+  "folderName" : "BlueSolarFlareWallpaper",
   "url" : "/blue-solar-flare",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/184307.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Earth From Space",
   "title" : "Earth From Space Wallpaper",
-  "folderName" : "Earth From Space Wallpaper",
+  "folderName" : "EarthFromSpaceWallpaper",
   "url" : "/earth-from-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/186462.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Jupiter 4K",
   "title" : "Jupiter 4K Wallpaper",
-  "folderName" : "Jupiter 4K Wallpaper",
+  "folderName" : "Jupiter4KWallpaper",
   "url" : "/jupiter-4k",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/223952.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "NASA Moon",
   "title" : "NASA Moon Wallpaper",
-  "folderName" : "NASA Moon Wallpaper",
+  "folderName" : "NASAMoonWallpaper",
   "url" : "/nasa-moon",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1572.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "NASA Astronaut",
   "title" : "NASA Astronaut Wallpaper",
-  "folderName" : "NASA Astronaut Wallpaper",
+  "folderName" : "NASAAstronautWallpaper",
   "url" : "/nasa-astronaut",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/19387.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Blue Universe Space",
   "title" : "Blue Universe Space Wallpaper",
-  "folderName" : "Blue Universe Space Wallpaper",
+  "folderName" : "BlueUniverseSpaceWallpaper",
   "url" : "/blue-universe-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/44211.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Tarantula Nebula",
   "title" : "Tarantula Nebula Wallpaper",
-  "folderName" : "Tarantula Nebula Wallpaper",
+  "folderName" : "TarantulaNebulaWallpaper",
   "url" : "/tarantula-nebula",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/293116.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "4K Ultra HD Galaxy",
   "title" : "4K Ultra HD Galaxy Wallpaper",
-  "folderName" : "4K Ultra HD Galaxy Wallpaper",
+  "folderName" : "4KUltraHDGalaxyWallpaper",
   "url" : "/4k-ultra-hd-galaxy",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/250472.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Abstract Space",
   "title" : "Abstract Space Wallpaper",
-  "folderName" : "Abstract Space Wallpaper",
+  "folderName" : "AbstractSpaceWallpaper",
   "url" : "/abstract-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/388238.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "4K Earth",
   "title" : "4K Earth Wallpaper",
-  "folderName" : "4K Earth Wallpaper",
+  "folderName" : "4KEarthWallpaper",
   "url" : "/4k-earth",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/19602.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Earth",
   "title" : "Earth Wallpaper",
-  "folderName" : "Earth Wallpaper",
+  "folderName" : "EarthWallpaper",
   "url" : "/earth",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/52268.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Outer Space",
   "title" : "Outer Space Wallpaper",
-  "folderName" : "Outer Space Wallpaper",
+  "folderName" : "OuterSpaceWallpaper",
   "url" : "/outer-space",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/17068.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Black Hole",
   "title" : "Black Hole Wallpaper",
-  "folderName" : "Black Hole Wallpaper",
+  "folderName" : "BlackHoleWallpaper",
   "url" : "/black-hole",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/13391.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Stars",
   "title" : "Stars Wallpaper",
-  "folderName" : "Stars Wallpaper",
+  "folderName" : "StarsWallpaper",
   "url" : "/stars",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/17493.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Galaxy",
   "title" : "Galaxy Wallpaper",
-  "folderName" : "Galaxy Wallpaper",
+  "folderName" : "GalaxyWallpaper",
   "url" : "/galaxy",
   "category" : "/space",
   "thumbSource" : "https://wallpaperaccess.com/thumb/31366.jpg",

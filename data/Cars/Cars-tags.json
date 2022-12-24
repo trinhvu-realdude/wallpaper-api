@@ -1,7 +1,7 @@
 [ {
   "name" : "Dacia",
   "title" : "Dacia Wallpaper",
-  "folderName" : "Dacia Wallpaper",
+  "folderName" : "DaciaWallpaper",
   "url" : "/dacia",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/6053404.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Super Mario Galaxy 2",
   "title" : "Super Mario Galaxy 2 Wallpaper",
-  "folderName" : "Super Mario Galaxy 2 Wallpaper",
+  "folderName" : "SuperMarioGalaxy2Wallpaper",
   "url" : "/super-mario-galaxy-2",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/3339616.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Alfa Romeo Giulia",
   "title" : "Alfa Romeo Giulia Wallpaper",
-  "folderName" : "Alfa Romeo Giulia Wallpaper",
+  "folderName" : "AlfaRomeoGiuliaWallpaper",
   "url" : "/alfa-romeo-giulia",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1640970.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Mercedes-Benz AMG A45",
   "title" : "Mercedes-Benz AMG A45 Wallpaper",
-  "folderName" : "Mercedes-Benz AMG A45 Wallpaper",
+  "folderName" : "Mercedes-BenzAMGA45Wallpaper",
   "url" : "/mercedes-benz-amg-a45",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2516608.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Lexus IS",
   "title" : "Lexus IS Wallpaper",
-  "folderName" : "Lexus IS Wallpaper",
+  "folderName" : "LexusISWallpaper",
   "url" : "/lexus-is",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1974665.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Jeep Renegade",
   "title" : "Jeep Renegade Wallpaper",
-  "folderName" : "Jeep Renegade Wallpaper",
+  "folderName" : "JeepRenegadeWallpaper",
   "url" : "/jeep-renegade",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2206375.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Tesla Cybertruck",
   "title" : "Tesla Cybertruck Wallpaper",
-  "folderName" : "Tesla Cybertruck Wallpaper",
+  "folderName" : "TeslaCybertruckWallpaper",
   "url" : "/tesla-cybertruck",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1815107.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Rolls Royce Phantom",
   "title" : "Rolls Royce Phantom Wallpaper",
-  "folderName" : "Rolls Royce Phantom Wallpaper",
+  "folderName" : "RollsRoycePhantomWallpaper",
   "url" : "/rolls-royce-phantom",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1456375.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Porsche 992",
   "title" : "Porsche 992 Wallpaper",
-  "folderName" : "Porsche 992 Wallpaper",
+  "folderName" : "Porsche992Wallpaper",
   "url" : "/porsche-992",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1217069.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Audi A4",
   "title" : "Audi A4 Wallpaper",
-  "folderName" : "Audi A4 Wallpaper",
+  "folderName" : "AudiA4Wallpaper",
   "url" : "/audi-a4",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1672407.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Porsche Taycan",
   "title" : "Porsche Taycan Wallpaper",
-  "folderName" : "Porsche Taycan Wallpaper",
+  "folderName" : "PorscheTaycanWallpaper",
   "url" : "/porsche-taycan",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1665927.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Buggatti",
   "title" : "Buggatti Wallpaper",
-  "folderName" : "Buggatti Wallpaper",
+  "folderName" : "BuggattiWallpaper",
   "url" : "/buggatti",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/657750.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Saab",
   "title" : "Saab Wallpaper",
-  "folderName" : "Saab Wallpaper",
+  "folderName" : "SaabWallpaper",
   "url" : "/saab",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1642249.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Opel",
   "title" : "Opel Wallpaper",
-  "folderName" : "Opel Wallpaper",
+  "folderName" : "OpelWallpaper",
   "url" : "/opel",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1642176.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "MINI",
   "title" : "MINI Wallpaper",
-  "folderName" : "MINI Wallpaper",
+  "folderName" : "MINIWallpaper",
   "url" : "/mini",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1642109.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Kia",
   "title" : "Kia Wallpaper",
-  "folderName" : "Kia Wallpaper",
+  "folderName" : "KiaWallpaper",
   "url" : "/kia",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1642060.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Geely",
   "title" : "Geely Wallpaper",
-  "folderName" : "Geely Wallpaper",
+  "folderName" : "GeelyWallpaper",
   "url" : "/geely",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1641168.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Genesis",
   "title" : "Genesis Wallpaper",
-  "folderName" : "Genesis Wallpaper",
+  "folderName" : "GenesisWallpaper",
   "url" : "/genesis",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1641283.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Citroen",
   "title" : "Citroen Wallpaper",
-  "folderName" : "Citroen Wallpaper",
+  "folderName" : "CitroenWallpaper",
   "url" : "/citroen",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1641138.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Cadillac",
   "title" : "Cadillac Wallpaper",
-  "folderName" : "Cadillac Wallpaper",
+  "folderName" : "CadillacWallpaper",
   "url" : "/cadillac",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1179728.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Chrysler",
   "title" : "Chrysler Wallpaper",
-  "folderName" : "Chrysler Wallpaper",
+  "folderName" : "ChryslerWallpaper",
   "url" : "/chrysler",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1423895.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "Acura",
   "title" : "Acura Wallpaper",
-  "folderName" : "Acura Wallpaper",
+  "folderName" : "AcuraWallpaper",
   "url" : "/acura",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1641024.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "Alfa Romeo",
   "title" : "Alfa Romeo Wallpaper",
-  "folderName" : "Alfa Romeo Wallpaper",
+  "folderName" : "AlfaRomeoWallpaper",
   "url" : "/alfa-romeo",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1640968.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Lexus",
   "title" : "Lexus Wallpaper",
-  "folderName" : "Lexus Wallpaper",
+  "folderName" : "LexusWallpaper",
   "url" : "/lexus",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1613266.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Mitsubishi",
   "title" : "Mitsubishi Wallpaper",
-  "folderName" : "Mitsubishi Wallpaper",
+  "folderName" : "MitsubishiWallpaper",
   "url" : "/mitsubishi",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1352466.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Jaguar Car",
   "title" : "Jaguar Car Wallpaper",
-  "folderName" : "Jaguar Car Wallpaper",
+  "folderName" : "JaguarCarWallpaper",
   "url" : "/jaguar-car",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1604054.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Infiniti",
   "title" : "Infiniti Wallpaper",
-  "folderName" : "Infiniti Wallpaper",
+  "folderName" : "InfinitiWallpaper",
   "url" : "/infiniti",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1599867.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "Buick",
   "title" : "Buick Wallpaper",
-  "folderName" : "Buick Wallpaper",
+  "folderName" : "BuickWallpaper",
   "url" : "/buick",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1587492.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Toyota",
   "title" : "Toyota Wallpaper",
-  "folderName" : "Toyota Wallpaper",
+  "folderName" : "ToyotaWallpaper",
   "url" : "/toyota",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1401526.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Hyundai",
   "title" : "Hyundai Wallpaper",
-  "folderName" : "Hyundai Wallpaper",
+  "folderName" : "HyundaiWallpaper",
   "url" : "/hyundai",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1518931.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Land Rover",
   "title" : "Land Rover Wallpaper",
-  "folderName" : "Land Rover Wallpaper",
+  "folderName" : "LandRoverWallpaper",
   "url" : "/land-rover",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1485914.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Nissan",
   "title" : "Nissan Wallpaper",
-  "folderName" : "Nissan Wallpaper",
+  "folderName" : "NissanWallpaper",
   "url" : "/nissan",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1451301.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Fiat",
   "title" : "Fiat Wallpaper",
-  "folderName" : "Fiat Wallpaper",
+  "folderName" : "FiatWallpaper",
   "url" : "/fiat",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1311332.jpg",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Mazda",
   "title" : "Mazda Wallpaper",
-  "folderName" : "Mazda Wallpaper",
+  "folderName" : "MazdaWallpaper",
   "url" : "/mazda",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1108076.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Renault",
   "title" : "Renault Wallpaper",
-  "folderName" : "Renault Wallpaper",
+  "folderName" : "RenaultWallpaper",
   "url" : "/renault",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1271157.jpg",
@@ -281,7 +281,7 @@
 }, {
   "name" : "Skoda",
   "title" : "Skoda Wallpaper",
-  "folderName" : "Skoda Wallpaper",
+  "folderName" : "SkodaWallpaper",
   "url" : "/skoda",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1268178.jpg",
@@ -289,7 +289,7 @@
 }, {
   "name" : "Volvo",
   "title" : "Volvo Wallpaper",
-  "folderName" : "Volvo Wallpaper",
+  "folderName" : "VolvoWallpaper",
   "url" : "/volvo",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1266124.jpg",
@@ -297,7 +297,7 @@
 }, {
   "name" : "Peugeot",
   "title" : "Peugeot Wallpaper",
-  "folderName" : "Peugeot Wallpaper",
+  "folderName" : "PeugeotWallpaper",
   "url" : "/peugeot",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1257546.jpg",
@@ -305,7 +305,7 @@
 }, {
   "name" : "BMW",
   "title" : "BMW Wallpaper",
-  "folderName" : "BMW Wallpaper",
+  "folderName" : "BMWWallpaper",
   "url" : "/bmw",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1152696.jpg",
@@ -313,7 +313,7 @@
 }, {
   "name" : "Audi",
   "title" : "Audi Wallpaper",
-  "folderName" : "Audi Wallpaper",
+  "folderName" : "AudiWallpaper",
   "url" : "/audi",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1131075.jpg",
@@ -321,7 +321,7 @@
 }, {
   "name" : "Jeep",
   "title" : "Jeep Wallpaper",
-  "folderName" : "Jeep Wallpaper",
+  "folderName" : "JeepWallpaper",
   "url" : "/jeep",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1096642.jpg",
@@ -329,7 +329,7 @@
 }, {
   "name" : "Volkswagen",
   "title" : "Volkswagen Wallpaper",
-  "folderName" : "Volkswagen Wallpaper",
+  "folderName" : "VolkswagenWallpaper",
   "url" : "/volkswagen",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1087479.jpg",
@@ -337,7 +337,7 @@
 }, {
   "name" : "Tesla Roadster",
   "title" : "Tesla Roadster Wallpaper",
-  "folderName" : "Tesla Roadster Wallpaper",
+  "folderName" : "TeslaRoadsterWallpaper",
   "url" : "/tesla-roadster",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/865441.jpg",
@@ -345,7 +345,7 @@
 }, {
   "name" : "Mercedes-Benz",
   "title" : "Mercedes-Benz Wallpaper",
-  "folderName" : "Mercedes-Benz Wallpaper",
+  "folderName" : "Mercedes-BenzWallpaper",
   "url" : "/mercedes-benz",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/782236.jpg",
@@ -353,7 +353,7 @@
 }, {
   "name" : "Rolls Royce",
   "title" : "Rolls Royce Wallpaper",
-  "folderName" : "Rolls Royce Wallpaper",
+  "folderName" : "RollsRoyceWallpaper",
   "url" : "/rolls-royce",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/679508.jpg",
@@ -361,7 +361,7 @@
 }, {
   "name" : "Toyota 4K",
   "title" : "Toyota 4K Wallpaper",
-  "folderName" : "Toyota 4K Wallpaper",
+  "folderName" : "Toyota4KWallpaper",
   "url" : "/toyota-4k",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/439490.jpg",
@@ -369,7 +369,7 @@
 }, {
   "name" : "4K BMW",
   "title" : "4K BMW Wallpaper",
-  "folderName" : "4K BMW Wallpaper",
+  "folderName" : "4KBMWWallpaper",
   "url" : "/4k-bmw",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/338363.jpg",
@@ -377,7 +377,7 @@
 }, {
   "name" : "Honda",
   "title" : "Honda Wallpaper",
-  "folderName" : "Honda Wallpaper",
+  "folderName" : "HondaWallpaper",
   "url" : "/honda",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/286400.jpg",
@@ -385,7 +385,7 @@
 }, {
   "name" : "Ford",
   "title" : "Ford Wallpaper",
-  "folderName" : "Ford Wallpaper",
+  "folderName" : "FordWallpaper",
   "url" : "/ford",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/186096.jpg",
@@ -393,7 +393,7 @@
 }, {
   "name" : "Dodge",
   "title" : "Dodge Wallpaper",
-  "folderName" : "Dodge Wallpaper",
+  "folderName" : "DodgeWallpaper",
   "url" : "/dodge",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/383215.jpg",
@@ -401,7 +401,7 @@
 }, {
   "name" : "Bentley",
   "title" : "Bentley Wallpaper",
-  "folderName" : "Bentley Wallpaper",
+  "folderName" : "BentleyWallpaper",
   "url" : "/bentley",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/441426.jpg",
@@ -409,7 +409,7 @@
 }, {
   "name" : "McLaren",
   "title" : "McLaren Wallpaper",
-  "folderName" : "McLaren Wallpaper",
+  "folderName" : "McLarenWallpaper",
   "url" : "/mclaren",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/443391.jpg",
@@ -417,7 +417,7 @@
 }, {
   "name" : "Porsche",
   "title" : "Porsche Wallpaper",
-  "folderName" : "Porsche Wallpaper",
+  "folderName" : "PorscheWallpaper",
   "url" : "/porsche",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/504707.jpg",
@@ -425,7 +425,7 @@
 }, {
   "name" : "Maserati",
   "title" : "Maserati Wallpaper",
-  "folderName" : "Maserati Wallpaper",
+  "folderName" : "MaseratiWallpaper",
   "url" : "/maserati",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/238548.jpg",
@@ -433,7 +433,7 @@
 }, {
   "name" : "Koenigsegg One 1",
   "title" : "Koenigsegg One 1 Wallpaper",
-  "folderName" : "Koenigsegg One 1 Wallpaper",
+  "folderName" : "KoenigseggOne1Wallpaper",
   "url" : "/koenigsegg-one-1",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/92998.jpg",
@@ -441,7 +441,7 @@
 }, {
   "name" : "Lotus Car",
   "title" : "Lotus Car Wallpaper",
-  "folderName" : "Lotus Car Wallpaper",
+  "folderName" : "LotusCarWallpaper",
   "url" : "/lotus-car",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/120180.jpg",
@@ -449,7 +449,7 @@
 }, {
   "name" : "Mustang",
   "title" : "Mustang Wallpaper",
-  "folderName" : "Mustang Wallpaper",
+  "folderName" : "MustangWallpaper",
   "url" : "/mustang",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/124129.jpg",
@@ -457,7 +457,7 @@
 }, {
   "name" : "Pagani",
   "title" : "Pagani Wallpaper",
-  "folderName" : "Pagani Wallpaper",
+  "folderName" : "PaganiWallpaper",
   "url" : "/pagani",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/482282.jpg",
@@ -465,7 +465,7 @@
 }, {
   "name" : "Bugatti",
   "title" : "Bugatti Wallpaper",
-  "folderName" : "Bugatti Wallpaper",
+  "folderName" : "BugattiWallpaper",
   "url" : "/bugatti",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/161716.jpg",
@@ -473,7 +473,7 @@
 }, {
   "name" : "Tesla",
   "title" : "Tesla Wallpaper",
-  "folderName" : "Tesla Wallpaper",
+  "folderName" : "TeslaWallpaper",
   "url" : "/tesla",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/486496.jpg",
@@ -481,7 +481,7 @@
 }, {
   "name" : "Future Cars",
   "title" : "Future Cars Wallpaper",
-  "folderName" : "Future Cars Wallpaper",
+  "folderName" : "FutureCarsWallpaper",
   "url" : "/future-cars",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/122375.jpg",
@@ -489,7 +489,7 @@
 }, {
   "name" : "Awesome Cars",
   "title" : "Awesome Cars Wallpaper",
-  "folderName" : "Awesome Cars Wallpaper",
+  "folderName" : "AwesomeCarsWallpaper",
   "url" : "/awesome-cars",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/47456.jpg",
@@ -497,7 +497,7 @@
 }, {
   "name" : "Subaru",
   "title" : "Subaru Wallpaper",
-  "folderName" : "Subaru Wallpaper",
+  "folderName" : "SubaruWallpaper",
   "url" : "/subaru",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/329480.jpg",
@@ -505,7 +505,7 @@
 }, {
   "name" : "Subaru Rally Car",
   "title" : "Subaru Rally Car Wallpaper",
-  "folderName" : "Subaru Rally Car Wallpaper",
+  "folderName" : "SubaruRallyCarWallpaper",
   "url" : "/subaru-rally-car",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/93136.jpg",
@@ -513,7 +513,7 @@
 }, {
   "name" : "Aston Martin",
   "title" : "Aston Martin Wallpaper",
-  "folderName" : "Aston Martin Wallpaper",
+  "folderName" : "AstonMartinWallpaper",
   "url" : "/aston-martin",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/227868.jpg",
@@ -521,7 +521,7 @@
 }, {
   "name" : "Ferrari",
   "title" : "Ferrari Wallpaper",
-  "folderName" : "Ferrari Wallpaper",
+  "folderName" : "FerrariWallpaper",
   "url" : "/ferrari",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/35798.jpg",
@@ -529,7 +529,7 @@
 }, {
   "name" : "Audi R8",
   "title" : "Audi R8 Wallpaper",
-  "folderName" : "Audi R8 Wallpaper",
+  "folderName" : "AudiR8Wallpaper",
   "url" : "/audi-r8",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/26891.jpg",
@@ -537,7 +537,7 @@
 }, {
   "name" : "Chevy Muscle Car",
   "title" : "Chevy Muscle Car Wallpaper",
-  "folderName" : "Chevy Muscle Car Wallpaper",
+  "folderName" : "ChevyMuscleCarWallpaper",
   "url" : "/chevy-muscle-car",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/44954.jpg",
@@ -545,7 +545,7 @@
 }, {
   "name" : "Fast and Furious Cars",
   "title" : "Fast and Furious Cars Wallpaper",
-  "folderName" : "Fast and Furious Cars Wallpaper",
+  "folderName" : "FastandFuriousCarsWallpaper",
   "url" : "/fast-and-furious-cars",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/14056.jpg",
@@ -553,7 +553,7 @@
 }, {
   "name" : "Old Cars",
   "title" : "Old Cars Wallpaper",
-  "folderName" : "Old Cars Wallpaper",
+  "folderName" : "OldCarsWallpaper",
   "url" : "/old-cars",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/40429.jpg",
@@ -561,7 +561,7 @@
 }, {
   "name" : "Koenigsegg",
   "title" : "Koenigsegg Wallpaper",
-  "folderName" : "Koenigsegg Wallpaper",
+  "folderName" : "KoenigseggWallpaper",
   "url" : "/koenigsegg",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/42411.jpg",
@@ -569,7 +569,7 @@
 }, {
   "name" : "Big Cars",
   "title" : "Big Cars Wallpaper",
-  "folderName" : "Big Cars Wallpaper",
+  "folderName" : "BigCarsWallpaper",
   "url" : "/big-cars",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/45712.jpg",
@@ -577,7 +577,7 @@
 }, {
   "name" : "Lamborghini",
   "title" : "Lamborghini Wallpaper",
-  "folderName" : "Lamborghini Wallpaper",
+  "folderName" : "LamborghiniWallpaper",
   "url" : "/lamborghini",
   "category" : "/cars",
   "thumbSource" : "https://wallpaperaccess.com/thumb/27981.jpg",

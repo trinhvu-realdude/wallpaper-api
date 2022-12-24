@@ -1,7 +1,7 @@
 [ {
   "name" : "MIUI 10",
   "title" : "MIUI 10 Wallpaper",
-  "folderName" : "MIUI 10 Wallpaper",
+  "folderName" : "MIUI10Wallpaper",
   "url" : "/miui-10",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/5028521.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Mi 11X",
   "title" : "Mi 11X Wallpaper",
-  "folderName" : "Mi 11X Wallpaper",
+  "folderName" : "Mi11XWallpaper",
   "url" : "/mi-11x",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/7875231.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "iPad Air 2020",
   "title" : "iPad Air 2020 Wallpaper",
-  "folderName" : "iPad Air 2020 Wallpaper",
+  "folderName" : "iPadAir2020Wallpaper",
   "url" : "/ipad-air-2020",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/7145524.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "iPhone 13 Pro Max",
   "title" : "iPhone 13 Pro Max Wallpaper",
-  "folderName" : "iPhone 13 Pro Max Wallpaper",
+  "folderName" : "iPhone13ProMaxWallpaper",
   "url" : "/iphone-13-pro-max",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/6988025.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "iPhone 13",
   "title" : "iPhone 13 Wallpaper",
-  "folderName" : "iPhone 13 Wallpaper",
+  "folderName" : "iPhone13Wallpaper",
   "url" : "/iphone-13",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/6998748.png",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Pixel 5",
   "title" : "Pixel 5 Wallpaper",
-  "folderName" : "Pixel 5 Wallpaper",
+  "folderName" : "Pixel5Wallpaper",
   "url" : "/pixel-5",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/4022770.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Samsung M40",
   "title" : "Samsung M40 Wallpaper",
-  "folderName" : "Samsung M40 Wallpaper",
+  "folderName" : "SamsungM40Wallpaper",
   "url" : "/samsung-m40",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568981.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Samsung Galaxy M31",
   "title" : "Samsung Galaxy M31 Wallpaper",
-  "folderName" : "Samsung Galaxy M31 Wallpaper",
+  "folderName" : "SamsungGalaxyM31Wallpaper",
   "url" : "/samsung-galaxy-m31",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2661054.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "iPhone SE 2020",
   "title" : "iPhone SE 2020 Wallpaper",
-  "folderName" : "iPhone SE 2020 Wallpaper",
+  "folderName" : "iPhoneSE2020Wallpaper",
   "url" : "/iphone-se-2020",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2639119.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Huawei P40 Pro",
   "title" : "Huawei P40 Pro Wallpaper",
-  "folderName" : "Huawei P40 Pro Wallpaper",
+  "folderName" : "HuaweiP40ProWallpaper",
   "url" : "/huawei-p40-pro",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1983848.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Huawei P40",
   "title" : "Huawei P40 Wallpaper",
-  "folderName" : "Huawei P40 Wallpaper",
+  "folderName" : "HuaweiP40Wallpaper",
   "url" : "/huawei-p40",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2478806.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Samsung A71",
   "title" : "Samsung A71 Wallpaper",
-  "folderName" : "Samsung A71 Wallpaper",
+  "folderName" : "SamsungA71Wallpaper",
   "url" : "/samsung-a71",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2310495.png",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Xiaomi Mi A3",
   "title" : "Xiaomi Mi A3 Wallpaper",
-  "folderName" : "Xiaomi Mi A3 Wallpaper",
+  "folderName" : "XiaomiMiA3Wallpaper",
   "url" : "/xiaomi-mi-a3",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2185450.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Samsung A9",
   "title" : "Samsung A9 Wallpaper",
-  "folderName" : "Samsung A9 Wallpaper",
+  "folderName" : "SamsungA9Wallpaper",
   "url" : "/samsung-a9",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2169451.png",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Galaxy S11",
   "title" : "Galaxy S11 Wallpaper",
-  "folderName" : "Galaxy S11 Wallpaper",
+  "folderName" : "GalaxyS11Wallpaper",
   "url" : "/galaxy-s11",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2161403.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Samsung A51",
   "title" : "Samsung A51 Wallpaper",
-  "folderName" : "Samsung A51 Wallpaper",
+  "folderName" : "SamsungA51Wallpaper",
   "url" : "/samsung-a51",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2146120.png",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Xiaomi K20 Pro",
   "title" : "Xiaomi K20 Pro Wallpaper",
-  "folderName" : "Xiaomi K20 Pro Wallpaper",
+  "folderName" : "XiaomiK20ProWallpaper",
   "url" : "/xiaomi-k20-pro",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2115917.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Samsung Galaxy S20",
   "title" : "Samsung Galaxy S20 Wallpaper",
-  "folderName" : "Samsung Galaxy S20 Wallpaper",
+  "folderName" : "SamsungGalaxyS20Wallpaper",
   "url" : "/samsung-galaxy-s20",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2061731.png",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Huawei Nova 6",
   "title" : "Huawei Nova 6 Wallpaper",
-  "folderName" : "Huawei Nova 6 Wallpaper",
+  "folderName" : "HuaweiNova6Wallpaper",
   "url" : "/huawei-nova-6",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2017752.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Huawei Mate 30",
   "title" : "Huawei Mate 30 Wallpaper",
-  "folderName" : "Huawei Mate 30 Wallpaper",
+  "folderName" : "HuaweiMate30Wallpaper",
   "url" : "/huawei-mate-30",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2015803.png",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Huawei P30 Pro",
   "title" : "Huawei P30 Pro Wallpaper",
-  "folderName" : "Huawei P30 Pro Wallpaper",
+  "folderName" : "HuaweiP30ProWallpaper",
   "url" : "/huawei-p30-pro",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1983858.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "BlackBerry Q10",
   "title" : "BlackBerry Q10 Wallpaper",
-  "folderName" : "BlackBerry Q10 Wallpaper",
+  "folderName" : "BlackBerryQ10Wallpaper",
   "url" : "/blackberry-q10",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1770869.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "Samsung Galaxy Note10",
   "title" : "Samsung Galaxy Note10 Wallpaper",
-  "folderName" : "Samsung Galaxy Note10 Wallpaper",
+  "folderName" : "SamsungGalaxyNote10Wallpaper",
   "url" : "/samsung-galaxy-note10",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1707795.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "iPad Pro 11",
   "title" : "iPad Pro 11 Wallpaper",
-  "folderName" : "iPad Pro 11 Wallpaper",
+  "folderName" : "iPadPro11Wallpaper",
   "url" : "/ipad-pro-11",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/898993.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Huawei Y9 2019",
   "title" : "Huawei Y9 2019 Wallpaper",
-  "folderName" : "Huawei Y9 2019 Wallpaper",
+  "folderName" : "HuaweiY92019Wallpaper",
   "url" : "/huawei-y9-2019",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1344889.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "iPhone 6 Plus",
   "title" : "iPhone 6 Plus Wallpaper",
-  "folderName" : "iPhone 6 Plus Wallpaper",
+  "folderName" : "iPhone6PlusWallpaper",
   "url" : "/iphone-6-plus",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/173289.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Huawei Y5",
   "title" : "Huawei Y5 Wallpaper",
-  "folderName" : "Huawei Y5 Wallpaper",
+  "folderName" : "HuaweiY5Wallpaper",
   "url" : "/huawei-y5",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1569340.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "IPad Air 2",
   "title" : "IPad Air 2 Wallpaper",
-  "folderName" : "IPad Air 2 Wallpaper",
+  "folderName" : "IPadAir2Wallpaper",
   "url" : "/ipad-air-2",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1569343.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Samsung Galaxy M40",
   "title" : "Samsung Galaxy M40 Wallpaper",
-  "folderName" : "Samsung Galaxy M40 Wallpaper",
+  "folderName" : "SamsungGalaxyM40Wallpaper",
   "url" : "/samsung-galaxy-m40",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568983.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Samsung Galaxy A9",
   "title" : "Samsung Galaxy A9 Wallpaper",
-  "folderName" : "Samsung Galaxy A9 Wallpaper",
+  "folderName" : "SamsungGalaxyA9Wallpaper",
   "url" : "/samsung-galaxy-a9",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1569085.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Samsung Galaxy J6",
   "title" : "Samsung Galaxy J6 Wallpaper",
-  "folderName" : "Samsung Galaxy J6 Wallpaper",
+  "folderName" : "SamsungGalaxyJ6Wallpaper",
   "url" : "/samsung-galaxy-j6",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1569086.png",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Samsung Galaxy A60",
   "title" : "Samsung Galaxy A60 Wallpaper",
-  "folderName" : "Samsung Galaxy A60 Wallpaper",
+  "folderName" : "SamsungGalaxyA60Wallpaper",
   "url" : "/samsung-galaxy-a60",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1569131.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Nokia 8",
   "title" : "Nokia 8 Wallpaper",
-  "folderName" : "Nokia 8 Wallpaper",
+  "folderName" : "Nokia8Wallpaper",
   "url" : "/nokia-8",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1345134.jpg",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Samsung Galaxy M20",
   "title" : "Samsung Galaxy M20 Wallpaper",
-  "folderName" : "Samsung Galaxy M20 Wallpaper",
+  "folderName" : "SamsungGalaxyM20Wallpaper",
   "url" : "/samsung-galaxy-m20",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568851.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Samsung Galaxy M10",
   "title" : "Samsung Galaxy M10 Wallpaper",
-  "folderName" : "Samsung Galaxy M10 Wallpaper",
+  "folderName" : "SamsungGalaxyM10Wallpaper",
   "url" : "/samsung-galaxy-m10",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568895.jpg",
@@ -281,7 +281,7 @@
 }, {
   "name" : "Samsung Galaxy View",
   "title" : "Samsung Galaxy View Wallpaper",
-  "folderName" : "Samsung Galaxy View Wallpaper",
+  "folderName" : "SamsungGalaxyViewWallpaper",
   "url" : "/samsung-galaxy-view",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1255110.png",
@@ -289,7 +289,7 @@
 }, {
   "name" : "Samsung Galaxy Tab S4",
   "title" : "Samsung Galaxy Tab S4 Wallpaper",
-  "folderName" : "Samsung Galaxy Tab S4 Wallpaper",
+  "folderName" : "SamsungGalaxyTabS4Wallpaper",
   "url" : "/samsung-galaxy-tab-s4",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568784.png",
@@ -297,7 +297,7 @@
 }, {
   "name" : "Sony Xperia XZ3",
   "title" : "Sony Xperia XZ3 Wallpaper",
-  "folderName" : "Sony Xperia XZ3 Wallpaper",
+  "folderName" : "SonyXperiaXZ3Wallpaper",
   "url" : "/sony-xperia-xz3",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568719.jpg",
@@ -305,7 +305,7 @@
 }, {
   "name" : "Xiaomi Redmi Note 7",
   "title" : "Xiaomi Redmi Note 7 Wallpaper",
-  "folderName" : "Xiaomi Redmi Note 7 Wallpaper",
+  "folderName" : "XiaomiRedmiNote7Wallpaper",
   "url" : "/xiaomi-redmi-note-7",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568633.jpg",
@@ -313,7 +313,7 @@
 }, {
   "name" : "Huawei Nova 5 Pro",
   "title" : "Huawei Nova 5 Pro Wallpaper",
-  "folderName" : "Huawei Nova 5 Pro Wallpaper",
+  "folderName" : "HuaweiNova5ProWallpaper",
   "url" : "/huawei-nova-5-pro",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568618.jpg",
@@ -321,7 +321,7 @@
 }, {
   "name" : "Huawei Enjoy 9e",
   "title" : "Huawei Enjoy 9e Wallpaper",
-  "folderName" : "Huawei Enjoy 9e Wallpaper",
+  "folderName" : "HuaweiEnjoy9eWallpaper",
   "url" : "/huawei-enjoy-9e",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568533.jpg",
@@ -329,7 +329,7 @@
 }, {
   "name" : "Huawei Mate 20 X",
   "title" : "Huawei Mate 20 X Wallpaper",
-  "folderName" : "Huawei Mate 20 X Wallpaper",
+  "folderName" : "HuaweiMate20XWallpaper",
   "url" : "/huawei-mate-20-x",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568461.jpg",
@@ -337,7 +337,7 @@
 }, {
   "name" : "Huawei Nova 4E",
   "title" : "Huawei Nova 4E Wallpaper",
-  "folderName" : "Huawei Nova 4E Wallpaper",
+  "folderName" : "HuaweiNova4EWallpaper",
   "url" : "/huawei-nova-4e",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568411.jpg",
@@ -345,7 +345,7 @@
 }, {
   "name" : "HTC Desire 19",
   "title" : "HTC Desire 19 Wallpaper",
-  "folderName" : "HTC Desire 19 Wallpaper",
+  "folderName" : "HTCDesire19Wallpaper",
   "url" : "/htc-desire-19",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568382.png",
@@ -353,7 +353,7 @@
 }, {
   "name" : "Google Pixel 2 XL",
   "title" : "Google Pixel 2 XL Wallpaper",
-  "folderName" : "Google Pixel 2 XL Wallpaper",
+  "folderName" : "GooglePixel2XLWallpaper",
   "url" : "/google-pixel-2-xl",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568308.jpg",
@@ -361,7 +361,7 @@
 }, {
   "name" : "Apple Watch Series",
   "title" : "Apple Watch Series Wallpaper",
-  "folderName" : "Apple Watch Series Wallpaper",
+  "folderName" : "AppleWatchSeriesWallpaper",
   "url" : "/apple-watch-series",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1568231.jpg",
@@ -369,7 +369,7 @@
 }, {
   "name" : "Apple IPad Pro",
   "title" : "Apple IPad Pro Wallpaper",
-  "folderName" : "Apple IPad Pro Wallpaper",
+  "folderName" : "AppleIPadProWallpaper",
   "url" : "/apple-ipad-pro",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/898993.jpg",
@@ -377,7 +377,7 @@
 }, {
   "name" : "iPhone 7 Plus",
   "title" : "iPhone 7 Plus Wallpaper",
-  "folderName" : "iPhone 7 Plus Wallpaper",
+  "folderName" : "iPhone7PlusWallpaper",
   "url" : "/iphone-7-plus",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/454863.png",
@@ -385,7 +385,7 @@
 }, {
   "name" : "iPhone 8",
   "title" : "iPhone 8 Wallpaper",
-  "folderName" : "iPhone 8 Wallpaper",
+  "folderName" : "iPhone8Wallpaper",
   "url" : "/iphone-8",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1543059.png",
@@ -393,7 +393,7 @@
 }, {
   "name" : "Samsung Galaxy S5",
   "title" : "Samsung Galaxy S5 Wallpaper",
-  "folderName" : "Samsung Galaxy S5 Wallpaper",
+  "folderName" : "SamsungGalaxyS5Wallpaper",
   "url" : "/samsung-galaxy-s5",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1500885.jpg",
@@ -401,7 +401,7 @@
 }, {
   "name" : "Samsung Galaxy S10e",
   "title" : "Samsung Galaxy S10e Wallpaper",
-  "folderName" : "Samsung Galaxy S10e Wallpaper",
+  "folderName" : "SamsungGalaxyS10eWallpaper",
   "url" : "/samsung-galaxy-s10e",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1232638.png",
@@ -409,7 +409,7 @@
 }, {
   "name" : "Samsung Galaxy A30",
   "title" : "Samsung Galaxy A30 Wallpaper",
-  "folderName" : "Samsung Galaxy A30 Wallpaper",
+  "folderName" : "SamsungGalaxyA30Wallpaper",
   "url" : "/samsung-galaxy-a30",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1449095.jpg",
@@ -417,7 +417,7 @@
 }, {
   "name" : "Samsung S9",
   "title" : "Samsung S9 Wallpaper",
-  "folderName" : "Samsung S9 Wallpaper",
+  "folderName" : "SamsungS9Wallpaper",
   "url" : "/samsung-s9",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1298472.jpg",
@@ -425,7 +425,7 @@
 }, {
   "name" : "Samsung Galaxy Note 2",
   "title" : "Samsung Galaxy Note 2 Wallpaper",
-  "folderName" : "Samsung Galaxy Note 2 Wallpaper",
+  "folderName" : "SamsungGalaxyNote2Wallpaper",
   "url" : "/samsung-galaxy-note-2",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1430302.jpg",
@@ -433,7 +433,7 @@
 }, {
   "name" : "Samsung Galaxy A80",
   "title" : "Samsung Galaxy A80 Wallpaper",
-  "folderName" : "Samsung Galaxy A80 Wallpaper",
+  "folderName" : "SamsungGalaxyA80Wallpaper",
   "url" : "/samsung-galaxy-a80",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1346263.jpg",
@@ -441,7 +441,7 @@
 }, {
   "name" : "Samsung Galaxy A6",
   "title" : "Samsung Galaxy A6 Wallpaper",
-  "folderName" : "Samsung Galaxy A6 Wallpaper",
+  "folderName" : "SamsungGalaxyA6Wallpaper",
   "url" : "/samsung-galaxy-a6",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/818899.jpg",
@@ -449,7 +449,7 @@
 }, {
   "name" : "Samsung Galaxy A70",
   "title" : "Samsung Galaxy A70 Wallpaper",
-  "folderName" : "Samsung Galaxy A70 Wallpaper",
+  "folderName" : "SamsungGalaxyA70Wallpaper",
   "url" : "/samsung-galaxy-a70",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1345859.jpg",
@@ -457,7 +457,7 @@
 }, {
   "name" : "Samsung Galaxy A50",
   "title" : "Samsung Galaxy A50 Wallpaper",
-  "folderName" : "Samsung Galaxy A50 Wallpaper",
+  "folderName" : "SamsungGalaxyA50Wallpaper",
   "url" : "/samsung-galaxy-a50",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1345769.jpg",
@@ -465,7 +465,7 @@
 }, {
   "name" : "Samsung Galaxy S10",
   "title" : "Samsung Galaxy S10 Wallpaper",
-  "folderName" : "Samsung Galaxy S10 Wallpaper",
+  "folderName" : "SamsungGalaxyS10Wallpaper",
   "url" : "/samsung-galaxy-s10",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1232648.jpg",
@@ -473,7 +473,7 @@
 }, {
   "name" : "Samsung Galaxy S9 Plus",
   "title" : "Samsung Galaxy S9 Plus Wallpaper",
-  "folderName" : "Samsung Galaxy S9 Plus Wallpaper",
+  "folderName" : "SamsungGalaxyS9PlusWallpaper",
   "url" : "/samsung-galaxy-s9-plus",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/297288.jpg",
@@ -481,7 +481,7 @@
 }, {
   "name" : "iPhone 11 Pro Max",
   "title" : "iPhone 11 Pro Max Wallpaper",
-  "folderName" : "iPhone 11 Pro Max Wallpaper",
+  "folderName" : "iPhone11ProMaxWallpaper",
   "url" : "/iphone-11-pro-max",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1340371.jpg",
@@ -489,7 +489,7 @@
 }, {
   "name" : "Samsung Galaxy S9",
   "title" : "Samsung Galaxy S9 Wallpaper",
-  "folderName" : "Samsung Galaxy S9 Wallpaper",
+  "folderName" : "SamsungGalaxyS9Wallpaper",
   "url" : "/samsung-galaxy-s9",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1255096.png",
@@ -497,7 +497,7 @@
 }, {
   "name" : "iPad Mini",
   "title" : "iPad Mini Wallpaper",
-  "folderName" : "iPad Mini Wallpaper",
+  "folderName" : "iPadMiniWallpaper",
   "url" : "/ipad-mini",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/802602.png",
@@ -505,7 +505,7 @@
 }, {
   "name" : "Samsung Galaxy Tablet",
   "title" : "Samsung Galaxy Tablet Wallpaper",
-  "folderName" : "Samsung Galaxy Tablet Wallpaper",
+  "folderName" : "SamsungGalaxyTabletWallpaper",
   "url" : "/samsung-galaxy-tablet",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1255399.png",
@@ -513,7 +513,7 @@
 }, {
   "name" : "Samsung Galaxy S4",
   "title" : "Samsung Galaxy S4 Wallpaper",
-  "folderName" : "Samsung Galaxy S4 Wallpaper",
+  "folderName" : "SamsungGalaxyS4Wallpaper",
   "url" : "/samsung-galaxy-s4",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1256187.jpg",
@@ -521,7 +521,7 @@
 }, {
   "name" : "Samsung Galaxy S7",
   "title" : "Samsung Galaxy S7 Wallpaper",
-  "folderName" : "Samsung Galaxy S7 Wallpaper",
+  "folderName" : "SamsungGalaxyS7Wallpaper",
   "url" : "/samsung-galaxy-s7",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1255560.jpg",
@@ -529,7 +529,7 @@
 }, {
   "name" : "Samsung Galaxy S3",
   "title" : "Samsung Galaxy S3 Wallpaper",
-  "folderName" : "Samsung Galaxy S3 Wallpaper",
+  "folderName" : "SamsungGalaxyS3Wallpaper",
   "url" : "/samsung-galaxy-s3",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1255526.jpg",
@@ -537,7 +537,7 @@
 }, {
   "name" : "Samsung Galaxy J7",
   "title" : "Samsung Galaxy J7 Wallpaper",
-  "folderName" : "Samsung Galaxy J7 Wallpaper",
+  "folderName" : "SamsungGalaxyJ7Wallpaper",
   "url" : "/samsung-galaxy-j7",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1255211.jpg",
@@ -545,7 +545,7 @@
 }, {
   "name" : "Samsung S10",
   "title" : "Samsung S10 Wallpaper",
-  "folderName" : "Samsung S10 Wallpaper",
+  "folderName" : "SamsungS10Wallpaper",
   "url" : "/samsung-s10",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1232626.jpg",
@@ -553,7 +553,7 @@
 }, {
   "name" : "iPhone 11 Pro",
   "title" : "iPhone 11 Pro Wallpaper",
-  "folderName" : "iPhone 11 Pro Wallpaper",
+  "folderName" : "iPhone11ProWallpaper",
   "url" : "/iphone-11-pro",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1187709.jpg",
@@ -561,7 +561,7 @@
 }, {
   "name" : "iPhone 11",
   "title" : "iPhone 11 Wallpaper",
-  "folderName" : "iPhone 11 Wallpaper",
+  "folderName" : "iPhone11Wallpaper",
   "url" : "/iphone-11",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1146081.jpg",
@@ -569,7 +569,7 @@
 }, {
   "name" : "Samsung Galaxy S8 Plus",
   "title" : "Samsung Galaxy S8 Plus Wallpaper",
-  "folderName" : "Samsung Galaxy S8 Plus Wallpaper",
+  "folderName" : "SamsungGalaxyS8PlusWallpaper",
   "url" : "/samsung-galaxy-s8-plus",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/867974.jpg",
@@ -577,7 +577,7 @@
 }, {
   "name" : "iPhone XR",
   "title" : "iPhone XR Wallpaper",
-  "folderName" : "iPhone XR Wallpaper",
+  "folderName" : "iPhoneXRWallpaper",
   "url" : "/iphone-xr",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/983727.png",
@@ -585,7 +585,7 @@
 }, {
   "name" : "Google Pixel 3",
   "title" : "Google Pixel 3 Wallpaper",
-  "folderName" : "Google Pixel 3 Wallpaper",
+  "folderName" : "GooglePixel3Wallpaper",
   "url" : "/google-pixel-3",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/782761.jpg",
@@ -593,7 +593,7 @@
 }, {
   "name" : "iPhone XS",
   "title" : "iPhone XS Wallpaper",
-  "folderName" : "iPhone XS Wallpaper",
+  "folderName" : "iPhoneXSWallpaper",
   "url" : "/iphone-xs",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/961282.png",
@@ -601,7 +601,7 @@
 }, {
   "name" : "iPhone XS Max",
   "title" : "iPhone XS Max Wallpaper",
-  "folderName" : "iPhone XS Max Wallpaper",
+  "folderName" : "iPhoneXSMaxWallpaper",
   "url" : "/iphone-xs-max",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/961282.png",
@@ -609,7 +609,7 @@
 }, {
   "name" : "iPhone 8 Plus",
   "title" : "iPhone 8 Plus Wallpaper",
-  "folderName" : "iPhone 8 Plus Wallpaper",
+  "folderName" : "iPhone8PlusWallpaper",
   "url" : "/iphone-8-plus",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/633651.jpg",
@@ -617,7 +617,7 @@
 }, {
   "name" : "iPhone X",
   "title" : "iPhone X Wallpaper",
-  "folderName" : "iPhone X Wallpaper",
+  "folderName" : "iPhoneXWallpaper",
   "url" : "/iphone-x",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/796517.jpg",
@@ -625,7 +625,7 @@
 }, {
   "name" : "Google Pixel 2",
   "title" : "Google Pixel 2 Wallpaper",
-  "folderName" : "Google Pixel 2 Wallpaper",
+  "folderName" : "GooglePixel2Wallpaper",
   "url" : "/google-pixel-2",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/827574.jpg",
@@ -633,7 +633,7 @@
 }, {
   "name" : "Samsung 6s",
   "title" : "Samsung 6s Wallpaper",
-  "folderName" : "Samsung 6s Wallpaper",
+  "folderName" : "Samsung6sWallpaper",
   "url" : "/samsung-6s",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/743381.jpg",
@@ -641,7 +641,7 @@
 }, {
   "name" : "iPhone 5C",
   "title" : "iPhone 5C Wallpaper",
-  "folderName" : "iPhone 5C Wallpaper",
+  "folderName" : "iPhone5CWallpaper",
   "url" : "/iphone-5c",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/284422.png",
@@ -649,7 +649,7 @@
 }, {
   "name" : "iPhone 4S",
   "title" : "iPhone 4S Wallpaper",
-  "folderName" : "iPhone 4S Wallpaper",
+  "folderName" : "iPhone4SWallpaper",
   "url" : "/iphone-4s",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/394284.jpg",
@@ -657,7 +657,7 @@
 }, {
   "name" : "iPhone 6s Plus",
   "title" : "iPhone 6s Plus Wallpaper",
-  "folderName" : "iPhone 6s Plus Wallpaper",
+  "folderName" : "iPhone6sPlusWallpaper",
   "url" : "/iphone-6s-plus",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/173281.jpg",
@@ -665,7 +665,7 @@
 }, {
   "name" : "iPhone 5S",
   "title" : "iPhone 5S Wallpaper",
-  "folderName" : "iPhone 5S Wallpaper",
+  "folderName" : "iPhone5SWallpaper",
   "url" : "/iphone-5s",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/206832.jpg",
@@ -673,7 +673,7 @@
 }, {
   "name" : "iPhone 7",
   "title" : "iPhone 7 Wallpaper",
-  "folderName" : "iPhone 7 Wallpaper",
+  "folderName" : "iPhone7Wallpaper",
   "url" : "/iphone-7",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/340315.jpg",
@@ -681,7 +681,7 @@
 }, {
   "name" : "Japanese Valentines Day",
   "title" : "Japanese Valentines Day Wallpaper",
-  "folderName" : "Japanese Valentines Day Wallpaper",
+  "folderName" : "JapaneseValentinesDayWallpaper",
   "url" : "/japanese-valentines-day",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/37004.jpg",
@@ -689,7 +689,7 @@
 }, {
   "name" : "iPhone",
   "title" : "iPhone Wallpaper",
-  "folderName" : "iPhone Wallpaper",
+  "folderName" : "iPhoneWallpaper",
   "url" : "/iphone",
   "category" : "/devices",
   "thumbSource" : "https://wallpaperaccess.com/thumb/47664.jpg",

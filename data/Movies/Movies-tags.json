@@ -1,7 +1,7 @@
 [ {
   "name" : "Don't Look Up",
   "title" : "Don't Look Up Wallpaper",
-  "folderName" : "Don't Look Up Wallpaper",
+  "folderName" : "Don'tLookUpWallpaper",
   "url" : "/dont-look-up",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/7809514.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Torrente",
   "title" : "Torrente Wallpaper",
-  "folderName" : "Torrente Wallpaper",
+  "folderName" : "TorrenteWallpaper",
   "url" : "/torrente",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/4110526.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Mission Impossible HD",
   "title" : "Mission Impossible HD Wallpaper",
-  "folderName" : "Mission Impossible HD Wallpaper",
+  "folderName" : "MissionImpossibleHDWallpaper",
   "url" : "/mission-impossible-hd",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/3440775.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "About Time",
   "title" : "About Time Wallpaper",
-  "folderName" : "About Time Wallpaper",
+  "folderName" : "AboutTimeWallpaper",
   "url" : "/about-time",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2813629.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Portrait Of A Lady On Fire",
   "title" : "Portrait Of A Lady On Fire Wallpaper",
-  "folderName" : "Portrait Of A Lady On Fire Wallpaper",
+  "folderName" : "PortraitOfALadyOnFireWallpaper",
   "url" : "/portrait-of-a-lady-on-fire",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2662964.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Bird Box",
   "title" : "Bird Box Wallpaper",
-  "folderName" : "Bird Box Wallpaper",
+  "folderName" : "BirdBoxWallpaper",
   "url" : "/bird-box",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2633156.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "12 Years A Slave",
   "title" : "12 Years A Slave Wallpaper",
-  "folderName" : "12 Years A Slave Wallpaper",
+  "folderName" : "12YearsASlaveWallpaper",
   "url" : "/12-years-a-slave",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2564402.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "American Beauty",
   "title" : "American Beauty Wallpaper",
-  "folderName" : "American Beauty Wallpaper",
+  "folderName" : "AmericanBeautyWallpaper",
   "url" : "/american-beauty",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2471486.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "American Psycho",
   "title" : "American Psycho Wallpaper",
-  "folderName" : "American Psycho Wallpaper",
+  "folderName" : "AmericanPsychoWallpaper",
   "url" : "/american-psycho",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2316845.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Once Upon A Time In America",
   "title" : "Once Upon A Time In America Wallpaper",
-  "folderName" : "Once Upon A Time In America Wallpaper",
+  "folderName" : "OnceUponATimeInAmericaWallpaper",
   "url" : "/once-upon-a-time-in-america",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2247162.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "No Time To Die",
   "title" : "No Time To Die Wallpaper",
-  "folderName" : "No Time To Die Wallpaper",
+  "folderName" : "NoTimeToDieWallpaper",
   "url" : "/no-time-to-die",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2198202.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "To All the Boys I've Loved Before",
   "title" : "To All the Boys I've Loved Before Wallpaper",
-  "folderName" : "To All the Boys I've Loved Before Wallpaper",
+  "folderName" : "ToAlltheBoysI'veLovedBeforeWallpaper",
   "url" : "/to-all-the-boys-ive-loved-before",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2163820.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Fast & Furious 9",
   "title" : "Fast & Furious 9 Wallpaper",
-  "folderName" : "Fast & Furious 9 Wallpaper",
+  "folderName" : "Fast&Furious9Wallpaper",
   "url" : "/fast-furious-9",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2148421.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Jungle Cruise",
   "title" : "Jungle Cruise Wallpaper",
-  "folderName" : "Jungle Cruise Wallpaper",
+  "folderName" : "JungleCruiseWallpaper",
   "url" : "/jungle-cruise",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2148330.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "The Greatest Showman",
   "title" : "The Greatest Showman Wallpaper",
-  "folderName" : "The Greatest Showman Wallpaper",
+  "folderName" : "TheGreatestShowmanWallpaper",
   "url" : "/the-greatest-showman",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2146089.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Django Unchained",
   "title" : "Django Unchained Wallpaper",
-  "folderName" : "Django Unchained Wallpaper",
+  "folderName" : "DjangoUnchainedWallpaper",
   "url" : "/django-unchained",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1740184.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Uncut Gems",
   "title" : "Uncut Gems Wallpaper",
-  "folderName" : "Uncut Gems Wallpaper",
+  "folderName" : "UncutGemsWallpaper",
   "url" : "/uncut-gems",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2135116.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Onward",
   "title" : "Onward Wallpaper",
-  "folderName" : "Onward Wallpaper",
+  "folderName" : "OnwardWallpaper",
   "url" : "/onward",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2134063.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Trolls World Tour",
   "title" : "Trolls World Tour Wallpaper",
-  "folderName" : "Trolls World Tour Wallpaper",
+  "folderName" : "TrollsWorldTourWallpaper",
   "url" : "/trolls-world-tour",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2081974.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Bloodshot",
   "title" : "Bloodshot Wallpaper",
-  "folderName" : "Bloodshot Wallpaper",
+  "folderName" : "BloodshotWallpaper",
   "url" : "/bloodshot",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2117074.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Secret Life Of Walter Mitty",
   "title" : "Secret Life Of Walter Mitty Wallpaper",
-  "folderName" : "Secret Life Of Walter Mitty Wallpaper",
+  "folderName" : "SecretLifeOfWalterMittyWallpaper",
   "url" : "/secret-life-of-walter-mitty",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2112692.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "Life of Pi",
   "title" : "Life of Pi Wallpaper",
-  "folderName" : "Life of Pi Wallpaper",
+  "folderName" : "LifeofPiWallpaper",
   "url" : "/life-of-pi",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/629688.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "The Shawshank Redemption",
   "title" : "The Shawshank Redemption Wallpaper",
-  "folderName" : "The Shawshank Redemption Wallpaper",
+  "folderName" : "TheShawshankRedemptionWallpaper",
   "url" : "/the-shawshank-redemption",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1632063.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Lady Bird",
   "title" : "Lady Bird Wallpaper",
-  "folderName" : "Lady Bird Wallpaper",
+  "folderName" : "LadyBirdWallpaper",
   "url" : "/lady-bird",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2055562.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "1917",
   "title" : "1917 Wallpaper",
-  "folderName" : "1917 Wallpaper",
+  "folderName" : "1917Wallpaper",
   "url" : "/1917",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2004814.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "The Pursuit of Happyness",
   "title" : "The Pursuit of Happyness Wallpaper",
-  "folderName" : "The Pursuit of Happyness Wallpaper",
+  "folderName" : "ThePursuitofHappynessWallpaper",
   "url" : "/the-pursuit-of-happyness",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2024739.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Marriage Story",
   "title" : "Marriage Story Wallpaper",
-  "folderName" : "Marriage Story Wallpaper",
+  "folderName" : "MarriageStoryWallpaper",
   "url" : "/marriage-story",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2022749.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "World War Z",
   "title" : "World War Z Wallpaper",
-  "folderName" : "World War Z Wallpaper",
+  "folderName" : "WorldWarZWallpaper",
   "url" : "/world-war-z",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2020588.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Ferdinand",
   "title" : "Ferdinand Wallpaper",
-  "folderName" : "Ferdinand Wallpaper",
+  "folderName" : "FerdinandWallpaper",
   "url" : "/ferdinand",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2011702.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Schindler's List",
   "title" : "Schindler's List Wallpaper",
-  "folderName" : "Schindler's List Wallpaper",
+  "folderName" : "Schindler'sListWallpaper",
   "url" : "/schindlers-list",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2006523.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "I AM Legend",
   "title" : "I AM Legend Wallpaper",
-  "folderName" : "I AM Legend Wallpaper",
+  "folderName" : "IAMLegendWallpaper",
   "url" : "/i-am-legend",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1856085.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Breakfast at Tiffany's",
   "title" : "Breakfast at Tiffany's Wallpaper",
-  "folderName" : "Breakfast at Tiffany's Wallpaper",
+  "folderName" : "BreakfastatTiffany'sWallpaper",
   "url" : "/breakfast-at-tiffanys",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1973755.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Lucy",
   "title" : "Lucy Wallpaper",
-  "folderName" : "Lucy Wallpaper",
+  "folderName" : "LucyWallpaper",
   "url" : "/lucy",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1826784.jpg",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Pokémon Detective Pikachu",
   "title" : "Pokémon Detective Pikachu Wallpaper",
-  "folderName" : "Pokémon Detective Pikachu Wallpaper",
+  "folderName" : "PokémonDetectivePikachuWallpaper",
   "url" : "/pokemon-detective-pikachu",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1107763.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Fast & Furious Presents: Hobbs & Shaw",
   "title" : "Fast & Furious Presents: Hobbs & Shaw Wallpaper",
-  "folderName" : "Fast & Furious Presents Hobbs & Shaw Wallpaper",
+  "folderName" : "Fast&FuriousPresentsHobbs&ShawWallpaper",
   "url" : "/fast-furious-presents-hobbs-shaw",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1718285.jpg",
@@ -281,7 +281,7 @@
 }, {
   "name" : "The Chronicles Of Narnia",
   "title" : "The Chronicles Of Narnia Wallpaper",
-  "folderName" : "The Chronicles Of Narnia Wallpaper",
+  "folderName" : "TheChroniclesOfNarniaWallpaper",
   "url" : "/the-chronicles-of-narnia",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1715643.jpg",
@@ -289,7 +289,7 @@
 }, {
   "name" : "Divergent",
   "title" : "Divergent Wallpaper",
-  "folderName" : "Divergent Wallpaper",
+  "folderName" : "DivergentWallpaper",
   "url" : "/divergent",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1359281.jpg",
@@ -297,7 +297,7 @@
 }, {
   "name" : "Oblivion",
   "title" : "Oblivion Wallpaper",
-  "folderName" : "Oblivion Wallpaper",
+  "folderName" : "OblivionWallpaper",
   "url" : "/oblivion",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1705742.jpg",
@@ -305,7 +305,7 @@
 }, {
   "name" : "Planet of the Apes",
   "title" : "Planet of the Apes Wallpaper",
-  "folderName" : "Planet of the Apes Wallpaper",
+  "folderName" : "PlanetoftheApesWallpaper",
   "url" : "/planet-of-the-apes",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1704216.jpg",
@@ -313,7 +313,7 @@
 }, {
   "name" : "Wreck It Ralph",
   "title" : "Wreck It Ralph Wallpaper",
-  "folderName" : "Wreck It Ralph Wallpaper",
+  "folderName" : "WreckItRalphWallpaper",
   "url" : "/wreck-it-ralph",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1637458.jpg",
@@ -321,7 +321,7 @@
 }, {
   "name" : "Ford v Ferrari",
   "title" : "Ford v Ferrari Wallpaper",
-  "folderName" : "Ford v Ferrari Wallpaper",
+  "folderName" : "FordvFerrariWallpaper",
   "url" : "/ford-v-ferrari",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1698627.jpg",
@@ -329,7 +329,7 @@
 }, {
   "name" : "The Silence Of The Lambs",
   "title" : "The Silence Of The Lambs Wallpaper",
-  "folderName" : "The Silence Of The Lambs Wallpaper",
+  "folderName" : "TheSilenceOfTheLambsWallpaper",
   "url" : "/the-silence-of-the-lambs",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1676515.jpg",
@@ -337,7 +337,7 @@
 }, {
   "name" : "Inglourious Basterds",
   "title" : "Inglourious Basterds Wallpaper",
-  "folderName" : "Inglourious Basterds Wallpaper",
+  "folderName" : "InglouriousBasterdsWallpaper",
   "url" : "/inglourious-basterds",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1666199.jpg",
@@ -345,7 +345,7 @@
 }, {
   "name" : "Saving Private Ryan",
   "title" : "Saving Private Ryan Wallpaper",
-  "folderName" : "Saving Private Ryan Wallpaper",
+  "folderName" : "SavingPrivateRyanWallpaper",
   "url" : "/saving-private-ryan",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1665936.jpg",
@@ -353,7 +353,7 @@
 }, {
   "name" : "Doctor Sleep",
   "title" : "Doctor Sleep Wallpaper",
-  "folderName" : "Doctor Sleep Wallpaper",
+  "folderName" : "DoctorSleepWallpaper",
   "url" : "/doctor-sleep",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1623795.jpg",
@@ -361,7 +361,7 @@
 }, {
   "name" : "Mean Girls",
   "title" : "Mean Girls Wallpaper",
-  "folderName" : "Mean Girls Wallpaper",
+  "folderName" : "MeanGirlsWallpaper",
   "url" : "/mean-girls",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1602131.jpg",
@@ -369,7 +369,7 @@
 }, {
   "name" : "Taxi Driver",
   "title" : "Taxi Driver Wallpaper",
-  "folderName" : "Taxi Driver Wallpaper",
+  "folderName" : "TaxiDriverWallpaper",
   "url" : "/taxi-driver",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1552450.jpg",
@@ -377,7 +377,7 @@
 }, {
   "name" : "Once Upon A Time In Hollywood",
   "title" : "Once Upon A Time In Hollywood Wallpaper",
-  "folderName" : "Once Upon A Time In Hollywood Wallpaper",
+  "folderName" : "OnceUponATimeInHollywoodWallpaper",
   "url" : "/once-upon-a-time-in-hollywood",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342865.jpg",
@@ -385,7 +385,7 @@
 }, {
   "name" : "John Wick 3: Parabellum",
   "title" : "John Wick 3: Parabellum Wallpaper",
-  "folderName" : "John Wick 3 Parabellum Wallpaper",
+  "folderName" : "JohnWick3ParabellumWallpaper",
   "url" : "/john-wick-3-parabellum",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1460165.jpg",
@@ -393,7 +393,7 @@
 }, {
   "name" : "Terminator: Dark Fate",
   "title" : " Terminator: Dark Fate Wallpaper",
-  "folderName" : " Terminator Dark Fate Wallpaper",
+  "folderName" : "TerminatorDarkFateWallpaper",
   "url" : "/-terminator-dark-fate",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1506050.jpg",
@@ -401,7 +401,7 @@
 }, {
   "name" : "Arctic Justice",
   "title" : " Arctic Justice Wallpaper",
-  "folderName" : " Arctic Justice Wallpaper",
+  "folderName" : "ArcticJusticeWallpaper",
   "url" : "/-arctic-justice",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1506105.jpg",
@@ -409,7 +409,7 @@
 }, {
   "name" : "Birds of Prey",
   "title" : "Birds of Prey Wallpaper",
-  "folderName" : "Birds of Prey Wallpaper",
+  "folderName" : "BirdsofPreyWallpaper",
   "url" : "/birds-of-prey",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1484440.jpg",
@@ -417,7 +417,7 @@
 }, {
   "name" : "Bohemian Rhapsody",
   "title" : "Bohemian Rhapsody Wallpaper",
-  "folderName" : "Bohemian Rhapsody Wallpaper",
+  "folderName" : "BohemianRhapsodyWallpaper",
   "url" : "/bohemian-rhapsody",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1469577.jpg",
@@ -425,7 +425,7 @@
 }, {
   "name" : "Forrest Gump",
   "title" : "Forrest Gump Wallpaper",
-  "folderName" : "Forrest Gump Wallpaper",
+  "folderName" : "ForrestGumpWallpaper",
   "url" : "/forrest-gump",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1455905.jpg",
@@ -433,7 +433,7 @@
 }, {
   "name" : "The Shining",
   "title" : "The Shining Wallpaper",
-  "folderName" : "The Shining Wallpaper",
+  "folderName" : "TheShiningWallpaper",
   "url" : "/the-shining",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1452120.jpg",
@@ -441,7 +441,7 @@
 }, {
   "name" : "Promare",
   "title" : "Promare Wallpaper",
-  "folderName" : "Promare Wallpaper",
+  "folderName" : "PromareWallpaper",
   "url" : "/promare",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343742.png",
@@ -449,7 +449,7 @@
 }, {
   "name" : "Shakira In Concert: El Dorado World Tour",
   "title" : "Shakira In Concert: El Dorado World Tour Wallpaper",
-  "folderName" : "Shakira In Concert El Dorado World Tour Wallpaper",
+  "folderName" : "ShakiraInConcertElDoradoWorldTourWallpaper",
   "url" : "/shakira-in-concert-el-dorado-world-tour",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343724.jpg",
@@ -457,7 +457,7 @@
 }, {
   "name" : "Aladdin 2019",
   "title" : " Aladdin 2019 Wallpaper",
-  "folderName" : " Aladdin 2019 Wallpaper",
+  "folderName" : "Aladdin2019Wallpaper",
   "url" : "/-aladdin-2019",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1108909.jpg",
@@ -465,7 +465,7 @@
 }, {
   "name" : "Princess Mononoke - Studio Ghibli Fest 2019",
   "title" : "Princess Mononoke - Studio Ghibli Fest 2019 Wallpaper",
-  "folderName" : "Princess Mononoke - Studio Ghibli Fest 2019 Wallpaper",
+  "folderName" : "PrincessMononoke-StudioGhibliFest2019Wallpaper",
   "url" : "/princess-mononoke-studio-ghibli-fest-2019",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343485.jpg",
@@ -473,7 +473,7 @@
 }, {
   "name" : "Spirited Away - Studio Ghibli Fest 2019",
   "title" : " Spirited Away - Studio Ghibli Fest 2019 Wallpaper",
-  "folderName" : " Spirited Away - Studio Ghibli Fest 2019 Wallpaper",
+  "folderName" : "SpiritedAway-StudioGhibliFest2019Wallpaper",
   "url" : "/-spirited-away-studio-ghibli-fest-2019",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343514.jpg",
@@ -481,7 +481,7 @@
 }, {
   "name" : "Toy Story 4",
   "title" : "Toy Story 4 Wallpaper",
-  "folderName" : "Toy Story 4 Wallpaper",
+  "folderName" : "ToyStory4Wallpaper",
   "url" : "/toy-story-4",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343417.jpg",
@@ -489,7 +489,7 @@
 }, {
   "name" : "Alien 40th Anniversary",
   "title" : "Alien 40th Anniversary Wallpaper",
-  "folderName" : "Alien 40th Anniversary Wallpaper",
+  "folderName" : "Alien40thAnniversaryWallpaper",
   "url" : "/alien-40th-anniversary",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343309.jpg",
@@ -497,7 +497,7 @@
 }, {
   "name" : "47 Meters Down: Uncaged",
   "title" : " 47 Meters Down: Uncaged Wallpaper",
-  "folderName" : " 47 Meters Down Uncaged Wallpaper",
+  "folderName" : "47MetersDownUncagedWallpaper",
   "url" : "/-47-meters-down-uncaged",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343220.jpg",
@@ -505,7 +505,7 @@
 }, {
   "name" : "The Angry Birds Movie 2",
   "title" : " The Angry Birds Movie 2 Wallpaper",
-  "folderName" : " The Angry Birds Movie 2 Wallpaper",
+  "folderName" : "TheAngryBirdsMovie2Wallpaper",
   "url" : "/-the-angry-birds-movie-2",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1111015.jpg",
@@ -513,7 +513,7 @@
 }, {
   "name" : "Ghostbusters (1984)",
   "title" : "Ghostbusters (1984) Wallpaper",
-  "folderName" : "Ghostbusters (1984) Wallpaper",
+  "folderName" : "Ghostbusters(1984)Wallpaper",
   "url" : "/ghostbusters-1984",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342906.jpg",
@@ -521,7 +521,7 @@
 }, {
   "name" : "Charlie's Angels",
   "title" : "Charlie's Angels Wallpaper",
-  "folderName" : "Charlie's Angels Wallpaper",
+  "folderName" : "Charlie'sAngelsWallpaper",
   "url" : "/charlies-angels",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342863.jpg",
@@ -529,7 +529,7 @@
 }, {
   "name" : "Spider-Man: Far From Home 2019",
   "title" : "Spider-Man: Far From Home 2019 Wallpaper",
-  "folderName" : "Spider-Man Far From Home 2019 Wallpaper",
+  "folderName" : "Spider-ManFarFromHome2019Wallpaper",
   "url" : "/spider-man-far-from-home-2019",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342819.jpg",
@@ -537,7 +537,7 @@
 }, {
   "name" : "The Peanut Butter Falcon",
   "title" : "The Peanut Butter Falcon Wallpaper",
-  "folderName" : "The Peanut Butter Falcon Wallpaper",
+  "folderName" : "ThePeanutButterFalconWallpaper",
   "url" : "/the-peanut-butter-falcon",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342712.jpg",
@@ -545,7 +545,7 @@
 }, {
   "name" : "Scary Stories To Tell In The Dark",
   "title" : " Scary Stories To Tell In The Dark Wallpaper",
-  "folderName" : " Scary Stories To Tell In The Dark Wallpaper",
+  "folderName" : "ScaryStoriesToTellInTheDarkWallpaper",
   "url" : "/-scary-stories-to-tell-in-the-dark",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342550.jpg",
@@ -553,7 +553,7 @@
 }, {
   "name" : "Brittany Runs A Marathon",
   "title" : "Brittany Runs A Marathon Wallpaper",
-  "folderName" : "Brittany Runs A Marathon Wallpaper",
+  "folderName" : "BrittanyRunsAMarathonWallpaper",
   "url" : "/brittany-runs-a-marathon",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342524.jpg",
@@ -561,7 +561,7 @@
 }, {
   "name" : "Dora And The Lost City Of Gold",
   "title" : "Dora And The Lost City Of Gold Wallpaper",
-  "folderName" : "Dora And The Lost City Of Gold Wallpaper",
+  "folderName" : "DoraAndTheLostCityOfGoldWallpaper",
   "url" : "/dora-and-the-lost-city-of-gold",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342438.jpg",
@@ -569,7 +569,7 @@
 }, {
   "name" : "The Lion King 2019",
   "title" : "The Lion King 2019 Wallpaper",
-  "folderName" : "The Lion King 2019 Wallpaper",
+  "folderName" : "TheLionKing2019Wallpaper",
   "url" : "/the-lion-king-2019",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342394.jpg",
@@ -577,7 +577,7 @@
 }, {
   "name" : "The Addams Family",
   "title" : "The Addams Family Wallpaper",
-  "folderName" : "The Addams Family Wallpaper",
+  "folderName" : "TheAddamsFamilyWallpaper",
   "url" : "/the-addams-family",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1323070.jpg",
@@ -585,7 +585,7 @@
 }, {
   "name" : "Angel Has Fallen",
   "title" : " Angel Has Fallen Wallpaper",
-  "folderName" : " Angel Has Fallen Wallpaper",
+  "folderName" : "AngelHasFallenWallpaper",
   "url" : "/-angel-has-fallen",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342233.jpg",
@@ -593,7 +593,7 @@
 }, {
   "name" : "Zombieland: Double Tap",
   "title" : "Zombieland: Double Tap Wallpaper",
-  "folderName" : "Zombieland Double Tap Wallpaper",
+  "folderName" : "ZombielandDoubleTapWallpaper",
   "url" : "/zombieland-double-tap",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342171.jpg",
@@ -601,7 +601,7 @@
 }, {
   "name" : "Ad Astra",
   "title" : "Ad Astra Wallpaper",
-  "folderName" : "Ad Astra Wallpaper",
+  "folderName" : "AdAstraWallpaper",
   "url" : "/ad-astra",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342155.jpg",
@@ -609,7 +609,7 @@
 }, {
   "name" : "Rambo: Last Blood",
   "title" : "Rambo: Last Blood Wallpaper",
-  "folderName" : "Rambo Last Blood Wallpaper",
+  "folderName" : "RamboLastBloodWallpaper",
   "url" : "/rambo-last-blood",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1342054.jpg",
@@ -617,7 +617,7 @@
 }, {
   "name" : "Downton Abbey",
   "title" : "Downton Abbey Wallpaper",
-  "folderName" : "Downton Abbey Wallpaper",
+  "folderName" : "DowntonAbbeyWallpaper",
   "url" : "/downton-abbey",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1341998.jpg",
@@ -625,7 +625,7 @@
 }, {
   "name" : "Maleficent: Mistress Of Evil",
   "title" : "Maleficent: Mistress Of Evil Wallpaper",
-  "folderName" : "Maleficent Mistress Of Evil Wallpaper",
+  "folderName" : "MaleficentMistressOfEvilWallpaper",
   "url" : "/maleficent-mistress-of-evil",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1341962.jpg",
@@ -633,7 +633,7 @@
 }, {
   "name" : "Gemini Man",
   "title" : " Gemini Man Wallpaper",
-  "folderName" : " Gemini Man Wallpaper",
+  "folderName" : "GeminiManWallpaper",
   "url" : "/-gemini-man",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1341893.jpg",
@@ -641,7 +641,7 @@
 }, {
   "name" : "Abominable",
   "title" : "Abominable Wallpaper",
-  "folderName" : "Abominable Wallpaper",
+  "folderName" : "AbominableWallpaper",
   "url" : "/abominable",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1264392.jpg",
@@ -649,7 +649,7 @@
 }, {
   "name" : "IT CHAPTER TWO",
   "title" : "IT CHAPTER TWO Wallpaper",
-  "folderName" : "IT CHAPTER TWO Wallpaper",
+  "folderName" : "ITCHAPTERTWOWallpaper",
   "url" : "/it-chapter-two",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1263881.jpg",
@@ -657,7 +657,7 @@
 }, {
   "name" : "Pirates of the Caribbean",
   "title" : "Pirates of the Caribbean Wallpaper",
-  "folderName" : "Pirates of the Caribbean Wallpaper",
+  "folderName" : "PiratesoftheCaribbeanWallpaper",
   "url" : "/pirates-of-the-caribbean",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1103973.jpg",
@@ -665,7 +665,7 @@
 }, {
   "name" : "Shazam 4K Ultra HD",
   "title" : "Shazam 4K Ultra HD Wallpaper",
-  "folderName" : "Shazam 4K Ultra HD Wallpaper",
+  "folderName" : "Shazam4KUltraHDWallpaper",
   "url" : "/shazam-4k-ultra-hd",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/472848.jpg",
@@ -673,7 +673,7 @@
 }, {
   "name" : "Transformers",
   "title" : "Transformers Wallpaper",
-  "folderName" : "Transformers Wallpaper",
+  "folderName" : "TransformersWallpaper",
   "url" : "/transformers",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/639483.jpg",
@@ -681,7 +681,7 @@
 }, {
   "name" : "Deadpool 2 Movie",
   "title" : "Deadpool 2 Movie Wallpaper",
-  "folderName" : "Deadpool 2 Movie Wallpaper",
+  "folderName" : "Deadpool2MovieWallpaper",
   "url" : "/deadpool-2-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/31580.jpg",
@@ -689,7 +689,7 @@
 }, {
   "name" : "Venom Movie",
   "title" : "Venom Movie Wallpaper",
-  "folderName" : "Venom Movie Wallpaper",
+  "folderName" : "VenomMovieWallpaper",
   "url" : "/venom-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/703287.jpg",
@@ -697,7 +697,7 @@
 }, {
   "name" : "Thor Movie Poster",
   "title" : "Thor Movie Poster Wallpaper",
-  "folderName" : "Thor Movie Poster Wallpaper",
+  "folderName" : "ThorMoviePosterWallpaper",
   "url" : "/thor-movie-poster",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/645141.jpg",
@@ -705,7 +705,7 @@
 }, {
   "name" : "Warrior Movie",
   "title" : "Warrior Movie Wallpaper",
-  "folderName" : "Warrior Movie Wallpaper",
+  "folderName" : "WarriorMovieWallpaper",
   "url" : "/warrior-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/144753.jpg",
@@ -713,7 +713,7 @@
 }, {
   "name" : "Black Panther Movie",
   "title" : "Black Panther Movie Wallpaper",
-  "folderName" : "Black Panther Movie Wallpaper",
+  "folderName" : "BlackPantherMovieWallpaper",
   "url" : "/black-panther-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/15858.jpg",
@@ -721,7 +721,7 @@
 }, {
   "name" : "Green Lantern Movie",
   "title" : "Green Lantern Movie Wallpaper",
-  "folderName" : "Green Lantern Movie Wallpaper",
+  "folderName" : "GreenLanternMovieWallpaper",
   "url" : "/green-lantern-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/189230.jpg",
@@ -729,7 +729,7 @@
 }, {
   "name" : "Mortal Kombat Movie",
   "title" : "Mortal Kombat Movie Wallpaper",
-  "folderName" : "Mortal Kombat Movie Wallpaper",
+  "folderName" : "MortalKombatMovieWallpaper",
   "url" : "/mortal-kombat-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/557982.jpg",
@@ -737,7 +737,7 @@
 }, {
   "name" : "Suicide Squad Movie",
   "title" : "Suicide Squad Movie Wallpaper",
-  "folderName" : "Suicide Squad Movie Wallpaper",
+  "folderName" : "SuicideSquadMovieWallpaper",
   "url" : "/suicide-squad-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/5161.jpg",
@@ -745,7 +745,7 @@
 }, {
   "name" : "Captain America Movie",
   "title" : "Captain America Movie Wallpaper",
-  "folderName" : "Captain America Movie Wallpaper",
+  "folderName" : "CaptainAmericaMovieWallpaper",
   "url" : "/captain-america-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/485792.jpg",
@@ -753,7 +753,7 @@
 }, {
   "name" : "Spirited Away",
   "title" : "Spirited Away Wallpaper",
-  "folderName" : "Spirited Away Wallpaper",
+  "folderName" : "SpiritedAwayWallpaper",
   "url" : "/spirited-away",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/436274.jpg",
@@ -761,7 +761,7 @@
 }, {
   "name" : "Ninja Turtles Movie",
   "title" : "Ninja Turtles Movie Wallpaper",
-  "folderName" : "Ninja Turtles Movie Wallpaper",
+  "folderName" : "NinjaTurtlesMovieWallpaper",
   "url" : "/ninja-turtles-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/7788.jpg",
@@ -769,7 +769,7 @@
 }, {
   "name" : "Hitman Movie",
   "title" : "Hitman Movie Wallpaper",
-  "folderName" : "Hitman Movie Wallpaper",
+  "folderName" : "HitmanMovieWallpaper",
   "url" : "/hitman-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/216259.jpg",
@@ -777,7 +777,7 @@
 }, {
   "name" : "Elf Movie",
   "title" : "Elf Movie Wallpaper",
-  "folderName" : "Elf Movie Wallpaper",
+  "folderName" : "ElfMovieWallpaper",
   "url" : "/elf-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/136074.jpg",
@@ -785,7 +785,7 @@
 }, {
   "name" : "Alien Movie",
   "title" : "Alien Movie Wallpaper",
-  "folderName" : "Alien Movie Wallpaper",
+  "folderName" : "AlienMovieWallpaper",
   "url" : "/alien-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/408013.jpg",
@@ -793,7 +793,7 @@
 }, {
   "name" : "It Horror Movie",
   "title" : "It Horror Movie Wallpaper",
-  "folderName" : "It Horror Movie Wallpaper",
+  "folderName" : "ItHorrorMovieWallpaper",
   "url" : "/it-horror-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/235869.jpg",
@@ -801,7 +801,7 @@
 }, {
   "name" : "Yakuza Movie",
   "title" : "Yakuza Movie Wallpaper",
-  "folderName" : "Yakuza Movie Wallpaper",
+  "folderName" : "YakuzaMovieWallpaper",
   "url" : "/yakuza-movie",
   "category" : "/movies",
   "thumbSource" : "https://wallpaperaccess.com/thumb/48713.jpg",

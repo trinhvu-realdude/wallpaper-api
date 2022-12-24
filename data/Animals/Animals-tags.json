@@ -1,7 +1,7 @@
 [ {
   "name" : "Eagle",
   "title" : "Eagle Wallpaper",
-  "folderName" : "Eagle Wallpaper",
+  "folderName" : "EagleWallpaper",
   "url" : "/eagle",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1121741.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Camel",
   "title" : "Camel Wallpaper",
-  "folderName" : "Camel Wallpaper",
+  "folderName" : "CamelWallpaper",
   "url" : "/camel",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080417.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Koala",
   "title" : "Koala Wallpaper",
-  "folderName" : "Koala Wallpaper",
+  "folderName" : "KoalaWallpaper",
   "url" : "/koala",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081112.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Butterflies",
   "title" : "Butterflies Wallpaper",
-  "folderName" : "Butterflies Wallpaper",
+  "folderName" : "ButterfliesWallpaper",
   "url" : "/butterflies",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/170702.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Fennec Fox",
   "title" : "Fennec Fox Wallpaper",
-  "folderName" : "Fennec Fox Wallpaper",
+  "folderName" : "FennecFoxWallpaper",
   "url" : "/fennec-fox",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2555897.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Polar Bear",
   "title" : "Polar Bear Wallpaper",
-  "folderName" : "Polar Bear Wallpaper",
+  "folderName" : "PolarBearWallpaper",
   "url" : "/polar-bear",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2555858.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Mantis",
   "title" : "Mantis Wallpaper",
-  "folderName" : "Mantis Wallpaper",
+  "folderName" : "MantisWallpaper",
   "url" : "/mantis",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2555623.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Parakeet",
   "title" : "Parakeet Wallpaper",
-  "folderName" : "Parakeet Wallpaper",
+  "folderName" : "ParakeetWallpaper",
   "url" : "/parakeet",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2555549.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Mandrill",
   "title" : "Mandrill Wallpaper",
-  "folderName" : "Mandrill Wallpaper",
+  "folderName" : "MandrillWallpaper",
   "url" : "/mandrill",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2555412.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Hippopotamus",
   "title" : "Hippopotamus Wallpaper",
-  "folderName" : "Hippopotamus Wallpaper",
+  "folderName" : "HippopotamusWallpaper",
   "url" : "/hippopotamus",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081022.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Baboon",
   "title" : "Baboon Wallpaper",
-  "folderName" : "Baboon Wallpaper",
+  "folderName" : "BaboonWallpaper",
   "url" : "/baboon",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2207694.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Lutrinae",
   "title" : "Lutrinae Wallpaper",
-  "folderName" : "Lutrinae Wallpaper",
+  "folderName" : "LutrinaeWallpaper",
   "url" : "/lutrinae",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2206328.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Wild Boar",
   "title" : "Wild Boar Wallpaper",
-  "folderName" : "Wild Boar Wallpaper",
+  "folderName" : "WildBoarWallpaper",
   "url" : "/wild-boar",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2180551.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Labrador",
   "title" : "Labrador Wallpaper",
-  "folderName" : "Labrador Wallpaper",
+  "folderName" : "LabradorWallpaper",
   "url" : "/labrador",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081192.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Gecko",
   "title" : "Gecko Wallpaper",
-  "folderName" : "Gecko Wallpaper",
+  "folderName" : "GeckoWallpaper",
   "url" : "/gecko",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080864.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Ostrich",
   "title" : "Ostrich Wallpaper",
-  "folderName" : "Ostrich Wallpaper",
+  "folderName" : "OstrichWallpaper",
   "url" : "/ostrich",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1929143.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Hyena",
   "title" : "Hyena Wallpaper",
-  "folderName" : "Hyena Wallpaper",
+  "folderName" : "HyenaWallpaper",
   "url" : "/hyena",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1927402.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Parrots",
   "title" : "Parrots Wallpaper",
-  "folderName" : "Parrots Wallpaper",
+  "folderName" : "ParrotsWallpaper",
   "url" : "/parrots",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1855685.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Ant",
   "title" : "Ant Wallpaper",
-  "folderName" : "Ant Wallpaper",
+  "folderName" : "AntWallpaper",
   "url" : "/ant",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1853370.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Skunk",
   "title" : "Skunk Wallpaper",
-  "folderName" : "Skunk Wallpaper",
+  "folderName" : "SkunkWallpaper",
   "url" : "/skunk",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1732464.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Badger",
   "title" : "Badger Wallpaper",
-  "folderName" : "Badger Wallpaper",
+  "folderName" : "BadgerWallpaper",
   "url" : "/badger",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1732027.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "Great White Shark",
   "title" : "Great White Shark Wallpaper",
-  "folderName" : "Great White Shark Wallpaper",
+  "folderName" : "GreatWhiteSharkWallpaper",
   "url" : "/great-white-shark",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1341460.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "Chimpanzee",
   "title" : "Chimpanzee Wallpaper",
-  "folderName" : "Chimpanzee Wallpaper",
+  "folderName" : "ChimpanzeeWallpaper",
   "url" : "/chimpanzee",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1691270.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Arctic Fox",
   "title" : "Arctic Fox Wallpaper",
-  "folderName" : "Arctic Fox Wallpaper",
+  "folderName" : "ArcticFoxWallpaper",
   "url" : "/arctic-fox",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1419415.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Bee",
   "title" : "Bee Wallpaper",
-  "folderName" : "Bee Wallpaper",
+  "folderName" : "BeeWallpaper",
   "url" : "/bee",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1328098.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Buck",
   "title" : "Buck Wallpaper",
-  "folderName" : "Buck Wallpaper",
+  "folderName" : "BuckWallpaper",
   "url" : "/buck",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1627094.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Manta Ray",
   "title" : "Manta Ray Wallpaper",
-  "folderName" : "Manta Ray Wallpaper",
+  "folderName" : "MantaRayWallpaper",
   "url" : "/manta-ray",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1602069.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "Bison",
   "title" : "Bison Wallpaper",
-  "folderName" : "Bison Wallpaper",
+  "folderName" : "BisonWallpaper",
   "url" : "/bison",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080461.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Birds",
   "title" : "Birds Wallpaper",
-  "folderName" : "Birds Wallpaper",
+  "folderName" : "BirdsWallpaper",
   "url" : "/birds",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/775971.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Whale Shark",
   "title" : "Whale Shark Wallpaper",
-  "folderName" : "Whale Shark Wallpaper",
+  "folderName" : "WhaleSharkWallpaper",
   "url" : "/whale-shark",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1542758.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Bobcat",
   "title" : "Bobcat Wallpaper",
-  "folderName" : "Bobcat Wallpaper",
+  "folderName" : "BobcatWallpaper",
   "url" : "/bobcat",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1542749.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Mountain Lion",
   "title" : "Mountain Lion Wallpaper",
-  "folderName" : "Mountain Lion Wallpaper",
+  "folderName" : "MountainLionWallpaper",
   "url" : "/mountain-lion",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1542649.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Rottweiler",
   "title" : "Rottweiler Wallpaper",
-  "folderName" : "Rottweiler Wallpaper",
+  "folderName" : "RottweilerWallpaper",
   "url" : "/rottweiler",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081522.jpg",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Kangaroo",
   "title" : "Kangaroo Wallpaper",
-  "folderName" : "Kangaroo Wallpaper",
+  "folderName" : "KangarooWallpaper",
   "url" : "/kangaroo",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081034.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Macaw",
   "title" : "Macaw Wallpaper",
-  "folderName" : "Macaw Wallpaper",
+  "folderName" : "MacawWallpaper",
   "url" : "/macaw",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081272.jpg",
@@ -281,7 +281,7 @@
 }, {
   "name" : "Squirrel",
   "title" : "Squirrel Wallpaper",
-  "folderName" : "Squirrel Wallpaper",
+  "folderName" : "SquirrelWallpaper",
   "url" : "/squirrel",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081637.jpg",
@@ -289,7 +289,7 @@
 }, {
   "name" : "Reptile",
   "title" : "Reptile Wallpaper",
-  "folderName" : "Reptile Wallpaper",
+  "folderName" : "ReptileWallpaper",
   "url" : "/reptile",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1344327.jpg",
@@ -297,7 +297,7 @@
 }, {
   "name" : "Funny Chameleon",
   "title" : "Funny Chameleon Wallpaper",
-  "folderName" : "Funny Chameleon Wallpaper",
+  "folderName" : "FunnyChameleonWallpaper",
   "url" : "/funny-chameleon",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1344156.jpg",
@@ -305,7 +305,7 @@
 }, {
   "name" : "4K Chameleon",
   "title" : "4K Chameleon Wallpaper",
-  "folderName" : "4K Chameleon Wallpaper",
+  "folderName" : "4KChameleonWallpaper",
   "url" : "/4k-chameleon",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343974.jpg",
@@ -313,7 +313,7 @@
 }, {
   "name" : "Chameleon Desktop",
   "title" : "Chameleon Desktop Wallpaper",
-  "folderName" : "Chameleon Desktop Wallpaper",
+  "folderName" : "ChameleonDesktopWallpaper",
   "url" : "/chameleon-desktop",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/781477.jpg",
@@ -321,7 +321,7 @@
 }, {
   "name" : "Funny Camel",
   "title" : "Funny Camel Wallpaper",
-  "folderName" : "Funny Camel Wallpaper",
+  "folderName" : "FunnyCamelWallpaper",
   "url" : "/funny-camel",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1343933.jpg",
@@ -329,7 +329,7 @@
 }, {
   "name" : "Desert Camel",
   "title" : "Desert Camel Wallpaper",
-  "folderName" : "Desert Camel Wallpaper",
+  "folderName" : "DesertCamelWallpaper",
   "url" : "/desert-camel",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1344095.jpg",
@@ -337,7 +337,7 @@
 }, {
   "name" : "Camel HD",
   "title" : "Camel HD Wallpaper",
-  "folderName" : "Camel HD Wallpaper",
+  "folderName" : "CamelHDWallpaper",
   "url" : "/camel-hd",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1344024.jpg",
@@ -345,7 +345,7 @@
 }, {
   "name" : "Bulldogs",
   "title" : "Bulldogs Wallpaper",
-  "folderName" : "Bulldogs Wallpaper",
+  "folderName" : "BulldogsWallpaper",
   "url" : "/bulldogs",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080469.jpg",
@@ -353,7 +353,7 @@
 }, {
   "name" : "Buffalo",
   "title" : "Buffalo Wallpaper",
-  "folderName" : "Buffalo Wallpaper",
+  "folderName" : "BuffaloWallpaper",
   "url" : "/buffalo",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080327.jpg",
@@ -361,7 +361,7 @@
 }, {
   "name" : "Winter Birds Desktop",
   "title" : "Winter Birds Desktop Wallpaper",
-  "folderName" : "Winter Birds Desktop Wallpaper",
+  "folderName" : "WinterBirdsDesktopWallpaper",
   "url" : "/winter-birds-desktop",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1318618.jpg",
@@ -369,7 +369,7 @@
 }, {
   "name" : "Orca",
   "title" : "Orca Wallpaper",
-  "folderName" : "Orca Wallpaper",
+  "folderName" : "OrcaWallpaper",
   "url" : "/orca",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081317.jpg",
@@ -377,7 +377,7 @@
 }, {
   "name" : "Gorilla",
   "title" : "Gorilla Wallpaper",
-  "folderName" : "Gorilla Wallpaper",
+  "folderName" : "GorillaWallpaper",
   "url" : "/gorilla",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080955.jpg",
@@ -385,7 +385,7 @@
 }, {
   "name" : "Sloth",
   "title" : "Sloth Wallpaper",
-  "folderName" : "Sloth Wallpaper",
+  "folderName" : "SlothWallpaper",
   "url" : "/sloth",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081611.jpg",
@@ -393,7 +393,7 @@
 }, {
   "name" : "Lizard",
   "title" : "Lizard Wallpaper",
-  "folderName" : "Lizard Wallpaper",
+  "folderName" : "LizardWallpaper",
   "url" : "/lizard",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081256.jpg",
@@ -401,7 +401,7 @@
 }, {
   "name" : "Alligator",
   "title" : "Alligator Wallpaper",
-  "folderName" : "Alligator Wallpaper",
+  "folderName" : "AlligatorWallpaper",
   "url" : "/alligator",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080286.jpg",
@@ -409,7 +409,7 @@
 }, {
   "name" : "Funny Cute Animals",
   "title" : "Funny Cute Animals Wallpaper",
-  "folderName" : "Funny Cute Animals Wallpaper",
+  "folderName" : "FunnyCuteAnimalsWallpaper",
   "url" : "/funny-cute-animals",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/452458.jpg",
@@ -417,7 +417,7 @@
 }, {
   "name" : "Goldfish",
   "title" : "Goldfish Wallpaper",
-  "folderName" : "Goldfish Wallpaper",
+  "folderName" : "GoldfishWallpaper",
   "url" : "/goldfish",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080873.jpg",
@@ -425,7 +425,7 @@
 }, {
   "name" : "Snake Aesthetics",
   "title" : "Snake Aesthetics Wallpaper",
-  "folderName" : "Snake Aesthetics Wallpaper",
+  "folderName" : "SnakeAestheticsWallpaper",
   "url" : "/snake-aesthetics",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1170042.png",
@@ -433,7 +433,7 @@
 }, {
   "name" : "Snow Tiger",
   "title" : "Snow Tiger Wallpaper",
-  "folderName" : "Snow Tiger Wallpaper",
+  "folderName" : "SnowTigerWallpaper",
   "url" : "/snow-tiger",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1167656.jpg",
@@ -441,7 +441,7 @@
 }, {
   "name" : "Chihuahua",
   "title" : "Chihuahua Wallpaper",
-  "folderName" : "Chihuahua Wallpaper",
+  "folderName" : "ChihuahuaWallpaper",
   "url" : "/chihuahua",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1080444.jpg",
@@ -449,7 +449,7 @@
 }, {
   "name" : "Deer",
   "title" : "Deer Wallpaper",
-  "folderName" : "Deer Wallpaper",
+  "folderName" : "DeerWallpaper",
   "url" : "/deer",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1151831.jpg",
@@ -457,7 +457,7 @@
 }, {
   "name" : "Seahorse",
   "title" : "Seahorse Wallpaper",
-  "folderName" : "Seahorse Wallpaper",
+  "folderName" : "SeahorseWallpaper",
   "url" : "/seahorse",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1151145.jpg",
@@ -465,7 +465,7 @@
 }, {
   "name" : "Jellyfish",
   "title" : "Jellyfish Wallpaper",
-  "folderName" : "Jellyfish Wallpaper",
+  "folderName" : "JellyfishWallpaper",
   "url" : "/jellyfish",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/664936.jpg",
@@ -473,7 +473,7 @@
 }, {
   "name" : "Shark",
   "title" : "Shark Wallpaper",
-  "folderName" : "Shark Wallpaper",
+  "folderName" : "SharkWallpaper",
   "url" : "/shark",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1081621.jpg",
@@ -481,7 +481,7 @@
 }, {
   "name" : "Cheetah",
   "title" : "Cheetah Wallpaper",
-  "folderName" : "Cheetah Wallpaper",
+  "folderName" : "CheetahWallpaper",
   "url" : "/cheetah",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1149247.jpg",
@@ -489,7 +489,7 @@
 }, {
   "name" : "Bear",
   "title" : "Bear Wallpaper",
-  "folderName" : "Bear Wallpaper",
+  "folderName" : "BearWallpaper",
   "url" : "/bear",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1149397.jpg",
@@ -497,7 +497,7 @@
 }, {
   "name" : "Panda",
   "title" : "Panda Wallpaper",
-  "folderName" : "Panda Wallpaper",
+  "folderName" : "PandaWallpaper",
   "url" : "/panda",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1076555.jpg",
@@ -505,7 +505,7 @@
 }, {
   "name" : "Elephant",
   "title" : "Elephant Wallpaper",
-  "folderName" : "Elephant Wallpaper",
+  "folderName" : "ElephantWallpaper",
   "url" : "/elephant",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1093489.jpg",
@@ -513,7 +513,7 @@
 }, {
   "name" : "Giraffe",
   "title" : "Giraffe Wallpaper",
-  "folderName" : "Giraffe Wallpaper",
+  "folderName" : "GiraffeWallpaper",
   "url" : "/giraffe",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/866021.jpg",
@@ -521,7 +521,7 @@
 }, {
   "name" : "Baby Winter Animals",
   "title" : "Baby Winter Animals Wallpaper",
-  "folderName" : "Baby Winter Animals Wallpaper",
+  "folderName" : "BabyWinterAnimalsWallpaper",
   "url" : "/baby-winter-animals",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/310534.jpg",
@@ -529,7 +529,7 @@
 }, {
   "name" : "Lion King 4K",
   "title" : "Lion King 4K Wallpaper",
-  "folderName" : "Lion King 4K Wallpaper",
+  "folderName" : "LionKing4KWallpaper",
   "url" : "/lion-king-4k",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/861065.jpg",
@@ -537,7 +537,7 @@
 }, {
   "name" : "Lion iPhone",
   "title" : "Lion iPhone Wallpaper",
-  "folderName" : "Lion iPhone Wallpaper",
+  "folderName" : "LioniPhoneWallpaper",
   "url" : "/lion-iphone",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/496621.jpg",
@@ -545,7 +545,7 @@
 }, {
   "name" : "Tiger iPhone",
   "title" : "Tiger iPhone Wallpaper",
-  "folderName" : "Tiger iPhone Wallpaper",
+  "folderName" : "TigeriPhoneWallpaper",
   "url" : "/tiger-iphone",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/885655.jpg",
@@ -553,7 +553,7 @@
 }, {
   "name" : "Zebra",
   "title" : "Zebra Wallpaper",
-  "folderName" : "Zebra Wallpaper",
+  "folderName" : "ZebraWallpaper",
   "url" : "/zebra",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/781642.jpg",
@@ -561,7 +561,7 @@
 }, {
   "name" : "Rabbit",
   "title" : "Rabbit Wallpaper",
-  "folderName" : "Rabbit Wallpaper",
+  "folderName" : "RabbitWallpaper",
   "url" : "/rabbit",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/83847.jpg",
@@ -569,7 +569,7 @@
 }, {
   "name" : "Octopus",
   "title" : "Octopus Wallpaper",
-  "folderName" : "Octopus Wallpaper",
+  "folderName" : "OctopusWallpaper",
   "url" : "/octopus",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/781500.jpg",
@@ -577,7 +577,7 @@
 }, {
   "name" : "Tucan",
   "title" : "Tucan Wallpaper",
-  "folderName" : "Tucan Wallpaper",
+  "folderName" : "TucanWallpaper",
   "url" : "/tucan",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/781567.jpg",
@@ -585,7 +585,7 @@
 }, {
   "name" : "Chameleon",
   "title" : "Chameleon Wallpaper",
-  "folderName" : "Chameleon Wallpaper",
+  "folderName" : "ChameleonWallpaper",
   "url" : "/chameleon",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/781477.jpg",
@@ -593,7 +593,7 @@
 }, {
   "name" : "Frog",
   "title" : "Frog Wallpaper",
-  "folderName" : "Frog Wallpaper",
+  "folderName" : "FrogWallpaper",
   "url" : "/frog",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/781432.jpg",
@@ -601,7 +601,7 @@
 }, {
   "name" : "Wild Horses",
   "title" : "Wild Horses Wallpaper",
-  "folderName" : "Wild Horses Wallpaper",
+  "folderName" : "WildHorsesWallpaper",
   "url" : "/wild-horses",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/680148.jpg",
@@ -609,7 +609,7 @@
 }, {
   "name" : "4K Dog",
   "title" : "4K Dog Wallpaper",
-  "folderName" : "4K Dog Wallpaper",
+  "folderName" : "4KDogWallpaper",
   "url" : "/4k-dog",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/546539.jpg",
@@ -617,7 +617,7 @@
 }, {
   "name" : "Black and White Owl",
   "title" : "Black and White Owl Wallpaper",
-  "folderName" : "Black and White Owl Wallpaper",
+  "folderName" : "BlackandWhiteOwlWallpaper",
   "url" : "/black-and-white-owl",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/770973.jpg",
@@ -625,7 +625,7 @@
 }, {
   "name" : "8K Tiger UHD",
   "title" : "8K Tiger UHD Wallpaper",
-  "folderName" : "8K Tiger UHD Wallpaper",
+  "folderName" : "8KTigerUHDWallpaper",
   "url" : "/8k-tiger-uhd",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/675074.jpg",
@@ -633,7 +633,7 @@
 }, {
   "name" : "Spring Animals",
   "title" : "Spring Animals Wallpaper",
-  "folderName" : "Spring Animals Wallpaper",
+  "folderName" : "SpringAnimalsWallpaper",
   "url" : "/spring-animals",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/363897.jpg",
@@ -641,7 +641,7 @@
 }, {
   "name" : "Bald Eagle HD",
   "title" : "Bald Eagle HD Wallpaper",
-  "folderName" : "Bald Eagle HD Wallpaper",
+  "folderName" : "BaldEagleHDWallpaper",
   "url" : "/bald-eagle-hd",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/103374.jpg",
@@ -649,7 +649,7 @@
 }, {
   "name" : "Cool Shark",
   "title" : "Cool Shark Wallpaper",
-  "folderName" : "Cool Shark Wallpaper",
+  "folderName" : "CoolSharkWallpaper",
   "url" : "/cool-shark",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/306759.jpg",
@@ -657,7 +657,7 @@
 }, {
   "name" : "Cool Lion",
   "title" : "Cool Lion Wallpaper",
-  "folderName" : "Cool Lion Wallpaper",
+  "folderName" : "CoolLionWallpaper",
   "url" : "/cool-lion",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/167408.jpg",
@@ -665,7 +665,7 @@
 }, {
   "name" : "Pig",
   "title" : "Pig Wallpaper",
-  "folderName" : "Pig Wallpaper",
+  "folderName" : "PigWallpaper",
   "url" : "/pig",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/340231.jpg",
@@ -673,7 +673,7 @@
 }, {
   "name" : "Cool Dog Desktop",
   "title" : "Cool Dog Desktop Wallpaper",
-  "folderName" : "Cool Dog Desktop Wallpaper",
+  "folderName" : "CoolDogDesktopWallpaper",
   "url" : "/cool-dog-desktop",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/401450.jpg",
@@ -681,7 +681,7 @@
 }, {
   "name" : "Snake iPhone",
   "title" : "Snake iPhone Wallpaper",
-  "folderName" : "Snake iPhone Wallpaper",
+  "folderName" : "SnakeiPhoneWallpaper",
   "url" : "/serpent-iphone",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/277274.jpg",
@@ -689,7 +689,7 @@
 }, {
   "name" : "Cat Phone",
   "title" : "Cat Phone Wallpaper",
-  "folderName" : "Cat Phone Wallpaper",
+  "folderName" : "CatPhoneWallpaper",
   "url" : "/cat-phone",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/380428.jpg",
@@ -697,7 +697,7 @@
 }, {
   "name" : "Baby Penguin",
   "title" : "Baby Penguin Wallpaper",
-  "folderName" : "Baby Penguin Wallpaper",
+  "folderName" : "BabyPenguinWallpaper",
   "url" : "/baby-penguin",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/392012.jpg",
@@ -705,7 +705,7 @@
 }, {
   "name" : "Baby Dolphin",
   "title" : "Baby Dolphin Wallpaper",
-  "folderName" : "Baby Dolphin Wallpaper",
+  "folderName" : "BabyDolphinWallpaper",
   "url" : "/baby-dolphin",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/495719.jpg",
@@ -713,7 +713,7 @@
 }, {
   "name" : "Neon Animals",
   "title" : "Neon Animals Wallpaper",
-  "folderName" : "Neon Animals Wallpaper",
+  "folderName" : "NeonAnimalsWallpaper",
   "url" : "/neon-animals",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/381200.jpg",
@@ -721,7 +721,7 @@
 }, {
   "name" : "Persian Cat",
   "title" : "Persian Cat Wallpaper",
-  "folderName" : "Persian Cat Wallpaper",
+  "folderName" : "PersianCatWallpaper",
   "url" : "/persian-cat",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/500523.jpg",
@@ -729,7 +729,7 @@
 }, {
   "name" : "Kitten",
   "title" : "Kitten Wallpaper",
-  "folderName" : "Kitten Wallpaper",
+  "folderName" : "KittenWallpaper",
   "url" : "/kitten",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/532643.jpg",
@@ -737,7 +737,7 @@
 }, {
   "name" : "Black Cat",
   "title" : "Black Cat Wallpaper",
-  "folderName" : "Black Cat Wallpaper",
+  "folderName" : "BlackCatWallpaper",
   "url" : "/black-cat",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/105675.jpg",
@@ -745,7 +745,7 @@
 }, {
   "name" : "Eagles 4K Ultra HD",
   "title" : "Eagles 4K Ultra HD Wallpaper",
-  "folderName" : "Eagles 4K Ultra HD Wallpaper",
+  "folderName" : "Eagles4KUltraHDWallpaper",
   "url" : "/eagles-4k-ultra-hd",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/328913.jpg",
@@ -753,7 +753,7 @@
 }, {
   "name" : "Cute Owl",
   "title" : "Cute Owl Wallpaper",
-  "folderName" : "Cute Owl Wallpaper",
+  "folderName" : "CuteOwlWallpaper",
   "url" : "/cute-owl",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/176479.jpg",
@@ -761,7 +761,7 @@
 }, {
   "name" : "Epic Lion",
   "title" : "Epic Lion Wallpaper",
-  "folderName" : "Epic Lion Wallpaper",
+  "folderName" : "EpicLionWallpaper",
   "url" : "/epic-lion",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/103786.jpg",
@@ -769,7 +769,7 @@
 }, {
   "name" : "Jaguar",
   "title" : "Jaguar Wallpaper",
-  "folderName" : "Jaguar Wallpaper",
+  "folderName" : "JaguarWallpaper",
   "url" : "/jaguar",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/146027.jpg",
@@ -777,7 +777,7 @@
 }, {
   "name" : "Winter Dog",
   "title" : "Winter Dog Wallpaper",
-  "folderName" : "Winter Dog Wallpaper",
+  "folderName" : "WinterDogWallpaper",
   "url" : "/winter-dog",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/384178.jpg",
@@ -785,7 +785,7 @@
 }, {
   "name" : "Cute Dog",
   "title" : "Cute Dog Wallpaper",
-  "folderName" : "Cute Dog Wallpaper",
+  "folderName" : "CuteDogWallpaper",
   "url" : "/cute-dog",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/266770.jpg",
@@ -793,7 +793,7 @@
 }, {
   "name" : "Cat 4K",
   "title" : "Cat 4K Wallpaper",
-  "folderName" : "Cat 4K Wallpaper",
+  "folderName" : "Cat4KWallpaper",
   "url" : "/cat-4k",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/255883.jpg",
@@ -801,7 +801,7 @@
 }, {
   "name" : "Cats and Dogs",
   "title" : "Cats and Dogs Wallpaper",
-  "folderName" : "Cats and Dogs Wallpaper",
+  "folderName" : "CatsandDogsWallpaper",
   "url" : "/cats-and-dogs",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/497333.jpg",
@@ -809,7 +809,7 @@
 }, {
   "name" : "Funny Animals",
   "title" : "Funny Animals Wallpaper",
-  "folderName" : "Funny Animals Wallpaper",
+  "folderName" : "FunnyAnimalsWallpaper",
   "url" : "/funny-animals",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/240618.jpg",
@@ -817,7 +817,7 @@
 }, {
   "name" : "Cute Baby Animals Ever",
   "title" : "Cute Baby Animals Ever Wallpaper",
-  "folderName" : "Cute Baby Animals Ever Wallpaper",
+  "folderName" : "CuteBabyAnimalsEverWallpaper",
   "url" : "/cute-baby-animals-ever",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/472834.jpg",
@@ -825,7 +825,7 @@
 }, {
   "name" : "Cute Puppy",
   "title" : "Cute Puppy Wallpaper",
-  "folderName" : "Cute Puppy Wallpaper",
+  "folderName" : "CutePuppyWallpaper",
   "url" : "/cute-puppy",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/390975.jpg",
@@ -833,7 +833,7 @@
 }, {
   "name" : "Cute Monkey",
   "title" : "Cute Monkey Wallpaper",
-  "folderName" : "Cute Monkey Wallpaper",
+  "folderName" : "CuteMonkeyWallpaper",
   "url" : "/cute-monkey",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/368573.jpg",
@@ -841,7 +841,7 @@
 }, {
   "name" : "Owl iPhone",
   "title" : "Owl iPhone Wallpaper",
-  "folderName" : "Owl iPhone Wallpaper",
+  "folderName" : "OwliPhoneWallpaper",
   "url" : "/owl-iphone",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/190149.jpg",
@@ -849,7 +849,7 @@
 }, {
   "name" : "Owl",
   "title" : "Owl Wallpaper",
-  "folderName" : "Owl Wallpaper",
+  "folderName" : "OwlWallpaper",
   "url" : "/owl",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/155974.jpg",
@@ -857,7 +857,7 @@
 }, {
   "name" : "Dog",
   "title" : "Dog Wallpaper",
-  "folderName" : "Dog Wallpaper",
+  "folderName" : "DogWallpaper",
   "url" : "/dog",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/266770.jpg",
@@ -865,7 +865,7 @@
 }, {
   "name" : "Lion",
   "title" : "Lion Wallpaper",
-  "folderName" : "Lion Wallpaper",
+  "folderName" : "LionWallpaper",
   "url" : "/lion",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/496574.jpg",
@@ -873,7 +873,7 @@
 }, {
   "name" : "Fox",
   "title" : "Fox Wallpaper",
-  "folderName" : "Fox Wallpaper",
+  "folderName" : "FoxWallpaper",
   "url" : "/fox",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/82704.jpg",
@@ -881,7 +881,7 @@
 }, {
   "name" : "Tiger",
   "title" : "Tiger Wallpaper",
-  "folderName" : "Tiger Wallpaper",
+  "folderName" : "TigerWallpaper",
   "url" : "/tiger",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/366112.jpg",
@@ -889,7 +889,7 @@
 }, {
   "name" : "Dog Desktop",
   "title" : "Dog Desktop Wallpaper",
-  "folderName" : "Dog Desktop Wallpaper",
+  "folderName" : "DogDesktopWallpaper",
   "url" : "/dog-desktop",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/266689.jpg",
@@ -897,7 +897,7 @@
 }, {
   "name" : "Snake 4K Ultra HD",
   "title" : "Snake 4K Ultra HD Wallpaper",
-  "folderName" : "Snake 4K Ultra HD Wallpaper",
+  "folderName" : "Snake4KUltraHDWallpaper",
   "url" : "/snake-4k-ultra-hd",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/254499.jpg",
@@ -905,7 +905,7 @@
 }, {
   "name" : "4K Eagle",
   "title" : "4K Eagle Wallpaper",
-  "folderName" : "4K Eagle Wallpaper",
+  "folderName" : "4KEagleWallpaper",
   "url" : "/4k-eagle",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/328916.jpg",
@@ -913,7 +913,7 @@
 }, {
   "name" : "Baby Panda",
   "title" : "Baby Panda Wallpaper",
-  "folderName" : "Baby Panda Wallpaper",
+  "folderName" : "BabyPandaWallpaper",
   "url" : "/baby-panda",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/549823.jpg",
@@ -921,7 +921,7 @@
 }, {
   "name" : "Panda Bear",
   "title" : "Panda Bear Wallpaper",
-  "folderName" : "Panda Bear Wallpaper",
+  "folderName" : "PandaBearWallpaper",
   "url" : "/panda-bear",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/230623.jpg",
@@ -929,7 +929,7 @@
 }, {
   "name" : "Bird",
   "title" : "Bird Wallpaper",
-  "folderName" : "Bird Wallpaper",
+  "folderName" : "BirdWallpaper",
   "url" : "/bird",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/486010.jpg",
@@ -937,7 +937,7 @@
 }, {
   "name" : "Horse",
   "title" : "Horse Wallpaper",
-  "folderName" : "Horse Wallpaper",
+  "folderName" : "HorseWallpaper",
   "url" : "/horse",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/376843.jpg",
@@ -945,7 +945,7 @@
 }, {
   "name" : "Cute Cat",
   "title" : "Cute Cat Wallpaper",
-  "folderName" : "Cute Cat Wallpaper",
+  "folderName" : "CuteCatWallpaper",
   "url" : "/cute-cat",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/94009.jpg",
@@ -953,7 +953,7 @@
 }, {
   "name" : "White Cat",
   "title" : "White Cat Wallpaper",
-  "folderName" : "White Cat Wallpaper",
+  "folderName" : "WhiteCatWallpaper",
   "url" : "/white-cat",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/32056.jpg",
@@ -961,7 +961,7 @@
 }, {
   "name" : "Water Dragon Lizard",
   "title" : "Water Dragon Lizard Wallpaper",
-  "folderName" : "Water Dragon Lizard Wallpaper",
+  "folderName" : "WaterDragonLizardWallpaper",
   "url" : "/water-dragon-lizard",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/40827.jpg",
@@ -969,7 +969,7 @@
 }, {
   "name" : "Hipster Cat",
   "title" : "Hipster Cat Wallpaper",
-  "folderName" : "Hipster Cat Wallpaper",
+  "folderName" : "HipsterCatWallpaper",
   "url" : "/hipster-cat",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/19539.png",
@@ -977,7 +977,7 @@
 }, {
   "name" : "Wolf",
   "title" : "Wolf Wallpaper",
-  "folderName" : "Wolf Wallpaper",
+  "folderName" : "WolfWallpaper",
   "url" : "/wolf",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/9376.jpg",
@@ -985,7 +985,7 @@
 }, {
   "name" : "Cat",
   "title" : "Cat Wallpaper",
-  "folderName" : "Cat Wallpaper",
+  "folderName" : "CatWallpaper",
   "url" : "/cat",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/32048.jpg",
@@ -993,7 +993,7 @@
 }, {
   "name" : "American Eagle",
   "title" : "American Eagle Wallpaper",
-  "folderName" : "American Eagle Wallpaper",
+  "folderName" : "AmericanEagleWallpaper",
   "url" : "/american-eagle",
   "category" : "/animals",
   "thumbSource" : "https://wallpaperaccess.com/thumb/25701.jpg",
