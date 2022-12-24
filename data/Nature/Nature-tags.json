@@ -1,7 +1,7 @@
 [ {
   "name" : "Tundra",
   "title" : "Tundra Wallpaper",
-  "folderName" : "Tundra Wallpaper",
+  "folderName" : "TundraWallpaper",
   "url" : "/tundra",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1728814.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Rainy Forest",
   "title" : "Rainy Forest Wallpaper",
-  "folderName" : "Rainy Forest Wallpaper",
+  "folderName" : "RainyForestWallpaper",
   "url" : "/rainy-forest",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1413762.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Vilage Rain",
   "title" : "Vilage Rain Wallpaper",
-  "folderName" : "Vilage Rain Wallpaper",
+  "folderName" : "VilageRainWallpaper",
   "url" : "/vilage-rain",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/732915.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Butterfly Garden",
   "title" : "Butterfly Garden Wallpaper",
-  "folderName" : "Butterfly Garden Wallpaper",
+  "folderName" : "ButterflyGardenWallpaper",
   "url" : "/butterfly-garden",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/176866.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Big Beautiful Nature",
   "title" : "Big Beautiful Nature Wallpaper",
-  "folderName" : "Big Beautiful Nature Wallpaper",
+  "folderName" : "BigBeautifulNatureWallpaper",
   "url" : "/big-beautiful-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/360424.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Paradise Desktop",
   "title" : "Paradise Desktop Wallpaper",
-  "folderName" : "Paradise Desktop Wallpaper",
+  "folderName" : "ParadiseDesktopWallpaper",
   "url" : "/paradise-desktop",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/420117.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Summer Nature",
   "title" : "Summer Nature Wallpaper",
-  "folderName" : "Summer Nature Wallpaper",
+  "folderName" : "SummerNatureWallpaper",
   "url" : "/summer-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/364215.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Czech Nature",
   "title" : "Czech Nature Wallpaper",
-  "folderName" : "Czech Nature Wallpaper",
+  "folderName" : "CzechNatureWallpaper",
   "url" : "/czech-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/219241.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Russia Nature",
   "title" : "Russia Nature Wallpaper",
-  "folderName" : "Russia Nature Wallpaper",
+  "folderName" : "RussiaNatureWallpaper",
   "url" : "/russia-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/372581.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Iceland Nature",
   "title" : "Iceland Nature Wallpaper",
-  "folderName" : "Iceland Nature Wallpaper",
+  "folderName" : "IcelandNatureWallpaper",
   "url" : "/iceland-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/202798.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "New Zeland Nature",
   "title" : "New Zeland Nature Wallpaper",
-  "folderName" : "New Zeland Nature Wallpaper",
+  "folderName" : "NewZelandNatureWallpaper",
   "url" : "/new-zeland-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/121511.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Unique Nature",
   "title" : "Unique Nature Wallpaper",
-  "folderName" : "Unique Nature Wallpaper",
+  "folderName" : "UniqueNatureWallpaper",
   "url" : "/unique-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/377734.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Spring Nature",
   "title" : "Spring Nature Wallpaper",
-  "folderName" : "Spring Nature Wallpaper",
+  "folderName" : "SpringNatureWallpaper",
   "url" : "/spring-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/86938.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Campfire",
   "title" : "Campfire Wallpaper",
-  "folderName" : "Campfire Wallpaper",
+  "folderName" : "CampfireWallpaper",
   "url" : "/campfire",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/174270.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Fall Nature",
   "title" : "Fall Nature Wallpaper",
-  "folderName" : "Fall Nature Wallpaper",
+  "folderName" : "FallNatureWallpaper",
   "url" : "/fall-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/547232.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Cherry Blossom Yellow",
   "title" : "Cherry Blossom Yellow Wallpaper",
-  "folderName" : "Cherry Blossom Yellow Wallpaper",
+  "folderName" : "CherryBlossomYellowWallpaper",
   "url" : "/cherry-blossom-yellow",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/325099.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Underwater",
   "title" : "Underwater Wallpaper",
-  "folderName" : "Underwater Wallpaper",
+  "folderName" : "UnderwaterWallpaper",
   "url" : "/underwater",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/369026.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Zen Waterfall",
   "title" : "Zen Waterfall Wallpaper",
-  "folderName" : "Zen Waterfall Wallpaper",
+  "folderName" : "ZenWaterfallWallpaper",
   "url" : "/zen-waterfall",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/177149.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Island",
   "title" : "Island Wallpaper",
-  "folderName" : "Island Wallpaper",
+  "folderName" : "IslandWallpaper",
   "url" : "/island",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/81538.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Beach at Night",
   "title" : "Beach at Night Wallpaper",
-  "folderName" : "Beach at Night Wallpaper",
+  "folderName" : "BeachatNightWallpaper",
   "url" : "/beach-at-night",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/87755.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Beach Sunset",
   "title" : "Beach Sunset Wallpaper",
-  "folderName" : "Beach Sunset Wallpaper",
+  "folderName" : "BeachSunsetWallpaper",
   "url" : "/beach-sunset",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/556796.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "32K Ultra HD Nature",
   "title" : "32K Ultra HD Nature Wallpaper",
-  "folderName" : "32K Ultra HD Nature Wallpaper",
+  "folderName" : "32KUltraHDNatureWallpaper",
   "url" : "/32k-ultra-hd-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/7275.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "American Landscape",
   "title" : "American Landscape Wallpaper",
-  "folderName" : "American Landscape Wallpaper",
+  "folderName" : "AmericanLandscapeWallpaper",
   "url" : "/american-landscape",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/329362.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Blue Skies",
   "title" : "Blue Skies Wallpaper",
-  "folderName" : "Blue Skies Wallpaper",
+  "folderName" : "BlueSkiesWallpaper",
   "url" : "/blue-skies",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/58362.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Tropical Beach Landscape",
   "title" : "Tropical Beach Landscape Wallpaper",
-  "folderName" : "Tropical Beach Landscape Wallpaper",
+  "folderName" : "TropicalBeachLandscapeWallpaper",
   "url" : "/tropical-beach-landscape",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/359648.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Winter Scenery",
   "title" : "Winter Scenery Wallpaper",
-  "folderName" : "Winter Scenery Wallpaper",
+  "folderName" : "WinterSceneryWallpaper",
   "url" : "/winter-scenery",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/332689.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Japan Winter Nature",
   "title" : "Japan Winter Nature Wallpaper",
-  "folderName" : "Japan Winter Nature Wallpaper",
+  "folderName" : "JapanWinterNatureWallpaper",
   "url" : "/japan-winter-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/22617.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "Landscape",
   "title" : "Landscape Wallpaper",
-  "folderName" : "Landscape Wallpaper",
+  "folderName" : "LandscapeWallpaper",
   "url" : "/landscape",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/90977.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Zen Nature",
   "title" : "Zen Nature Wallpaper",
-  "folderName" : "Zen Nature Wallpaper",
+  "folderName" : "ZenNatureWallpaper",
   "url" : "/zen-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/366356.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Sky",
   "title" : "Sky Wallpaper",
-  "folderName" : "Sky Wallpaper",
+  "folderName" : "SkyWallpaper",
   "url" : "/sky",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/58327.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Korea Nature",
   "title" : "Korea Nature Wallpaper",
-  "folderName" : "Korea Nature Wallpaper",
+  "folderName" : "KoreaNatureWallpaper",
   "url" : "/korea-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/37317.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "4K Nature",
   "title" : "4K Nature Wallpaper",
-  "folderName" : "4K Nature Wallpaper",
+  "folderName" : "4KNatureWallpaper",
   "url" : "/4k-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/31189.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Irish Landscape",
   "title" : "Irish Landscape Wallpaper",
-  "folderName" : "Irish Landscape Wallpaper",
+  "folderName" : "IrishLandscapeWallpaper",
   "url" : "/irish-landscape",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/55009.jpg",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Philippines Landscape",
   "title" : "Philippines Landscape Wallpaper",
-  "folderName" : "Philippines Landscape Wallpaper",
+  "folderName" : "PhilippinesLandscapeWallpaper",
   "url" : "/philippines-landscape",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/22983.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Japanese Nature",
   "title" : "Japanese Nature Wallpaper",
-  "folderName" : "Japanese Nature Wallpaper",
+  "folderName" : "JapaneseNatureWallpaper",
   "url" : "/japanese-nature",
   "category" : "/nature",
   "thumbSource" : "https://wallpaperaccess.com/thumb/43575.jpg",

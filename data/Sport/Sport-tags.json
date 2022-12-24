@@ -1,7 +1,7 @@
 [ {
   "name" : "Iker Casillas",
   "title" : "Iker Casillas Wallpaper",
-  "folderName" : "Iker Casillas Wallpaper",
+  "folderName" : "IkerCasillasWallpaper",
   "url" : "/iker-casillas",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/3887955.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Fiorentina",
   "title" : "Fiorentina Wallpaper",
-  "folderName" : "Fiorentina Wallpaper",
+  "folderName" : "FiorentinaWallpaper",
   "url" : "/fiorentina",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2534265.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Hokey",
   "title" : "Hokey Wallpaper",
-  "folderName" : "Hokey Wallpaper",
+  "folderName" : "HokeyWallpaper",
   "url" : "/hokey",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1253855.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Tokyo 2020",
   "title" : "Tokyo 2020 Wallpaper",
-  "folderName" : "Tokyo 2020 Wallpaper",
+  "folderName" : "Tokyo2020Wallpaper",
   "url" : "/tokyo-2020",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2027017.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Tiger Woods",
   "title" : "Tiger Woods Wallpaper",
-  "folderName" : "Tiger Woods Wallpaper",
+  "folderName" : "TigerWoodsWallpaper",
   "url" : "/tiger-woods",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1625649.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Rugby",
   "title" : "Rugby Wallpaper",
-  "folderName" : "Rugby Wallpaper",
+  "folderName" : "RugbyWallpaper",
   "url" : "/rugby",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1103840.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Messi",
   "title" : "Messi Wallpaper",
-  "folderName" : "Messi Wallpaper",
+  "folderName" : "MessiWallpaper",
   "url" : "/messi",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/781178.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Tennis",
   "title" : "Tennis Wallpaper",
-  "folderName" : "Tennis Wallpaper",
+  "folderName" : "TennisWallpaper",
   "url" : "/tennis",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/780472.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Real Madrid",
   "title" : "Real Madrid Wallpaper",
-  "folderName" : "Real Madrid Wallpaper",
+  "folderName" : "RealMadridWallpaper",
   "url" : "/real-madrid",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/780387.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Bulls Logo",
   "title" : "Bulls Logo Wallpaper",
-  "folderName" : "Bulls Logo Wallpaper",
+  "folderName" : "BullsLogoWallpaper",
   "url" : "/bulls-logo",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/638591.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "4K NBA",
   "title" : "4K NBA Wallpaper",
-  "folderName" : "4K NBA Wallpaper",
+  "folderName" : "4KNBAWallpaper",
   "url" : "/4k-nba",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/719885.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "4K Sports",
   "title" : "4K Sports Wallpaper",
-  "folderName" : "4K Sports Wallpaper",
+  "folderName" : "4KSportsWallpaper",
   "url" : "/4k-sports",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/139522.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Bodybuilders HD",
   "title" : "Bodybuilders HD Wallpaper",
-  "folderName" : "Bodybuilders HD Wallpaper",
+  "folderName" : "BodybuildersHDWallpaper",
   "url" : "/bodybuilders-hd",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/720211.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Boxing",
   "title" : "Boxing Wallpaper",
-  "folderName" : "Boxing Wallpaper",
+  "folderName" : "BoxingWallpaper",
   "url" : "/boxing",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/113299.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Brazil Soccer",
   "title" : "Brazil Soccer Wallpaper",
-  "folderName" : "Brazil Soccer Wallpaper",
+  "folderName" : "BrazilSoccerWallpaper",
   "url" : "/brazil-soccer",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/46583.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Warriors Basketball",
   "title" : "Warriors Basketball Wallpaper",
-  "folderName" : "Warriors Basketball Wallpaper",
+  "folderName" : "WarriorsBasketballWallpaper",
   "url" : "/warriors-basketball",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/15662.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Stephen Curry",
   "title" : "Stephen Curry Wallpaper",
-  "folderName" : "Stephen Curry Wallpaper",
+  "folderName" : "StephenCurryWallpaper",
   "url" : "/stephen-curry",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/15664.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "LeBron James",
   "title" : "LeBron James Wallpaper",
-  "folderName" : "LeBron James Wallpaper",
+  "folderName" : "LeBronJamesWallpaper",
   "url" : "/lebron-james",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/418255.png",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Cristiano Ronaldo Cool",
   "title" : "Cristiano Ronaldo Cool Wallpaper",
-  "folderName" : "Cristiano Ronaldo Cool Wallpaper",
+  "folderName" : "CristianoRonaldoCoolWallpaper",
   "url" : "/cristiano-ronaldo-cool",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/277484.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "NFL 12K",
   "title" : "NFL 12K Wallpaper",
-  "folderName" : "NFL 12K Wallpaper",
+  "folderName" : "NFL12KWallpaper",
   "url" : "/nfl-12k",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/308967.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Neymar",
   "title" : "Neymar Wallpaper",
-  "folderName" : "Neymar Wallpaper",
+  "folderName" : "NeymarWallpaper",
   "url" : "/neymar",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/493696.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "NBA",
   "title" : "NBA Wallpaper",
-  "folderName" : "NBA Wallpaper",
+  "folderName" : "NBAWallpaper",
   "url" : "/nba",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/128130.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "NFL",
   "title" : "NFL Wallpaper",
-  "folderName" : "NFL Wallpaper",
+  "folderName" : "NFLWallpaper",
   "url" : "/nfl",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/301291.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Tom Brady",
   "title" : "Tom Brady Wallpaper",
-  "folderName" : "Tom Brady Wallpaper",
+  "folderName" : "TomBradyWallpaper",
   "url" : "/tom-brady",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/471320.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Patriots Football",
   "title" : "Patriots Football Wallpaper",
-  "folderName" : "Patriots Football Wallpaper",
+  "folderName" : "PatriotsFootballWallpaper",
   "url" : "/patriots-football",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/43929.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Barcelona",
   "title" : "Barcelona Wallpaper",
-  "folderName" : "Barcelona Wallpaper",
+  "folderName" : "BarcelonaWallpaper",
   "url" : "/barcelona",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/483251.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Sports iPhone 6 Plus",
   "title" : "Sports iPhone 6 Plus Wallpaper",
-  "folderName" : "Sports iPhone 6 Plus Wallpaper",
+  "folderName" : "SportsiPhone6PlusWallpaper",
   "url" : "/sports-iphone-6-plus",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/130488.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "HD Sports",
   "title" : "HD Sports Wallpaper",
-  "folderName" : "HD Sports Wallpaper",
+  "folderName" : "HDSportsWallpaper",
   "url" : "/hd-sports",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/343549.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Basketball",
   "title" : "Basketball Wallpaper",
-  "folderName" : "Basketball Wallpaper",
+  "folderName" : "BasketballWallpaper",
   "url" : "/basketball",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/139512.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Arsenal Logo Desktop",
   "title" : "Arsenal Logo Desktop Wallpaper",
-  "folderName" : "Arsenal Logo Desktop Wallpaper",
+  "folderName" : "ArsenalLogoDesktopWallpaper",
   "url" : "/arsenal-logo-desktop",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/219041.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Kickboxing",
   "title" : "Kickboxing Wallpaper",
-  "folderName" : "Kickboxing Wallpaper",
+  "folderName" : "KickboxingWallpaper",
   "url" : "/kickboxing",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/113283.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Snowboarding",
   "title" : "Snowboarding Wallpaper",
-  "folderName" : "Snowboarding Wallpaper",
+  "folderName" : "SnowboardingWallpaper",
   "url" : "/snowboarding",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/16885.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Karate",
   "title" : "Karate Wallpaper",
-  "folderName" : "Karate Wallpaper",
+  "folderName" : "KarateWallpaper",
   "url" : "/karate",
   "category" : "/sport",
   "thumbSource" : "https://wallpaperaccess.com/thumb/19419.jpg",

@@ -1,7 +1,7 @@
 [ {
   "name" : "Francisco Goya",
   "title" : "Francisco Goya Wallpaper",
-  "folderName" : "Francisco Goya Wallpaper",
+  "folderName" : "FranciscoGoyaWallpaper",
   "url" : "/francisco-goya",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2707716.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "William Turner",
   "title" : "William Turner Wallpaper",
-  "folderName" : "William Turner Wallpaper",
+  "folderName" : "WilliamTurnerWallpaper",
   "url" : "/william-turner",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1825489.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Egon Schiele",
   "title" : "Egon Schiele Wallpaper",
-  "folderName" : "Egon Schiele Wallpaper",
+  "folderName" : "EgonSchieleWallpaper",
   "url" : "/egon-schiele",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1824827.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Henri Matisse",
   "title" : "Henri Matisse Wallpaper",
-  "folderName" : "Henri Matisse Wallpaper",
+  "folderName" : "HenriMatisseWallpaper",
   "url" : "/henri-matisse",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1824549.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Roy Lichtenstein",
   "title" : "Roy Lichtenstein Wallpaper",
-  "folderName" : "Roy Lichtenstein Wallpaper",
+  "folderName" : "RoyLichtensteinWallpaper",
   "url" : "/roy-lichtenstein",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1712003.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Frida",
   "title" : "Frida Wallpaper",
-  "folderName" : "Frida Wallpaper",
+  "folderName" : "FridaWallpaper",
   "url" : "/frida",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1149610.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Georgia O'Keefe",
   "title" : "Georgia O'Keefe Wallpaper",
-  "folderName" : "Georgia O'Keefe Wallpaper",
+  "folderName" : "GeorgiaO'KeefeWallpaper",
   "url" : "/georgia-okeefe",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1645480.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Duchamp",
   "title" : "Duchamp Wallpaper",
-  "folderName" : "Duchamp Wallpaper",
+  "folderName" : "DuchampWallpaper",
   "url" : "/duchamp",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1645460.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Monet HD",
   "title" : "Monet HD Wallpaper",
-  "folderName" : "Monet HD Wallpaper",
+  "folderName" : "MonetHDWallpaper",
   "url" : "/monet-hd",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1197681.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Claude Monet Water Lilies",
   "title" : "Claude Monet Water Lilies Wallpaper",
-  "folderName" : "Claude Monet Water Lilies Wallpaper",
+  "folderName" : "ClaudeMonetWaterLiliesWallpaper",
   "url" : "/claude-monet-water-lilies",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1626927.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Art Nouveau",
   "title" : "Art Nouveau Wallpaper",
-  "folderName" : "Art Nouveau Wallpaper",
+  "folderName" : "ArtNouveauWallpaper",
   "url" : "/art-nouveau",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1521763.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Degas",
   "title" : "Degas Wallpaper",
-  "folderName" : "Degas Wallpaper",
+  "folderName" : "DegasWallpaper",
   "url" : "/degas",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/28106.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Mona Lisa",
   "title" : "Mona Lisa Wallpaper",
-  "folderName" : "Mona Lisa Wallpaper",
+  "folderName" : "MonaLisaWallpaper",
   "url" : "/mona-lisa",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1115339.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Paul Klee",
   "title" : "Paul Klee Wallpaper",
-  "folderName" : "Paul Klee Wallpaper",
+  "folderName" : "PaulKleeWallpaper",
   "url" : "/paul-klee",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/911584.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Black Art HD",
   "title" : "Black Art HD Wallpaper",
-  "folderName" : "Black Art HD Wallpaper",
+  "folderName" : "BlackArtHDWallpaper",
   "url" : "/black-art-hd",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/215321.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Aztec Design",
   "title" : "Aztec Design Wallpaper",
-  "folderName" : "Aztec Design Wallpaper",
+  "folderName" : "AztecDesignWallpaper",
   "url" : "/aztec-design",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/214754.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Minimalist Design HD",
   "title" : "Minimalist Design HD Wallpaper",
-  "folderName" : "Minimalist Design HD Wallpaper",
+  "folderName" : "MinimalistDesignHDWallpaper",
   "url" : "/minimalist-design-hd",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/450520.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Famous Painting",
   "title" : "Famous Painting Wallpaper",
-  "folderName" : "Famous Painting Wallpaper",
+  "folderName" : "FamousPaintingWallpaper",
   "url" : "/famous-painting",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/104180.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Michelangelo Paintings",
   "title" : "Michelangelo Paintings Wallpaper",
-  "folderName" : "Michelangelo Paintings Wallpaper",
+  "folderName" : "MichelangeloPaintingsWallpaper",
   "url" : "/michelangelo-paintings",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/49611.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Sistine Chapel Ceiling",
   "title" : "Sistine Chapel Ceiling Wallpaper",
-  "folderName" : "Sistine Chapel Ceiling Wallpaper",
+  "folderName" : "SistineChapelCeilingWallpaper",
   "url" : "/sistine-chapel-ceiling",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/328748.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Leonardo Da Vinci",
   "title" : "Leonardo Da Vinci Wallpaper",
-  "folderName" : "Leonardo Da Vinci Wallpaper",
+  "folderName" : "LeonardoDaVinciWallpaper",
   "url" : "/leonardo-da-vinci",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/416301.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "Andy Warhol",
   "title" : "Andy Warhol Wallpaper",
-  "folderName" : "Andy Warhol Wallpaper",
+  "folderName" : "AndyWarholWallpaper",
   "url" : "/andy-warhol",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/474022.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "Urban Art",
   "title" : "Urban Art Wallpaper",
-  "folderName" : "Urban Art Wallpaper",
+  "folderName" : "UrbanArtWallpaper",
   "url" : "/urban-art",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/210614.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Artistic",
   "title" : "Artistic Wallpaper",
-  "folderName" : "Artistic Wallpaper",
+  "folderName" : "ArtisticWallpaper",
   "url" : "/artistic",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/423702.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Claude Monet",
   "title" : "Claude Monet Wallpaper",
-  "folderName" : "Claude Monet Wallpaper",
+  "folderName" : "ClaudeMonetWallpaper",
   "url" : "/claude-monet",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/4163.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Marc Chagall",
   "title" : "Marc Chagall Wallpaper",
-  "folderName" : "Marc Chagall Wallpaper",
+  "folderName" : "MarcChagallWallpaper",
   "url" : "/marc-chagall",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/323488.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Edward Hopper",
   "title" : "Edward Hopper Wallpaper",
-  "folderName" : "Edward Hopper Wallpaper",
+  "folderName" : "EdwardHopperWallpaper",
   "url" : "/edward-hopper",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/498833.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "Cat Art",
   "title" : "Cat Art Wallpaper",
-  "folderName" : "Cat Art Wallpaper",
+  "folderName" : "CatArtWallpaper",
   "url" : "/cat-art",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/95684.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Famous Art",
   "title" : "Famous Art Wallpaper",
-  "folderName" : "Famous Art Wallpaper",
+  "folderName" : "FamousArtWallpaper",
   "url" : "/famous-art",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2656.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Renoir Painting",
   "title" : "Renoir Painting Wallpaper",
-  "folderName" : "Renoir Painting Wallpaper",
+  "folderName" : "RenoirPaintingWallpaper",
   "url" : "/renoir-painting",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/39233.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Pablo Picasso",
   "title" : "Pablo Picasso Wallpaper",
-  "folderName" : "Pablo Picasso Wallpaper",
+  "folderName" : "PabloPicassoWallpaper",
   "url" : "/pablo-picasso",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/88090.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Impressionist",
   "title" : "Impressionist Wallpaper",
-  "folderName" : "Impressionist Wallpaper",
+  "folderName" : "ImpressionistWallpaper",
   "url" : "/impressionist",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/414297.gif",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Gustav Klimt",
   "title" : "Gustav Klimt Wallpaper",
-  "folderName" : "Gustav Klimt Wallpaper",
+  "folderName" : "GustavKlimtWallpaper",
   "url" : "/gustav-klimt",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/261868.png",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Matisse",
   "title" : "Matisse Wallpaper",
-  "folderName" : "Matisse Wallpaper",
+  "folderName" : "MatisseWallpaper",
   "url" : "/matisse",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/511898.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Folk Art Desktop",
   "title" : "Folk Art Desktop Wallpaper",
-  "folderName" : "Folk Art Desktop Wallpaper",
+  "folderName" : "FolkArtDesktopWallpaper",
   "url" : "/folk-art-desktop",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/117269.jpg",
@@ -281,7 +281,7 @@
 }, {
   "name" : "Frida Kahlo Art Desktop",
   "title" : "Frida Kahlo Art Desktop Wallpaper",
-  "folderName" : "Frida Kahlo Art Desktop Wallpaper",
+  "folderName" : "FridaKahloArtDesktopWallpaper",
   "url" : "/frida-kahlo-art-desktop",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/386451.jpg",
@@ -289,7 +289,7 @@
 }, {
   "name" : "Picasso",
   "title" : "Picasso Wallpaper",
-  "folderName" : "Picasso Wallpaper",
+  "folderName" : "PicassoWallpaper",
   "url" : "/picasso",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/444395.jpg",
@@ -297,7 +297,7 @@
 }, {
   "name" : "Satisfying Art HD",
   "title" : "Satisfying Art HD Wallpaper",
-  "folderName" : "Satisfying Art HD Wallpaper",
+  "folderName" : "SatisfyingArtHDWallpaper",
   "url" : "/satisfying-art-hd",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/396469.jpg",
@@ -305,7 +305,7 @@
 }, {
   "name" : "Illuminati Triangle",
   "title" : "Illuminati Triangle Wallpaper",
-  "folderName" : "Illuminati Triangle Wallpaper",
+  "folderName" : "IlluminatiTriangleWallpaper",
   "url" : "/illuminati-triangle",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/440959.jpg",
@@ -313,7 +313,7 @@
 }, {
   "name" : "Abstract Art HD",
   "title" : "Abstract Art HD Wallpaper",
-  "folderName" : "Abstract Art HD Wallpaper",
+  "folderName" : "AbstractArtHDWallpaper",
   "url" : "/abstract-art-hd",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/53928.jpg",
@@ -321,7 +321,7 @@
 }, {
   "name" : "Vermont",
   "title" : "Vermont Wallpaper",
-  "folderName" : "Vermont Wallpaper",
+  "folderName" : "VermontWallpaper",
   "url" : "/vermont",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/20350.jpg",
@@ -329,7 +329,7 @@
 }, {
   "name" : "Edgar Degas",
   "title" : "Edgar Degas Wallpaper",
-  "folderName" : "Edgar Degas Wallpaper",
+  "folderName" : "EdgarDegasWallpaper",
   "url" : "/edgar-degas",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/28104.jpg",
@@ -337,7 +337,7 @@
 }, {
   "name" : "Rembrandt",
   "title" : "Rembrandt Wallpaper",
-  "folderName" : "Rembrandt Wallpaper",
+  "folderName" : "RembrandtWallpaper",
   "url" : "/rembrandt",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/41626.jpg",
@@ -345,7 +345,7 @@
 }, {
   "name" : "Renoir",
   "title" : "Renoir Wallpaper",
-  "folderName" : "Renoir Wallpaper",
+  "folderName" : "RenoirWallpaper",
   "url" : "/renoir",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/39225.jpg",
@@ -353,7 +353,7 @@
 }, {
   "name" : "Michelangelo",
   "title" : "Michelangelo Wallpaper",
-  "folderName" : "Michelangelo Wallpaper",
+  "folderName" : "MichelangeloWallpaper",
   "url" : "/michelangelo",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/49608.jpg",
@@ -361,7 +361,7 @@
 }, {
   "name" : "Monet",
   "title" : "Monet Wallpaper",
-  "folderName" : "Monet Wallpaper",
+  "folderName" : "MonetWallpaper",
   "url" : "/monet",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/4162.jpg",
@@ -369,7 +369,7 @@
 }, {
   "name" : "Anime Art",
   "title" : "Anime Art Wallpaper",
-  "folderName" : "Anime Art Wallpaper",
+  "folderName" : "AnimeArtWallpaper",
   "url" : "/anime-art",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/12883.jpg",
@@ -377,7 +377,7 @@
 }, {
   "name" : "Native American Art",
   "title" : "Native American Art Wallpaper",
-  "folderName" : "Native American Art Wallpaper",
+  "folderName" : "NativeAmericanArtWallpaper",
   "url" : "/native-american-art",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/29065.jpg",
@@ -385,7 +385,7 @@
 }, {
   "name" : "Asian Art",
   "title" : "Asian Art Wallpaper",
-  "folderName" : "Asian Art Wallpaper",
+  "folderName" : "AsianArtWallpaper",
   "url" : "/asian-art",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/6155.jpg",
@@ -393,7 +393,7 @@
 }, {
   "name" : "Japanese Art",
   "title" : "Japanese Art Wallpaper",
-  "folderName" : "Japanese Art Wallpaper",
+  "folderName" : "JapaneseArtWallpaper",
   "url" : "/japanese-art",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1872.jpg",
@@ -401,7 +401,7 @@
 }, {
   "name" : "Van Gogh",
   "title" : "Van Gogh Wallpaper",
-  "folderName" : "Van Gogh Wallpaper",
+  "folderName" : "VanGoghWallpaper",
   "url" : "/van-gogh",
   "category" : "/art",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2998.jpg",

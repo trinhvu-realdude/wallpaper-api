@@ -1,7 +1,7 @@
 [ {
   "name" : "Green",
   "title" : "Green Wallpaper",
-  "folderName" : "Green Wallpaper",
+  "folderName" : "GreenWallpaper",
   "url" : "/green",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/397969.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Fuchsia",
   "title" : "Fuchsia Wallpaper",
-  "folderName" : "Fuchsia Wallpaper",
+  "folderName" : "FuchsiaWallpaper",
   "url" : "/fuchsia",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2246512.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Turquoise",
   "title" : "Turquoise Wallpaper",
-  "folderName" : "Turquoise Wallpaper",
+  "folderName" : "TurquoiseWallpaper",
   "url" : "/turquoise",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1828720.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Pastel Red",
   "title" : "Pastel Red Wallpaper",
-  "folderName" : "Pastel Red Wallpaper",
+  "folderName" : "PastelRedWallpaper",
   "url" : "/pastel-red",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1684455.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Black and Silver",
   "title" : "Black and Silver Wallpaper",
-  "folderName" : "Black and Silver Wallpaper",
+  "folderName" : "BlackandSilverWallpaper",
   "url" : "/black-and-silver",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1384178.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Cream",
   "title" : "Cream Wallpaper",
-  "folderName" : "Cream Wallpaper",
+  "folderName" : "CreamWallpaper",
   "url" : "/cream",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1668871.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Dark Pink",
   "title" : "Dark Pink Wallpaper",
-  "folderName" : "Dark Pink Wallpaper",
+  "folderName" : "DarkPinkWallpaper",
   "url" : "/dark-pink",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1613697.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Violet",
   "title" : "Violet Wallpaper",
-  "folderName" : "Violet Wallpaper",
+  "folderName" : "VioletWallpaper",
   "url" : "/violet",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/660838.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Silver",
   "title" : "Silver Wallpaper",
-  "folderName" : "Silver Wallpaper",
+  "folderName" : "SilverWallpaper",
   "url" : "/silver",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/558476.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Grey",
   "title" : "Grey Wallpaper",
-  "folderName" : "Grey Wallpaper",
+  "folderName" : "GreyWallpaper",
   "url" : "/grey",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/733878.png",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Pastel Blue Green",
   "title" : "Pastel Blue Green Wallpaper",
-  "folderName" : "Pastel Blue Green Wallpaper",
+  "folderName" : "PastelBlueGreenWallpaper",
   "url" : "/pastel-blue-green",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/826450.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Pastel Blue and Pink",
   "title" : "Pastel Blue and Pink Wallpaper",
-  "folderName" : "Pastel Blue and Pink Wallpaper",
+  "folderName" : "PastelBlueandPinkWallpaper",
   "url" : "/pastel-blue-and-pink",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/851202.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Pastel Green",
   "title" : "Pastel Green Wallpaper",
-  "folderName" : "Pastel Green Wallpaper",
+  "folderName" : "PastelGreenWallpaper",
   "url" : "/pastel-green",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/93554.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Pastel Purple",
   "title" : "Pastel Purple Wallpaper",
-  "folderName" : "Pastel Purple Wallpaper",
+  "folderName" : "PastelPurpleWallpaper",
   "url" : "/pastel-purple",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/809177.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Plain Color Computer",
   "title" : "Plain Color Computer Wallpaper",
-  "folderName" : "Plain Color Computer Wallpaper",
+  "folderName" : "PlainColorComputerWallpaper",
   "url" : "/plain-color-computer",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/327148.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Rose Gold Desktop",
   "title" : "Rose Gold Desktop Wallpaper",
-  "folderName" : "Rose Gold Desktop Wallpaper",
+  "folderName" : "RoseGoldDesktopWallpaper",
   "url" : "/rose-gold-desktop",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/764212.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Orange Desktop",
   "title" : "Orange Desktop Wallpaper",
-  "folderName" : "Orange Desktop Wallpaper",
+  "folderName" : "OrangeDesktopWallpaper",
   "url" : "/orange-desktop",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/692721.png",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Purple",
   "title" : "Purple Wallpaper",
-  "folderName" : "Purple Wallpaper",
+  "folderName" : "PurpleWallpaper",
   "url" : "/purple",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/270156.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Brown",
   "title" : "Brown Wallpaper",
-  "folderName" : "Brown Wallpaper",
+  "folderName" : "BrownWallpaper",
   "url" : "/brown",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/552581.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Pink",
   "title" : "Pink Wallpaper",
-  "folderName" : "Pink Wallpaper",
+  "folderName" : "PinkWallpaper",
   "url" : "/pink",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/361651.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Black and Pink",
   "title" : "Black and Pink Wallpaper",
-  "folderName" : "Black and Pink Wallpaper",
+  "folderName" : "BlackandPinkWallpaper",
   "url" : "/black-and-pink",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/230185.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "Watercolor",
   "title" : "Watercolor Wallpaper",
-  "folderName" : "Watercolor Wallpaper",
+  "folderName" : "WatercolorWallpaper",
   "url" : "/watercolor",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/349649.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "Pastel Pink",
   "title" : "Pastel Pink Wallpaper",
-  "folderName" : "Pastel Pink Wallpaper",
+  "folderName" : "PastelPinkWallpaper",
   "url" : "/pastel-pink",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/144463.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Pastel Blue",
   "title" : "Pastel Blue Wallpaper",
-  "folderName" : "Pastel Blue Wallpaper",
+  "folderName" : "PastelBlueWallpaper",
   "url" : "/pastel-blue",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/93546.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Gradient",
   "title" : "Gradient Wallpaper",
-  "folderName" : "Gradient Wallpaper",
+  "folderName" : "GradientWallpaper",
   "url" : "/gradient",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/340434.png",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Red and Gold",
   "title" : "Red and Gold Wallpaper",
-  "folderName" : "Red and Gold Wallpaper",
+  "folderName" : "RedandGoldWallpaper",
   "url" : "/red-and-gold",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/212849.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Confetti",
   "title" : "Confetti Wallpaper",
-  "folderName" : "Confetti Wallpaper",
+  "folderName" : "ConfettiWallpaper",
   "url" : "/confetti",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/221769.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "Yellow",
   "title" : "Yellow Wallpaper",
-  "folderName" : "Yellow Wallpaper",
+  "folderName" : "YellowWallpaper",
   "url" : "/yellow",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/268981.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Colorful Desktop",
   "title" : "Colorful Desktop Wallpaper",
-  "folderName" : "Colorful Desktop Wallpaper",
+  "folderName" : "ColorfulDesktopWallpaper",
   "url" : "/colorful-desktop",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/454132.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Colorful Candy",
   "title" : "Colorful Candy Wallpaper",
-  "folderName" : "Colorful Candy Wallpaper",
+  "folderName" : "ColorfulCandyWallpaper",
   "url" : "/colorful-candy",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/388195.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "White",
   "title" : "White Wallpaper",
-  "folderName" : "White Wallpaper",
+  "folderName" : "WhiteWallpaper",
   "url" : "/white",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/358800.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Red",
   "title" : "Red Wallpaper",
-  "folderName" : "Red Wallpaper",
+  "folderName" : "RedWallpaper",
   "url" : "/red",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/343667.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Blue",
   "title" : "Blue Wallpaper",
-  "folderName" : "Blue Wallpaper",
+  "folderName" : "BlueWallpaper",
   "url" : "/blue",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/537582.jpg",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Colorful",
   "title" : "Colorful Wallpaper",
-  "folderName" : "Colorful Wallpaper",
+  "folderName" : "ColorfulWallpaper",
   "url" : "/colorful",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/454206.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Pastel",
   "title" : "Pastel Wallpaper",
-  "folderName" : "Pastel Wallpaper",
+  "folderName" : "PastelWallpaper",
   "url" : "/pastel",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/22501.png",
@@ -281,7 +281,7 @@
 }, {
   "name" : "Black",
   "title" : "Black Wallpaper",
-  "folderName" : "Black Wallpaper",
+  "folderName" : "BlackWallpaper",
   "url" : "/black",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/38119.jpg",
@@ -289,7 +289,7 @@
 }, {
   "name" : "Hot Pink",
   "title" : "Hot Pink Wallpaper",
-  "folderName" : "Hot Pink Wallpaper",
+  "folderName" : "HotPinkWallpaper",
   "url" : "/hot-pink",
   "category" : "/colors",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1089348.jpg",

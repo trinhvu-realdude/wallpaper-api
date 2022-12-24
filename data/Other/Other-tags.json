@@ -1,7 +1,7 @@
 [ {
   "name" : "HD Phone",
   "title" : "HD Phone Wallpaper",
-  "folderName" : "HD Phone Wallpaper",
+  "folderName" : "HDPhoneWallpaper",
   "url" : "/hd-phone",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/51391.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "3840X2160 UHD",
   "title" : "3840X2160 UHD Wallpaper",
-  "folderName" : "3840X2160 UHD Wallpaper",
+  "folderName" : "3840X2160UHDWallpaper",
   "url" : "/3840x2160-uhd",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/17597.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "4K Dual Monitor",
   "title" : "4K Dual Monitor Wallpaper",
-  "folderName" : "4K Dual Monitor Wallpaper",
+  "folderName" : "4KDualMonitorWallpaper",
   "url" : "/4k-dual-monitor",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/756627.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "4K iPad",
   "title" : "4K iPad Wallpaper",
-  "folderName" : "4K iPad Wallpaper",
+  "folderName" : "4KiPadWallpaper",
   "url" : "/4k-ipad",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/636909.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "French Fries iPhone",
   "title" : "French Fries iPhone Wallpaper",
-  "folderName" : "French Fries iPhone Wallpaper",
+  "folderName" : "FrenchFriesiPhoneWallpaper",
   "url" : "/french-fries-iphone",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/763527.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Universe Full HD PC",
   "title" : "Universe Full HD PC Wallpaper",
-  "folderName" : "Universe Full HD PC Wallpaper",
+  "folderName" : "UniverseFullHDPCWallpaper",
   "url" : "/universe-full-hd-pc",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/53084.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Funny Meme",
   "title" : "Funny Meme Wallpaper",
-  "folderName" : "Funny Meme Wallpaper",
+  "folderName" : "FunnyMemeWallpaper",
   "url" : "/funny-meme",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/172079.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "4K Architecture",
   "title" : "4K Architecture Wallpaper",
-  "folderName" : "4K Architecture Wallpaper",
+  "folderName" : "4KArchitectureWallpaper",
   "url" : "/4k-architecture",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/508827.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "4K Minimal",
   "title" : "4K Minimal Wallpaper",
-  "folderName" : "4K Minimal Wallpaper",
+  "folderName" : "4KMinimalWallpaper",
   "url" : "/4k-minimal",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/99785.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Hypebeast",
   "title" : "Hypebeast Wallpaper",
-  "folderName" : "Hypebeast Wallpaper",
+  "folderName" : "HypebeastWallpaper",
   "url" : "/hypebeast",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/106241.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Supreme Laptop",
   "title" : "Supreme Laptop Wallpaper",
-  "folderName" : "Supreme Laptop Wallpaper",
+  "folderName" : "SupremeLaptopWallpaper",
   "url" : "/supreme-laptop",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/89388.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "MSI 4K",
   "title" : "MSI 4K Wallpaper",
-  "folderName" : "MSI 4K Wallpaper",
+  "folderName" : "MSI4KWallpaper",
   "url" : "/msi-4k",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/112319.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "80's",
   "title" : "80's Wallpaper",
-  "folderName" : "80's Wallpaper",
+  "folderName" : "80'sWallpaper",
   "url" : "/80s",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/343962.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Funny Dog",
   "title" : "Funny Dog Wallpaper",
-  "folderName" : "Funny Dog Wallpaper",
+  "folderName" : "FunnyDogWallpaper",
   "url" : "/funny-dog",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/463527.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Aesthetic Computer",
   "title" : "Aesthetic Computer Wallpaper",
-  "folderName" : "Aesthetic Computer Wallpaper",
+  "folderName" : "AestheticComputerWallpaper",
   "url" : "/aesthetic-computer",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/84248.png",
@@ -121,7 +121,7 @@
 }, {
   "name" : "4K iPhone 6 Plus",
   "title" : "4K iPhone 6 Plus Wallpaper",
-  "folderName" : "4K iPhone 6 Plus Wallpaper",
+  "folderName" : "4KiPhone6PlusWallpaper",
   "url" : "/4k-iphone-6-plus",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/169602.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Full HD",
   "title" : "Full HD Wallpaper",
-  "folderName" : "Full HD Wallpaper",
+  "folderName" : "FullHDWallpaper",
   "url" : "/full-hd",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/138728.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Full Screen HD",
   "title" : "Full Screen HD Wallpaper",
-  "folderName" : "Full Screen HD Wallpaper",
+  "folderName" : "FullScreenHDWallpaper",
   "url" : "/full-screen-hd",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/427852.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Crazy Laptop",
   "title" : "Crazy Laptop Wallpaper",
-  "folderName" : "Crazy Laptop Wallpaper",
+  "folderName" : "CrazyLaptopWallpaper",
   "url" : "/crazy-laptop",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/179539.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Coffee Laptop",
   "title" : "Coffee Laptop Wallpaper",
-  "folderName" : "Coffee Laptop Wallpaper",
+  "folderName" : "CoffeeLaptopWallpaper",
   "url" : "/coffee-laptop",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/279547.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Funny",
   "title" : "Funny Wallpaper",
-  "folderName" : "Funny Wallpaper",
+  "folderName" : "FunnyWallpaper",
   "url" : "/funny",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/16367.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "Iconic Cool iPhone",
   "title" : "Iconic Cool iPhone Wallpaper",
-  "folderName" : "Iconic Cool iPhone Wallpaper",
+  "folderName" : "IconicCooliPhoneWallpaper",
   "url" : "/iconic-cool-iphone",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/39851.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "Hipster Laptop",
   "title" : "Hipster Laptop Wallpaper",
-  "folderName" : "Hipster Laptop Wallpaper",
+  "folderName" : "HipsterLaptopWallpaper",
   "url" : "/hipster-laptop",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/53325.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "UHD",
   "title" : "UHD Wallpaper",
-  "folderName" : "UHD Wallpaper",
+  "folderName" : "UHDWallpaper",
   "url" : "/uhd",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/26956.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "8K",
   "title" : "8K Wallpaper",
-  "folderName" : "8K Wallpaper",
+  "folderName" : "8KWallpaper",
   "url" : "/8k",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/11729.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Tumblr",
   "title" : "Tumblr Wallpaper",
-  "folderName" : "Tumblr Wallpaper",
+  "folderName" : "TumblrWallpaper",
   "url" : "/tumblr",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/17926.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "4K iPhone",
   "title" : "4K iPhone Wallpaper",
-  "folderName" : "4K iPhone Wallpaper",
+  "folderName" : "4KiPhoneWallpaper",
   "url" : "/4k-iphone",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/12561.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "HD",
   "title" : "HD Wallpaper",
-  "folderName" : "HD Wallpaper",
+  "folderName" : "HDWallpaper",
   "url" : "/hd",
   "category" : "/other",
   "thumbSource" : "https://wallpaperaccess.com/thumb/51360.jpg",

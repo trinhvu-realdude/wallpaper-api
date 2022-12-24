@@ -1,7 +1,7 @@
 [ {
   "name" : "Fairy",
   "title" : "Fairy Wallpaper",
-  "folderName" : "Fairy Wallpaper",
+  "folderName" : "FairyWallpaper",
   "url" : "/fairy",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1544490.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Unicorn and Dragon",
   "title" : "Unicorn and Dragon Wallpaper",
-  "folderName" : "Unicorn and Dragon Wallpaper",
+  "folderName" : "UnicornandDragonWallpaper",
   "url" : "/unicorn-and-dragon",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1146052.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Sci-Fi HD",
   "title" : "Sci-Fi HD Wallpaper",
-  "folderName" : "Sci-Fi HD Wallpaper",
+  "folderName" : "Sci-FiHDWallpaper",
   "url" : "/sci-fi-hd",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/39627.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Witch",
   "title" : "Witch Wallpaper",
-  "folderName" : "Witch Wallpaper",
+  "folderName" : "WitchWallpaper",
   "url" : "/witch",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/668268.png",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Colorful Unicorn",
   "title" : "Colorful Unicorn Wallpaper",
-  "folderName" : "Colorful Unicorn Wallpaper",
+  "folderName" : "ColorfulUnicornWallpaper",
   "url" : "/colorful-unicorn",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/619918.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Unicorns and Fairies",
   "title" : "Unicorns and Fairies Wallpaper",
-  "folderName" : "Unicorns and Fairies Wallpaper",
+  "folderName" : "UnicornsandFairiesWallpaper",
   "url" : "/unicorns-and-fairies",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/732465.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Butterfly Fairy",
   "title" : "Butterfly Fairy Wallpaper",
-  "folderName" : "Butterfly Fairy Wallpaper",
+  "folderName" : "ButterflyFairyWallpaper",
   "url" : "/butterfly-fairy",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/247269.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Dark Angel",
   "title" : "Dark Angel Wallpaper",
-  "folderName" : "Dark Angel Wallpaper",
+  "folderName" : "DarkAngelWallpaper",
   "url" : "/dark-angel",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/294629.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Gothic Angel",
   "title" : "Gothic Angel Wallpaper",
-  "folderName" : "Gothic Angel Wallpaper",
+  "folderName" : "GothicAngelWallpaper",
   "url" : "/gothic-angel",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/564809.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Retro Sci-Fi",
   "title" : "Retro Sci-Fi Wallpaper",
-  "folderName" : "Retro Sci-Fi Wallpaper",
+  "folderName" : "RetroSci-FiWallpaper",
   "url" : "/retro-sci-fi",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/315285.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Mermaid",
   "title" : "Mermaid Wallpaper",
-  "folderName" : "Mermaid Wallpaper",
+  "folderName" : "MermaidWallpaper",
   "url" : "/mermaid",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/429576.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Real Unicorn",
   "title" : "Real Unicorn Wallpaper",
-  "folderName" : "Real Unicorn Wallpaper",
+  "folderName" : "RealUnicornWallpaper",
   "url" : "/real-unicorn",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/174410.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Rainbow Unicorn",
   "title" : "Rainbow Unicorn Wallpaper",
-  "folderName" : "Rainbow Unicorn Wallpaper",
+  "folderName" : "RainbowUnicornWallpaper",
   "url" : "/rainbow-unicorn",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/177271.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Cool Devil",
   "title" : "Cool Devil Wallpaper",
-  "folderName" : "Cool Devil Wallpaper",
+  "folderName" : "CoolDevilWallpaper",
   "url" : "/cool-devil",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/287086.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Angels and Fairies",
   "title" : "Angels and Fairies Wallpaper",
-  "folderName" : "Angels and Fairies Wallpaper",
+  "folderName" : "AngelsandFairiesWallpaper",
   "url" : "/angels-and-fairies",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/377136.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Vampire",
   "title" : "Vampire Wallpaper",
-  "folderName" : "Vampire Wallpaper",
+  "folderName" : "VampireWallpaper",
   "url" : "/vampire",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/283782.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Digital Fairy",
   "title" : "Digital Fairy Wallpaper",
-  "folderName" : "Digital Fairy Wallpaper",
+  "folderName" : "DigitalFairyWallpaper",
   "url" : "/digital-fairy",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/437553.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Beautiful Angels",
   "title" : "Beautiful Angels Wallpaper",
-  "folderName" : "Beautiful Angels Wallpaper",
+  "folderName" : "BeautifulAngelsWallpaper",
   "url" : "/beautiful-angels",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/292211.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Sci Fi World",
   "title" : "Sci Fi World Wallpaper",
-  "folderName" : "Sci Fi World Wallpaper",
+  "folderName" : "SciFiWorldWallpaper",
   "url" : "/sci-fi-world",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/234092.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Sci Fi Design",
   "title" : "Sci Fi Design Wallpaper",
-  "folderName" : "Sci Fi Design Wallpaper",
+  "folderName" : "SciFiDesignWallpaper",
   "url" : "/sci-fi-design",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/32452.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Sci-Fi Desktop",
   "title" : "Sci-Fi Desktop Wallpaper",
-  "folderName" : "Sci-Fi Desktop Wallpaper",
+  "folderName" : "Sci-FiDesktopWallpaper",
   "url" : "/sci-fi-desktop",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/220303.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "Best Sci-Fi",
   "title" : "Best Sci-Fi Wallpaper",
-  "folderName" : "Best Sci-Fi Wallpaper",
+  "folderName" : "BestSci-FiWallpaper",
   "url" : "/best-sci-fi",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/166010.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "Sci-Fi Monster",
   "title" : "Sci-Fi Monster Wallpaper",
-  "folderName" : "Sci-Fi Monster Wallpaper",
+  "folderName" : "Sci-FiMonsterWallpaper",
   "url" : "/sci-fi-monster",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/426732.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Old Sci-Fi",
   "title" : "Old Sci-Fi Wallpaper",
-  "folderName" : "Old Sci-Fi Wallpaper",
+  "folderName" : "OldSci-FiWallpaper",
   "url" : "/old-sci-fi",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/315287.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Future Space City",
   "title" : "Future Space City Wallpaper",
-  "folderName" : "Future Space City Wallpaper",
+  "folderName" : "FutureSpaceCityWallpaper",
   "url" : "/future-space-city",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/318350.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Demon Dragon",
   "title" : "Demon Dragon Wallpaper",
-  "folderName" : "Demon Dragon Wallpaper",
+  "folderName" : "DemonDragonWallpaper",
   "url" : "/demon-dragon",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/169498.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Space Dragon",
   "title" : "Space Dragon Wallpaper",
-  "folderName" : "Space Dragon Wallpaper",
+  "folderName" : "SpaceDragonWallpaper",
   "url" : "/space-dragon",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/27733.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "Magical Forest",
   "title" : "Magical Forest Wallpaper",
-  "folderName" : "Magical Forest Wallpaper",
+  "folderName" : "MagicalForestWallpaper",
   "url" : "/magical-forest",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/30117.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Enchanted Forest",
   "title" : "Enchanted Forest Wallpaper",
-  "folderName" : "Enchanted Forest Wallpaper",
+  "folderName" : "EnchantedForestWallpaper",
   "url" : "/enchanted-forest",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/30123.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Forest Fairy",
   "title" : "Forest Fairy Wallpaper",
-  "folderName" : "Forest Fairy Wallpaper",
+  "folderName" : "ForestFairyWallpaper",
   "url" : "/forest-fairy",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/291125.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Anime Fairy",
   "title" : "Anime Fairy Wallpaper",
-  "folderName" : "Anime Fairy Wallpaper",
+  "folderName" : "AnimeFairyWallpaper",
   "url" : "/anime-fairy",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/131572.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Baby Dragon",
   "title" : "Baby Dragon Wallpaper",
-  "folderName" : "Baby Dragon Wallpaper",
+  "folderName" : "BabyDragonWallpaper",
   "url" : "/baby-dragon",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/111693.png",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Sci-Fi Landscape",
   "title" : "Sci-Fi Landscape Wallpaper",
-  "folderName" : "Sci-Fi Landscape Wallpaper",
+  "folderName" : "Sci-FiLandscapeWallpaper",
   "url" : "/sci-fi-landscape",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/206895.jpg",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Fairy Tale",
   "title" : "Fairy Tale Wallpaper",
-  "folderName" : "Fairy Tale Wallpaper",
+  "folderName" : "FairyTaleWallpaper",
   "url" : "/fairy-tale",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/554825.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Aurora Dragon",
   "title" : "Aurora Dragon Wallpaper",
-  "folderName" : "Aurora Dragon Wallpaper",
+  "folderName" : "AuroraDragonWallpaper",
   "url" : "/aurora-dragon",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/347641.jpg",
@@ -281,7 +281,7 @@
 }, {
   "name" : "Dragon Girl",
   "title" : "Dragon Girl Wallpaper",
-  "folderName" : "Dragon Girl Wallpaper",
+  "folderName" : "DragonGirlWallpaper",
   "url" : "/dragon-girl",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/24512.jpg",
@@ -289,7 +289,7 @@
 }, {
   "name" : "Dragon",
   "title" : "Dragon Wallpaper",
-  "folderName" : "Dragon Wallpaper",
+  "folderName" : "DragonWallpaper",
   "url" : "/dragon",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/32635.jpg",
@@ -297,7 +297,7 @@
 }, {
   "name" : "Ice Dragon",
   "title" : "Ice Dragon Wallpaper",
-  "folderName" : "Ice Dragon Wallpaper",
+  "folderName" : "IceDragonWallpaper",
   "url" : "/ice-dragon",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/47719.jpg",
@@ -305,7 +305,7 @@
 }, {
   "name" : "Black Dragon",
   "title" : "Black Dragon Wallpaper",
-  "folderName" : "Black Dragon Wallpaper",
+  "folderName" : "BlackDragonWallpaper",
   "url" : "/black-dragon",
   "category" : "/fantasy",
   "thumbSource" : "https://wallpaperaccess.com/thumb/13590.jpg",

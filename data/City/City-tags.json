@@ -1,7 +1,7 @@
 [ {
   "name" : "San Sebastián",
   "title" : "San Sebastián Wallpaper",
-  "folderName" : "San Sebastián Wallpaper",
+  "folderName" : "SanSebastiánWallpaper",
   "url" : "/san-sebastian",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2568332.jpg",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Quito",
   "title" : "Quito Wallpaper",
-  "folderName" : "Quito Wallpaper",
+  "folderName" : "QuitoWallpaper",
   "url" : "/quito",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1667441.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Lucerne",
   "title" : "Lucerne Wallpaper",
-  "folderName" : "Lucerne Wallpaper",
+  "folderName" : "LucerneWallpaper",
   "url" : "/lucerne",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1667408.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Tallinn",
   "title" : "Tallinn Wallpaper",
-  "folderName" : "Tallinn Wallpaper",
+  "folderName" : "TallinnWallpaper",
   "url" : "/tallinn",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1667337.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Queenstown",
   "title" : "Queenstown Wallpaper",
-  "folderName" : "Queenstown Wallpaper",
+  "folderName" : "QueenstownWallpaper",
   "url" : "/queenstown",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1667212.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Québec City",
   "title" : "Québec City Wallpaper",
-  "folderName" : "Québec City Wallpaper",
+  "folderName" : "QuébecCityWallpaper",
   "url" : "/quebec-city",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1666983.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Cartagena",
   "title" : "Cartagena Wallpaper",
-  "folderName" : "Cartagena Wallpaper",
+  "folderName" : "CartagenaWallpaper",
   "url" : "/cartagena",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1666715.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Krakow",
   "title" : "Krakow Wallpaper",
-  "folderName" : "Krakow Wallpaper",
+  "folderName" : "KrakowWallpaper",
   "url" : "/krakow",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1666625.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Bruges",
   "title" : "Bruges Wallpaper",
-  "folderName" : "Bruges Wallpaper",
+  "folderName" : "BrugesWallpaper",
   "url" : "/bruges",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1666644.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "San Miguel De Allende",
   "title" : "San Miguel De Allende Wallpaper",
-  "folderName" : "San Miguel De Allende Wallpaper",
+  "folderName" : "SanMiguelDeAllendeWallpaper",
   "url" : "/san-miguel-de-allende",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1666372.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Tianjin",
   "title" : "Tianjin Wallpaper",
-  "folderName" : "Tianjin Wallpaper",
+  "folderName" : "TianjinWallpaper",
   "url" : "/tianjin",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1666298.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Dhaka",
   "title" : "Dhaka Wallpaper",
-  "folderName" : "Dhaka Wallpaper",
+  "folderName" : "DhakaWallpaper",
   "url" : "/dhaka",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1666272.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Habana",
   "title" : "Habana Wallpaper",
-  "folderName" : "Habana Wallpaper",
+  "folderName" : "HabanaWallpaper",
   "url" : "/habana",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1665026.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Seville",
   "title" : "Seville Wallpaper",
-  "folderName" : "Seville Wallpaper",
+  "folderName" : "SevilleWallpaper",
   "url" : "/seville",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1664865.jpg",
@@ -113,7 +113,7 @@
 }, {
   "name" : "Vancouver",
   "title" : "Vancouver Wallpaper",
-  "folderName" : "Vancouver Wallpaper",
+  "folderName" : "VancouverWallpaper",
   "url" : "/vancouver",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1593416.jpg",
@@ -121,7 +121,7 @@
 }, {
   "name" : "Sydney",
   "title" : "Sydney Wallpaper",
-  "folderName" : "Sydney Wallpaper",
+  "folderName" : "SydneyWallpaper",
   "url" : "/sydney",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1564382.jpg",
@@ -129,7 +129,7 @@
 }, {
   "name" : "Dubrovnik",
   "title" : "Dubrovnik Wallpaper",
-  "folderName" : "Dubrovnik Wallpaper",
+  "folderName" : "DubrovnikWallpaper",
   "url" : "/dubrovnik",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1552418.jpg",
@@ -137,7 +137,7 @@
 }, {
   "name" : "Saint Petersburg",
   "title" : "Saint Petersburg Wallpaper",
-  "folderName" : "Saint Petersburg Wallpaper",
+  "folderName" : "SaintPetersburgWallpaper",
   "url" : "/saint-petersburg",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/508335.jpg",
@@ -145,7 +145,7 @@
 }, {
   "name" : "Santa Barbara",
   "title" : "Santa Barbara Wallpaper",
-  "folderName" : "Santa Barbara Wallpaper",
+  "folderName" : "SantaBarbaraWallpaper",
   "url" : "/santa-barbara",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1551899.jpg",
@@ -153,7 +153,7 @@
 }, {
   "name" : "Lisbon",
   "title" : "Lisbon Wallpaper",
-  "folderName" : "Lisbon Wallpaper",
+  "folderName" : "LisbonWallpaper",
   "url" : "/lisbon",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1423589.jpg",
@@ -161,7 +161,7 @@
 }, {
   "name" : "Beirut",
   "title" : "Beirut Wallpaper",
-  "folderName" : "Beirut Wallpaper",
+  "folderName" : "BeirutWallpaper",
   "url" : "/beirut",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1413270.jpg",
@@ -169,7 +169,7 @@
 }, {
   "name" : "Buenos Aires",
   "title" : "Buenos Aires Wallpaper",
-  "folderName" : "Buenos Aires Wallpaper",
+  "folderName" : "BuenosAiresWallpaper",
   "url" : "/buenos-aires",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1392568.jpg",
@@ -177,7 +177,7 @@
 }, {
   "name" : "Singapur",
   "title" : "Singapur Wallpaper",
-  "folderName" : "Singapur Wallpaper",
+  "folderName" : "SingapurWallpaper",
   "url" : "/singapur",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1388835.jpg",
@@ -185,7 +185,7 @@
 }, {
   "name" : "Moscow",
   "title" : "Moscow Wallpaper",
-  "folderName" : "Moscow Wallpaper",
+  "folderName" : "MoscowWallpaper",
   "url" : "/moscow",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1388831.jpg",
@@ -193,7 +193,7 @@
 }, {
   "name" : "Marrakech",
   "title" : "Marrakech Wallpaper",
-  "folderName" : "Marrakech Wallpaper",
+  "folderName" : "MarrakechWallpaper",
   "url" : "/marrakech",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/344316.jpg",
@@ -201,7 +201,7 @@
 }, {
   "name" : "Budapest",
   "title" : "Budapest Wallpaper",
-  "folderName" : "Budapest Wallpaper",
+  "folderName" : "BudapestWallpaper",
   "url" : "/budapest",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1298384.jpg",
@@ -209,7 +209,7 @@
 }, {
   "name" : "Jaipur",
   "title" : "Jaipur Wallpaper",
-  "folderName" : "Jaipur Wallpaper",
+  "folderName" : "JaipurWallpaper",
   "url" : "/jaipur",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1266897.jpg",
@@ -217,7 +217,7 @@
 }, {
   "name" : "Athens",
   "title" : "Athens Wallpaper",
-  "folderName" : "Athens Wallpaper",
+  "folderName" : "AthensWallpaper",
   "url" : "/athens",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1264625.jpg",
@@ -225,7 +225,7 @@
 }, {
   "name" : "Mumbai",
   "title" : "Mumbai Wallpaper",
-  "folderName" : "Mumbai Wallpaper",
+  "folderName" : "MumbaiWallpaper",
   "url" : "/mumbai",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1180008.jpg",
@@ -233,7 +233,7 @@
 }, {
   "name" : "Copenhagen",
   "title" : "Copenhagen Wallpaper",
-  "folderName" : "Copenhagen Wallpaper",
+  "folderName" : "CopenhagenWallpaper",
   "url" : "/copenhagen",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1179981.jpg",
@@ -241,7 +241,7 @@
 }, {
   "name" : "Madrid",
   "title" : "Madrid Wallpaper",
-  "folderName" : "Madrid Wallpaper",
+  "folderName" : "MadridWallpaper",
   "url" : "/madrid",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1149949.jpg",
@@ -249,7 +249,7 @@
 }, {
   "name" : "Florence",
   "title" : "Florence Wallpaper",
-  "folderName" : "Florence Wallpaper",
+  "folderName" : "FlorenceWallpaper",
   "url" : "/florence",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1127841.jpg",
@@ -257,7 +257,7 @@
 }, {
   "name" : "Jerusalem",
   "title" : "Jerusalem Wallpaper",
-  "folderName" : "Jerusalem Wallpaper",
+  "folderName" : "JerusalemWallpaper",
   "url" : "/jerusalem",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1127825.jpg",
@@ -265,7 +265,7 @@
 }, {
   "name" : "Berlin",
   "title" : "Berlin Wallpaper",
-  "folderName" : "Berlin Wallpaper",
+  "folderName" : "BerlinWallpaper",
   "url" : "/berlin",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1124590.jpg",
@@ -273,7 +273,7 @@
 }, {
   "name" : "Zurich",
   "title" : "Zurich Wallpaper",
-  "folderName" : "Zurich Wallpaper",
+  "folderName" : "ZurichWallpaper",
   "url" : "/zurich",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1103075.jpg",
@@ -281,7 +281,7 @@
 }, {
   "name" : "Las Vegas",
   "title" : "Las Vegas Wallpaper",
-  "folderName" : "Las Vegas Wallpaper",
+  "folderName" : "LasVegasWallpaper",
   "url" : "/las-vegas",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1098701.jpg",
@@ -289,7 +289,7 @@
 }, {
   "name" : "Amsterdam",
   "title" : "Amsterdam Wallpaper",
-  "folderName" : "Amsterdam Wallpaper",
+  "folderName" : "AmsterdamWallpaper",
   "url" : "/amsterdam",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1088031.jpg",
@@ -297,7 +297,7 @@
 }, {
   "name" : "Edinburgh",
   "title" : "Edinburgh Wallpaper",
-  "folderName" : "Edinburgh Wallpaper",
+  "folderName" : "EdinburghWallpaper",
   "url" : "/edinburgh",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/914314.jpg",
@@ -305,7 +305,7 @@
 }, {
   "name" : "Cape Town",
   "title" : "Cape Town Wallpaper",
-  "folderName" : "Cape Town Wallpaper",
+  "folderName" : "CapeTownWallpaper",
   "url" : "/cape-town",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/782535.jpg",
@@ -313,7 +313,7 @@
 }, {
   "name" : "Dublin Desktop",
   "title" : "Dublin Desktop Wallpaper",
-  "folderName" : "Dublin Desktop Wallpaper",
+  "folderName" : "DublinDesktopWallpaper",
   "url" : "/dublin-desktop",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/117459.jpg",
@@ -321,7 +321,7 @@
 }, {
   "name" : "Shanghai",
   "title" : "Shanghai Wallpaper",
-  "folderName" : "Shanghai Wallpaper",
+  "folderName" : "ShanghaiWallpaper",
   "url" : "/shanghai",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/3223.jpg",
@@ -329,7 +329,7 @@
 }, {
   "name" : "Berlin 4K Phone",
   "title" : "Berlin 4K Phone Wallpaper",
-  "folderName" : "Berlin 4K Phone Wallpaper",
+  "folderName" : "Berlin4KPhoneWallpaper",
   "url" : "/berlin-4k-phone",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/775607.jpg",
@@ -337,7 +337,7 @@
 }, {
   "name" : "Istanbul",
   "title" : "Istanbul Wallpaper",
-  "folderName" : "Istanbul Wallpaper",
+  "folderName" : "IstanbulWallpaper",
   "url" : "/istanbul",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/316117.jpg",
@@ -345,7 +345,7 @@
 }, {
   "name" : "Rio De Janeiro",
   "title" : "Rio De Janeiro Wallpaper",
-  "folderName" : "Rio De Janeiro Wallpaper",
+  "folderName" : "RioDeJaneiroWallpaper",
   "url" : "/rio-de-janeiro",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/125819.jpg",
@@ -353,7 +353,7 @@
 }, {
   "name" : "San Francisco",
   "title" : "San Francisco Wallpaper",
-  "folderName" : "San Francisco Wallpaper",
+  "folderName" : "SanFranciscoWallpaper",
   "url" : "/san-francisco",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/196749.jpg",
@@ -361,7 +361,7 @@
 }, {
   "name" : "Vegas 4K",
   "title" : "Vegas 4K Wallpaper",
-  "folderName" : "Vegas 4K Wallpaper",
+  "folderName" : "Vegas4KWallpaper",
   "url" : "/vegas-4k",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/144611.jpg",
@@ -369,7 +369,7 @@
 }, {
   "name" : "Granada Landscape",
   "title" : "Granada Landscape Wallpaper",
-  "folderName" : "Granada Landscape Wallpaper",
+  "folderName" : "GranadaLandscapeWallpaper",
   "url" : "/granada-landscape",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/411360.jpg",
@@ -377,7 +377,7 @@
 }, {
   "name" : "Venice",
   "title" : "Venice Wallpaper",
-  "folderName" : "Venice Wallpaper",
+  "folderName" : "VeniceWallpaper",
   "url" : "/venice",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/201215.jpg",
@@ -385,7 +385,7 @@
 }, {
   "name" : "Busan South Korea",
   "title" : "Busan South Korea Wallpaper",
-  "folderName" : "Busan South Korea Wallpaper",
+  "folderName" : "BusanSouthKoreaWallpaper",
   "url" : "/busan-south-korea",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/17672.jpg",
@@ -393,7 +393,7 @@
 }, {
   "name" : "Los Angeles City",
   "title" : "Los Angeles City Wallpaper",
-  "folderName" : "Los Angeles City Wallpaper",
+  "folderName" : "LosAngelesCityWallpaper",
   "url" : "/los-angeles-city",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/221251.jpg",
@@ -401,7 +401,7 @@
 }, {
   "name" : "Barcelona Desktop",
   "title" : "Barcelona Desktop Wallpaper",
-  "folderName" : "Barcelona Desktop Wallpaper",
+  "folderName" : "BarcelonaDesktopWallpaper",
   "url" : "/barcelona-desktop",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/450517.jpg",
@@ -409,7 +409,7 @@
 }, {
   "name" : "Rome",
   "title" : "Rome Wallpaper",
-  "folderName" : "Rome Wallpaper",
+  "folderName" : "RomeWallpaper",
   "url" : "/rome",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/115106.jpg",
@@ -417,7 +417,7 @@
 }, {
   "name" : "Paris Desktop",
   "title" : "Paris Desktop Wallpaper",
-  "folderName" : "Paris Desktop Wallpaper",
+  "folderName" : "ParisDesktopWallpaper",
   "url" : "/paris-desktop",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/316659.jpg",
@@ -425,7 +425,7 @@
 }, {
   "name" : "Beijing",
   "title" : "Beijing Wallpaper",
-  "folderName" : "Beijing Wallpaper",
+  "folderName" : "BeijingWallpaper",
   "url" : "/beijing",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/160103.jpg",
@@ -433,7 +433,7 @@
 }, {
   "name" : "Bangkok at Night",
   "title" : "Bangkok at Night Wallpaper",
-  "folderName" : "Bangkok at Night Wallpaper",
+  "folderName" : "BangkokatNightWallpaper",
   "url" : "/bangkok-at-night",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/89521.jpg",
@@ -441,7 +441,7 @@
 }, {
   "name" : "Vienna",
   "title" : "Vienna Wallpaper",
-  "folderName" : "Vienna Wallpaper",
+  "folderName" : "ViennaWallpaper",
   "url" : "/vienna",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/156593.jpg",
@@ -449,7 +449,7 @@
 }, {
   "name" : "New York HD",
   "title" : "New York HD Wallpaper",
-  "folderName" : "New York HD Wallpaper",
+  "folderName" : "NewYorkHDWallpaper",
   "url" : "/new-york-hd",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/123346.jpg",
@@ -457,7 +457,7 @@
 }, {
   "name" : "Cairo",
   "title" : "Cairo Wallpaper",
-  "folderName" : "Cairo Wallpaper",
+  "folderName" : "CairoWallpaper",
   "url" : "/cairo",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/110022.jpg",
@@ -465,7 +465,7 @@
 }, {
   "name" : "Singapore",
   "title" : "Singapore Wallpaper",
-  "folderName" : "Singapore Wallpaper",
+  "folderName" : "SingaporeWallpaper",
   "url" : "/singapore",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/189061.jpg",
@@ -473,7 +473,7 @@
 }, {
   "name" : "Dubai",
   "title" : "Dubai Wallpaper",
-  "folderName" : "Dubai Wallpaper",
+  "folderName" : "DubaiWallpaper",
   "url" : "/dubai",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/222675.jpg",
@@ -481,7 +481,7 @@
 }, {
   "name" : "St. Petersburg",
   "title" : "St. Petersburg Wallpaper",
-  "folderName" : "St. Petersburg Wallpaper",
+  "folderName" : "St.PetersburgWallpaper",
   "url" : "/st-petersburg",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/508335.jpg",
@@ -489,7 +489,7 @@
 }, {
   "name" : "Mowscow",
   "title" : "Mowscow Wallpaper",
-  "folderName" : "Mowscow Wallpaper",
+  "folderName" : "MowscowWallpaper",
   "url" : "/mowscow",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/513597.jpg",
@@ -497,7 +497,7 @@
 }, {
   "name" : "Greece",
   "title" : "Greece Wallpaper",
-  "folderName" : "Greece Wallpaper",
+  "folderName" : "GreeceWallpaper",
   "url" : "/greece",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/42008.jpg",
@@ -505,7 +505,7 @@
 }, {
   "name" : "Detroit City",
   "title" : "Detroit City Wallpaper",
-  "folderName" : "Detroit City Wallpaper",
+  "folderName" : "DetroitCityWallpaper",
   "url" : "/detroit-city",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/104443.jpg",
@@ -513,7 +513,7 @@
 }, {
   "name" : "New York",
   "title" : "New York Wallpaper",
-  "folderName" : "New York Wallpaper",
+  "folderName" : "NewYorkWallpaper",
   "url" : "/new-york",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/26313.jpg",
@@ -521,7 +521,7 @@
 }, {
   "name" : "London",
   "title" : "London Wallpaper",
-  "folderName" : "London Wallpaper",
+  "folderName" : "LondonWallpaper",
   "url" : "/london",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/32511.jpg",
@@ -529,7 +529,7 @@
 }, {
   "name" : "Hong Kong",
   "title" : "Hong Kong Wallpaper",
-  "folderName" : "Hong Kong Wallpaper",
+  "folderName" : "HongKongWallpaper",
   "url" : "/hong-kong",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/51426.jpg",
@@ -537,7 +537,7 @@
 }, {
   "name" : "Kyoto",
   "title" : "Kyoto Wallpaper",
-  "folderName" : "Kyoto Wallpaper",
+  "folderName" : "KyotoWallpaper",
   "url" : "/kyoto",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/19266.jpg",
@@ -545,7 +545,7 @@
 }, {
   "name" : "Prague",
   "title" : "Prague Wallpaper",
-  "folderName" : "Prague Wallpaper",
+  "folderName" : "PragueWallpaper",
   "url" : "/prague",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/41211.jpg",
@@ -553,7 +553,7 @@
 }, {
   "name" : "Tokyo",
   "title" : "Tokyo Wallpaper",
-  "folderName" : "Tokyo Wallpaper",
+  "folderName" : "TokyoWallpaper",
   "url" : "/tokyo",
   "category" : "/city",
   "thumbSource" : "https://wallpaperaccess.com/thumb/19067.jpg",

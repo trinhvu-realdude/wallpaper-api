@@ -1,7 +1,7 @@
 [ {
   "name" : "Happy Chocolate Day",
   "title" : "Happy Chocolate Day Wallpaper",
-  "folderName" : "Happy Chocolate Day Wallpaper",
+  "folderName" : "HappyChocolateDayWallpaper",
   "url" : "/chocolate-day",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/5197367.png",
@@ -9,7 +9,7 @@
 }, {
   "name" : "Cinco de Mayo",
   "title" : "Cinco de Mayo Wallpaper",
-  "folderName" : "Cinco de Mayo Wallpaper",
+  "folderName" : "CincodeMayoWallpaper",
   "url" : "/cinco-de-mayo",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2713536.jpg",
@@ -17,7 +17,7 @@
 }, {
   "name" : "Presidents Day",
   "title" : "Presidents Day Wallpaper",
-  "folderName" : "Presidents Day Wallpaper",
+  "folderName" : "PresidentsDayWallpaper",
   "url" : "/presidents-day",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2063024.jpg",
@@ -25,7 +25,7 @@
 }, {
   "name" : "Hanukkah",
   "title" : "Hanukkah Wallpaper",
-  "folderName" : "Hanukkah Wallpaper",
+  "folderName" : "HanukkahWallpaper",
   "url" : "/hanukkah",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1928765.jpg",
@@ -33,7 +33,7 @@
 }, {
   "name" : "Veterans Day",
   "title" : "Veterans Day Wallpaper",
-  "folderName" : "Veterans Day Wallpaper",
+  "folderName" : "VeteransDayWallpaper",
   "url" : "/veterans-day",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1211342.jpg",
@@ -41,7 +41,7 @@
 }, {
   "name" : "Valentine's Day",
   "title" : "Valentine's Day Wallpaper",
-  "folderName" : "Valentine's Day Wallpaper",
+  "folderName" : "Valentine'sDayWallpaper",
   "url" : "/valentines-day",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/5157794.jpg",
@@ -49,7 +49,7 @@
 }, {
   "name" : "Saint Patrick's Day",
   "title" : "Saint Patrick's Day Wallpaper",
-  "folderName" : "Saint Patrick's Day Wallpaper",
+  "folderName" : "SaintPatrick'sDayWallpaper",
   "url" : "/saint-patricks-day",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/678938.jpg",
@@ -57,7 +57,7 @@
 }, {
   "name" : "Fourth of July",
   "title" : "Fourth of July Wallpaper",
-  "folderName" : "Fourth of July Wallpaper",
+  "folderName" : "FourthofJulyWallpaper",
   "url" : "/fourth-of-july",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/249465.jpg",
@@ -65,7 +65,7 @@
 }, {
   "name" : "Chinese New Year",
   "title" : "Chinese New Year Wallpaper",
-  "folderName" : "Chinese New Year Wallpaper",
+  "folderName" : "ChineseNewYearWallpaper",
   "url" : "/chinese-new-year",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/91862.jpg",
@@ -73,7 +73,7 @@
 }, {
   "name" : "Easter",
   "title" : "Easter Wallpaper",
-  "folderName" : "Easter Wallpaper",
+  "folderName" : "EasterWallpaper",
   "url" : "/easter",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/332366.jpg",
@@ -81,7 +81,7 @@
 }, {
   "name" : "Memorial Day",
   "title" : "Memorial Day Wallpaper",
-  "folderName" : "Memorial Day Wallpaper",
+  "folderName" : "MemorialDayWallpaper",
   "url" : "/memorial-day",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/192582.jpg",
@@ -89,7 +89,7 @@
 }, {
   "name" : "Halloween",
   "title" : "Halloween Wallpaper",
-  "folderName" : "Halloween Wallpaper",
+  "folderName" : "HalloweenWallpaper",
   "url" : "/halloween",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/86428.jpg",
@@ -97,7 +97,7 @@
 }, {
   "name" : "Christmas",
   "title" : "Christmas Wallpaper",
-  "folderName" : "Christmas Wallpaper",
+  "folderName" : "ChristmasWallpaper",
   "url" : "/christmas",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/194898.jpg",
@@ -105,7 +105,7 @@
 }, {
   "name" : "Thanksgiving",
   "title" : "Thanksgiving Wallpaper",
-  "folderName" : "Thanksgiving Wallpaper",
+  "folderName" : "ThanksgivingWallpaper",
   "url" : "/thanksgiving",
   "category" : "/holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/20938.jpg",
