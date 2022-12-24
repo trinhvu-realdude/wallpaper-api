@@ -1,0 +1,113 @@
+[ {
+  "name" : "Abstract",
+  "icon" : "🌀",
+  "url" : "/cat/abstract"
+}, {
+  "name" : "Aesthetic",
+  "icon" : "🌻",
+  "url" : "/cat/aesthetic"
+}, {
+  "name" : "Animals",
+  "icon" : "🐶",
+  "url" : "/cat/animals"
+}, {
+  "name" : "Anime",
+  "icon" : "💥",
+  "url" : "/cat/anime"
+}, {
+  "name" : "Art",
+  "icon" : "🎨",
+  "url" : "/cat/art"
+}, {
+  "name" : "Bollywood",
+  "icon" : "🤩",
+  "url" : "/cat/bollywood"
+}, {
+  "name" : "Cars",
+  "icon" : "🚗",
+  "url" : "/cat/cars"
+}, {
+  "name" : "Celebrities",
+  "icon" : "👥",
+  "url" : "/cat/celebrities"
+}, {
+  "name" : "City",
+  "icon" : "🌆",
+  "url" : "/cat/city"
+}, {
+  "name" : "Colors",
+  "icon" : "🌈",
+  "url" : "/cat/colors"
+}, {
+  "name" : "Comics",
+  "icon" : "🗯️",
+  "url" : "/cat/comics"
+}, {
+  "name" : "Devices",
+  "icon" : "📱",
+  "url" : "/cat/devices"
+}, {
+  "name" : "Fantasy",
+  "icon" : "🧚",
+  "url" : "/cat/fantasy"
+}, {
+  "name" : "Flowers",
+  "icon" : "🌹",
+  "url" : "/cat/flowers"
+}, {
+  "name" : "Games",
+  "icon" : "🎮",
+  "url" : "/cat/games"
+}, {
+  "name" : "Holidays",
+  "icon" : "🎃",
+  "url" : "/cat/holidays"
+}, {
+  "name" : "Horror",
+  "icon" : "🧟",
+  "url" : "/cat/horror"
+}, {
+  "name" : "Love",
+  "icon" : "❤️",
+  "url" : "/cat/love"
+}, {
+  "name" : "Movies",
+  "icon" : "🎞️",
+  "url" : "/cat/movies"
+}, {
+  "name" : "Music",
+  "icon" : "🎤",
+  "url" : "/cat/music"
+}, {
+  "name" : "Nature",
+  "icon" : "🌳",
+  "url" : "/cat/nature"
+}, {
+  "name" : "Other",
+  "icon" : "➕",
+  "url" : "/cat/other"
+}, {
+  "name" : "Resolutions",
+  "icon" : "↔️",
+  "url" : "/cat/resolutions"
+}, {
+  "name" : "Space",
+  "icon" : "🚀",
+  "url" : "/cat/space"
+}, {
+  "name" : "Sport",
+  "icon" : "🏀",
+  "url" : "/cat/sport"
+}, {
+  "name" : "Textures",
+  "icon" : "📜",
+  "url" : "/cat/textures"
+}, {
+  "name" : "Travel",
+  "icon" : "✈️",
+  "url" : "/cat/travel"
+}, {
+  "name" : "TV",
+  "icon" : "📺",
+  "url" : "/cat/tv"
+} ]
