@@ -1,113 +1,113 @@
 [ {
   "name" : "Happy Chocolate Day",
   "title" : "Happy Chocolate Day Wallpaper",
-  "folderName" : "HappyChocolateDayWallpaper",
+  "folderName" : "Happy Chocolate Day Wallpaper",
   "url" : "/chocolate-day",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/5197367.png",
   "quantity" : 42
 }, {
   "name" : "Cinco de Mayo",
   "title" : "Cinco de Mayo Wallpaper",
-  "folderName" : "CincodeMayoWallpaper",
+  "folderName" : "Cinco de Mayo Wallpaper",
   "url" : "/cinco-de-mayo",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2713536.jpg",
   "quantity" : 38
 }, {
   "name" : "Presidents Day",
   "title" : "Presidents Day Wallpaper",
-  "folderName" : "PresidentsDayWallpaper",
+  "folderName" : "Presidents Day Wallpaper",
   "url" : "/presidents-day",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/2063024.jpg",
   "quantity" : 46
 }, {
   "name" : "Hanukkah",
   "title" : "Hanukkah Wallpaper",
-  "folderName" : "HanukkahWallpaper",
+  "folderName" : "Hanukkah Wallpaper",
   "url" : "/hanukkah",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1928765.jpg",
   "quantity" : 46
 }, {
   "name" : "Veterans Day",
   "title" : "Veterans Day Wallpaper",
-  "folderName" : "VeteransDayWallpaper",
+  "folderName" : "Veterans Day Wallpaper",
   "url" : "/veterans-day",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/1211342.jpg",
   "quantity" : 51
 }, {
   "name" : "Valentine's Day",
   "title" : "Valentine's Day Wallpaper",
-  "folderName" : "Valentine'sDayWallpaper",
+  "folderName" : "Valentine's Day Wallpaper",
   "url" : "/valentines-day",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/5157794.jpg",
   "quantity" : 80
 }, {
   "name" : "Saint Patrick's Day",
   "title" : "Saint Patrick's Day Wallpaper",
-  "folderName" : "SaintPatrick'sDayWallpaper",
+  "folderName" : "Saint Patrick's Day Wallpaper",
   "url" : "/saint-patricks-day",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/678938.jpg",
   "quantity" : 57
 }, {
   "name" : "Fourth of July",
   "title" : "Fourth of July Wallpaper",
-  "folderName" : "FourthofJulyWallpaper",
+  "folderName" : "Fourth of July Wallpaper",
   "url" : "/fourth-of-july",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/249465.jpg",
   "quantity" : 45
 }, {
   "name" : "Chinese New Year",
   "title" : "Chinese New Year Wallpaper",
-  "folderName" : "ChineseNewYearWallpaper",
+  "folderName" : "Chinese New Year Wallpaper",
   "url" : "/chinese-new-year",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/91862.jpg",
   "quantity" : 43
 }, {
   "name" : "Easter",
   "title" : "Easter Wallpaper",
-  "folderName" : "EasterWallpaper",
+  "folderName" : "Easter Wallpaper",
   "url" : "/easter",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/332366.jpg",
   "quantity" : 69
 }, {
   "name" : "Memorial Day",
   "title" : "Memorial Day Wallpaper",
-  "folderName" : "MemorialDayWallpaper",
+  "folderName" : "Memorial Day Wallpaper",
   "url" : "/memorial-day",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/192582.jpg",
   "quantity" : 57
 }, {
   "name" : "Halloween",
   "title" : "Halloween Wallpaper",
-  "folderName" : "HalloweenWallpaper",
+  "folderName" : "Halloween Wallpaper",
   "url" : "/halloween",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/86428.jpg",
   "quantity" : 75
 }, {
   "name" : "Christmas",
   "title" : "Christmas Wallpaper",
-  "folderName" : "ChristmasWallpaper",
+  "folderName" : "Christmas Wallpaper",
   "url" : "/christmas",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/194898.jpg",
   "quantity" : 47
 }, {
   "name" : "Thanksgiving",
   "title" : "Thanksgiving Wallpaper",
-  "folderName" : "ThanksgivingWallpaper",
+  "folderName" : "Thanksgiving Wallpaper",
   "url" : "/thanksgiving",
-  "category" : "/holidays",
+  "category" : "/Holidays",
   "thumbSource" : "https://wallpaperaccess.com/thumb/20938.jpg",
   "quantity" : 86
 } ]
