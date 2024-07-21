@@ -28,20 +28,42 @@ exports.getImagesByTag = (req, res) => {
 
 exports.getRandomTags = (req, res) => {
     let results = [];
+    const resolutionSet = new Set();
 
+    // get tags
     const dataCategories = fs.readFileSync("data/categories.json");
     const categories = JSON.parse(dataCategories);
 
     categories.forEach(category => {
         const dataTags = fs.readFileSync(`data/${category.name}/${category.name}-tags.json`);
         const tags = JSON.parse(dataTags);
+
+        tags.forEach(tag => {
+            try {
+                const dataImages = fs.readFileSync(`data/${category.name}/${tag.folderName}/${tag.url.replace("/", "")}.json`);
+                const images = JSON.parse(dataImages);
+
+                images.forEach(image => {
+                    resolutionSet.add(image.resolution);
+                })
+            } catch(e) {
+                console.error(`${e}`);
+            }
+        })
         
         const random = Math.floor(Math.random() * tags.length);
 
         results.push(tags[random]);
     });
 
-    res.send({results: results});
+    let resolutions = [];
+
+    for (let i = 0; i < 20; i++) {
+        const random = Math.floor(Math.random() * resolutionSet.size);  
+        resolutions.push([...resolutionSet][random]);
+    }
+
+    res.send({results: results, resolutions: resolutions});
 };
 
 exports.searchTags = (req, res) => {
@@ -82,5 +104,36 @@ exports.getRelatedTags = (req, res) => {
         results.push(newList[i]);  
     }
     
+    res.send({results: results});
+}
+
+exports.getImagesByResolution = (req, res) => {
+    let results = [];
+
+    const resolution = req.params.resolution;
+
+    const dataCategories = fs.readFileSync("data/categories.json");
+    const categories = JSON.parse(dataCategories);
+
+    categories.forEach(category => {
+        const dataTags = fs.readFileSync(`data/${category.name}/${category.name}-tags.json`);
+        const tags = JSON.parse(dataTags);
+        
+        tags.forEach(tag => {
+            try {
+                const dataImages = fs.readFileSync(`data/${category.name}/${tag.folderName}/${tag.url.replace("/", "")}.json`);
+                const images = JSON.parse(dataImages);
+
+                images.forEach(image => {
+                    if (image.resolution === resolution) {
+                        results.push(image);
+                    }
+                })
+            } catch(e) {
+                console.error(`${e}`);
+            }
+        })
+    });
+
     res.send({results: results});
 }

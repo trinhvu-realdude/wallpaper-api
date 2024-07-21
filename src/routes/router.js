@@ -8,7 +8,7 @@ router.post("/categories", controller.getCategories);
 
 // get tags by category
 router.post("/tags/:category", controller.getTagsByCategory);
-
+ 
 // get list of images by tag
 router.post("/:tag/:category", controller.getImagesByTag);
 
@@ -21,4 +21,5 @@ router.post("/search", controller.searchTags);
 // get related tag
 router.post("/related", controller.getRelatedTags);
 
-module.exports = router;
+router.post("/:resolution", controller.getImagesByResolution);
+
