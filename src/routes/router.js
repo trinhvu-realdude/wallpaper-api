@@ -23,3 +23,4 @@ router.post("/related", controller.getRelatedTags);
 
 router.post("/:resolution", controller.getImagesByResolution);
 
+module.exports = router;
